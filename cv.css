@@ -30,11 +30,20 @@
 }
 .container {
     font-family: "Arial", Times, serif;
-    grid-template-columns: 2fr 3fr;
     display: flex;
-    /*background: linear-gradient(to right, blanchedalmond 30%, transparent 30%;*/
+    justify-content: space-around;
+    background: linear-gradient(to right, bisque 40%, transparent 40%);
 }
 .container-box {
-    margin: 80px 0 0 80px;
+    width: 350px;
+    height: 500px;
     flex: 2;
+}
+.main-container {
+    margin: 30px 0 30px 0;
+    display: flex;
+    padding: 0 5px;
+}
+.footer img{
+    margin-left: 20px;
 }
