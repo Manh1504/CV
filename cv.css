@@ -1,0 +1,58 @@
+.body {
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+}
+.header {
+}
+
+.content {
+    max-width: 1500px;
+    margin: 30px 0 30px 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5px;
+}
+
+.content div, nav {
+    display: inline-block;
+    margin: 0 20px 0 20px;
+    text-align: center;
+}
+.content div div{
+    margin: 0 0 0 10px;
+}
+.header-nav div a {
+    text-decoration: none;
+    color: black;
+}
+.header-nav div a:hover {
+    color: blue;
+}
+.container {
+    font-family: "Arial", Times, serif;
+    display: flex;
+    justify-content: space-around;
+    background: linear-gradient(to right, bisque 40%, transparent 40%);
+}
+.container-box {
+    width: 350px;
+    height: 500px;
+    flex: 2;
+    margin-left: 20px;
+}
+.main-container {
+    margin: 30px 0 30px 0;
+    display: flex;
+    padding: 0 5px;
+}
+.footer img{
+    margin-left: 20px;
+}
+.main-container {
+    margin: 30px 0 30px 0;
+    display: flex;
+    padding: 0 5px;
+}
+.footer img{
+    margin-left: 20px;
+}
