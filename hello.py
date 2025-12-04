@@ -1,484 +1,534 @@
-CHƯƠNG 1: NHẬP MÔN CHỦ NGHĨA XÃ HỘI KHOA HỌC
-1.	Chủ nghĩa xã hội khoa học ra đời là một quá trình tất yếu của?
-→ Lịch sử tư tưởng xã hội chủ nghĩa.
-2.	Chủ nghĩa xã hội trước Mác được gọi là?
-→ Chủ nghĩa xã hội không tưởng.
-3.	Chủ nghĩa không tưởng - phê phán Pháp và Anh đầu thế kỷ XIX với các đại biểu xuấtsắc là?
-→ Xanh Ximông, S.Phuriê, R.Oen.
-4.	Chủ nghĩa xã hội khoa học theo nghĩa rộng là?
-→ Chủ nghĩa Mác-Lênin.
-5.	Chủ nghĩa xã hội khoa học theo nghĩa hẹp là?
-→ Một trong 3 bộ phận hợp thành của chủ nghĩa Mác – Lênin.
-6.	Chủ nghĩa Mác – Lênin là?
-→ Học thuyết khoa học về sự nghiệp giải phóng giai cấp công nhân và nhân dân lao động khỏi mọi hình thức áp bức bóc lột bất công.
-7.	Chủ nghĩa Mác – Lênin được cấu thành từ 3 bộ phận lí luận cơ bản theo cấu trúc logic: Triết học Mác - Lênin, KTCT Mác - Lênin, CNXHKH.
-8.	Điều kiện khách quan dẫn đến sự ra đời CNXHKH là?
-→ Điều kiện kinh tế - xã hội.
-9.	Tiền đề khách quan dẫn đến sự ra đời CNXHKH là? Tiền đề khoa học tự nhiên và tư tưởng lí luận.
-10.	Tiền đề tư tưởng lý luận trực tiếp dẫn đến sự ra đời của CNXHKH là?
-→ Chủ nghĩa xã hội không tưởng phê phán Pháp.
-11.	Mác và Ăngghen đã tiếp thu những giá trị của nền triết học cổ điển Đức, kinh tế chínhtrị học cổ điển Anh và kho tàng tri thức nhân loại để các ông trở thành? → Những nhà khoa học thiên tài, những nhà cách mạng vĩ đại nhất thời đại.
-→ Khi viết tác phẩm “Ba nguồn gốc và ba bộ phận cấu thành của chủ nghĩa Mác” ai đã khẳng định: “Nó là người kế thừa chính đáng của tất cả những cái tốt đẹp nhất mà loài người đã tạo ra hồi thế kỷ XIX đó là triết học Đức, KTCT học Anh, CNXH Pháp”?
- 
-→ Lênin
-12.	“Vào những năm 40 thế kỷ XIX dưới tác động của nền đại công nghiệp đã làm chophương thức sản xuất TBCN có bước phát triển vượt bậc dẫn đến mâu thuẫn giữa LLSX mang tính chất xã hội và QHSX dựa trên chế độ chiếm hữu tư nhân TBCN về tư liệu sản xuất bộc lộ gay gắt”. Đây là điều kiện gì đối với sự ra đời CNXH?
-→ Điều kiện kinh tế
-13.	“Giai cấp tư sản trong quá trình thống trị giai cấp chưa đầy một thế kỷ đã tạo ra lựclượng sản xuất nhiều hơn đồ sộ hơn lực lượng sản xuất của các thế hệ trước kia gộp lại” luận điểm này là của ai?
-→ Mác – Ăngghen
-14.	Cùng với quá trình phát triển của nền đại công nghiệp, sự ra đời của hai giai cấp luôncó lợi ích cơ bản đối lập nhau đó là?
-→ Tư sản và Công nhân
-15.	Nếu năm 1831 phong trào đấu tranh công nhân ở thành phố Lion (Pháp) giương caokhẩu hiệu thuần túy có tính chất kinh tế “Sống có việc làm hay chết trong đấu tranh” thì đến năm 1834 khẩu hiệu của phong trào công nhân đã chuyển sang mục đích chính trị, đó là?
-→ “Cộng hòa hay là chết”
-16.	Sự phát triển nhanh chóng có tính chính trị phong trào công nhân diễn ra những năm40 thế kỷ XIX đã minh chứng lần đầu tiên giai cấp nào đã xuất hiện như một lực lượng chính trị độc lập hướng thẳng mũi nhọn của cuộc đấu tranh vào giai cấp tư sản?
-→ Giai cấp công nhân
-17.	Điều kiện chủ quan để CNXHKH ra đời là?
-→ Vai trò của Mác – Ăngghen.
-18.	Sự chuyển biến lập trường triết học và chính trị của Mác – Ăngghen vào những năm1843 – 1848, đó là?
-→ Chuyển từ lập trường thế giới quan duy tâm sang thế giới quan duy vật, chuyển từ lập trường dân chủ cách mạng sang lập trường cộng sản chủ nghĩa.
-19.	3 phát kiến vĩ đại của Mác và Ăngghen là?
-→ Chủ nghĩa duy vật lịch sử, học thuyết giá trị thặng dư và học thuyết sứ mệnh lịch sử của giai cấp công nhân.
- 
-20.	Tác phẩm nào đánh dấu sự ra đời của CNXHKH?
-→ Tuyên ngôn Đảng cộng sản.
-21.	Tác phẩm kinh điển chủ yếu của CNXHKH và là cương lĩnh chính trị đầu tiên củaphong trào công nhân và Đảng cộng sản là?
-→ Tuyên ngôn Đảng cộng sản.
-22.	Tác phẩm “Tuyên ngôn Đảng cộng sản” do ai viết?
-→ Mác – Ăngghen (2/1848).
-23.	Phát triển chủ nghĩa xã hội không tưởng thành CNXHKH. Đó là công lao của? Mác – Ăngghen.
-24.	Ăngghen đã luận chứng về sự ra đời, phát triển của CNXH từ không tưởng đến khoahọc trong tác phẩm nào?
-→ Chống Đuyrinh (1878).
-25.	Từ khi ra đời đến nay, CNXHKH phát triển qua các giai đoạn cơ bản nào?
-→ 3 giai đoạn:
-+ Mác – Ăngghen phát triển CNXHKH.
-+ Lênin vận dụng và phát triển CNXHKH trong điều kiện mới.
-+ Sự vận dụng phát triển và sáng tạo CNXHKH từ sau khi Lênin qua đời đến nay.
-26.	Ai là người có công lao lớn nhất làm cho CNXHKH từ học thuyết trở thành hiện thựcsinh động trên thế giới?
-→ Lênin
-27.	Phát kiến vĩ đại nào của Mác – Ăngghen đã luận chứng và khẳng định sự diệt vongkhông tránh khỏi CNTB và sự thắng lợi tất yếu của CNXH?
-→ Phát kiến thứ 3: học thuyết sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.
-28.	“Vô sản tất cả các nước và các dân tộc bị áp bức, đoàn kết lại với nhau” là lời kêugọi của?
-→ Lênin
-29.	Đối tượng nghiên cứu của CNXHKH là?
- 
-→ Đó là những quy luật, tính quy luật chính trị xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế xã hội CSCN.
-30.	CNXHKH sử dụng phương pháp luận chung nhất nào để luận giải sứ mệnh lịch sửcủa giai cấp công nhân và hình thái kinh tế xã hội CSCN?
-→ Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử của triết học Mác - Lênin.
-31.	Việc nghiên cứu học tập CNXHKH có ý nghĩa về mặt?
-→ Lí luận và thực tiễn.
-CHƯƠNG 2: SỨ MỆNH LỊCH SỬ CỦA GIAI CẤP CÔNG NHÂN
-1.	Phạm trù nào được xem là trung tâm, nguyên lý xuất phát của CNXHKH và cũng làtrọng điểm của cuộc đấu tranh tư tưởng lý luận trong thời đại ngày nay?
-→ Phạm trù sứ mệnh lịch sử của giai cấp công nhân.
-2.	Giai cấp công nhân là một tập đoàn xã hội, hình thành và phát triển cùng với ... pháttriển hiện đại, họ lao động bằng ... ngày càng hiện đại và gắn liền với quá trình ... hiện đại, là đại biểu cho LLSX và PTSX tiên tiến.
-→ nền công nghiệp/ phương thức công nghiệp/ sản xuất vật chất.
-3.	Mác và Ăngghen đã dựa vào những phát kiến nào để xây dựng luận chứng về sứ mệnhlịch sử của giai cấp công nhân?
-→ 2 phát kiến là: chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư.
-4.	Giai cấp công nhân thông qua chính Đảng tiền phong ... nhân dân lao động, đấu tranhxóa bỏ CNTB, xóa bỏ chế độ bóc lột con người, giải phóng giai cấp công nhân, nhân dân lao động khỏi mọi áp bức, bóc lột, nghèo nàn, lạc hậu, xây dựng xã hội CSCN văn minh.
-→ Giai cấp công nhân tổ chức, lãnh đạo.
-5.	Giai cấp công nhân là lực lượng đại biểu lực lượng sản xuất, phương thức sản xuất:
-→ Tiên tiến.
-6.	Sứ mệnh lịch sử của giai cấp công nhân được quy định và thực hiện bởi:
-→ Điều kiện khách quan và điều kiện chủ quan.
-7.	Điều kiện KHÁCH QUAN quy định sứ mệnh lịch sử của giai cấp công nhân là do:
-→ Địa vị kinh tế và địa vị chính trị - xã hội của giai cấp công nhân.
- 
-8.	Điều kiện CHỦ QUAN để giai cấp công nhân thực hiện sứ mệnh lịch sử là:
-→ Sự phát triển của bản thân giai cấp công nhân và vai trò của ĐCS.
-9.	Giai cấp công nhân có lợi ích cơ bản thống nhất với lợi ích cơ bản của:
-→ Đại đa số nhân dân lao động.
-10.	Mâu thuẫn giữa LLSX mang tính chất xã hội hoá cao và QHSX dựa trên chế độchiếm hữu tư nhân TBCN về TLSX biểu hiện về mặt xã hội là mâu thuẫn giữa:
-→ Giai cấp tư sản và giai cấp công nhân.
-11.	Nguồn gốc của sự giàu có của các nhà tư bản là do:
-→ Bóc lột ngày càng nhiều hơn giá trị thặng dư của giai cấp công nhân.
-12.	Giai cấp công nhân có mấy đặc điểm chủ yếu?
-→ 3 đặc điểm.
-13.	Giai cấp công nhân là giai cấp ... và có tinh thần ...
-→ tiên phong cách mạng/ cách mạng triệt để.
-14.	Mác và Ăngghen khẳng định: “Trong tất cả các giai cấp hiện đang đối lập với giai cấptư sản thì chỉ có ... là thực sự cách mạng, giai cấp vô sản lại là ... của bản thân nền đại công nghiệp.”
-→ giai cấp vô sản - sản phẩm.
-15.	“Thực hiện sự nghiệp giải phóng thế giới ấy - đó là sứ mệnh lịch sử của giai cấp vôsản hiện đại”. Luận điểm này là của ai?
-→ Mác.
-16.	Một trong những nét mới của giai cấp công nhân thế giới hiện nay là:
-→ Lực lượng lao động có trình độ học vấn ngày càng nâng cao được đào tạo nghề nghiệp nhất định trong cơ cấu lao động.
-17.	Điểm tương đồng GCCN hiện nay với GCCN thế kỷ XIX là?
-→ LLSX hàng đầu của xã hội hiện đại, là chủ thể của quá trình sản xuất công nghiệp hiện đại, ở các nước TBCN hiện nay GCCN vẫn bị GCTS bóc lột giá trị thặng dư.
-18.	Những biến đổi và khác biệt của giai cấp công nhân hiện nay so với công nhân thế kỷXIX là:
- 
-→ Xu hướng “trí tuệ hóa” trong tăng nhanh, một bộ phận công nhân đã tham gia vào sở hữu một lượng TLSX của xã hội thông qua chế độ cổ phần hoá.
-19.	Nhân tố chủ quan quan trọng nhất để GCCN thực hiện thắng lợi sứ mệnh lịch sử là:
-→ Vai trò lãnh đạo của Đảng cộng sản.
-20.	Sự lãnh đạo của Đảng cộng sản là:
-→ Nhân tố chủ quan quan trọng nhất để GCCN thực hiện thắng lợi sứ mệnh lịch sử.
-21.	Yếu tố giữ vai trò quyết định nhất tinh thần cách mạng triệt để của GCCN là:
-→ GCCN là đại biểu cho LLSX và PTSX tiên tiến.
-22.	Phong trào đấu tranh của giai cấp công nhân chuyển từ tự phát sang tự giác khi có:
-→ Lý luận CNXHKH và Đảng cộng sản lãnh đạo.
-23.	Quy luật chung, phổ biến cho sự ra đời Đảng cộng sản là:
-→ Sự kết hợp giữa chủ nghĩa Mác - Lênin với phong trào công nhân.
-24.	Đảng cộng sản tổ chức và sinh hoạt theo nguyên tắc cơ bản nào?
-→ Tập trung dân chủ.
-25.	ĐCS là đội tiên phong của ... đại biểu trung thành của ... giai cấp công nhân và nhândân lao động, lấy chủ nghĩa Mác-Lênin làm kim chỉ nam cho hành động, tổ chức theo nguyên tắc tập trung dân chủ, có mối liên hệ mật thiết với quần chúng.
-→ giai cấp công nhân/ lợi ích.
-26.	ĐCS bao gồm những ... trong GCCN được trang bị lí luận ... cách mạng.
-→ người tiên phong/ khoa học.
-27.	ĐCS ra đời là sự kết hợp:
-→ Chủ nghĩa Mác-Lênin với phong trào công nhân và phong trào yêu nước.
-28.	ĐCS Việt Nam do ai sáng tạo, lãnh đạo và rèn luyện:
-→ Hồ Chí Minh.
-29.	GCCN Việt Nam là một ... to lớn, đang phát triển bao gồm những người lao động ...làm công hưởng lương.
-→ lực lượng xã hội/ chân tay và trí óc.
-30.	GCCN Việt Nam ra đời và phát triển gắn liền với:
- 
-→ Chính sách khai thác thuộc địa của thực dân Pháp ở Việt Nam đầu TK XIX.
-31.	Đại bộ phận GCCN Việt Nam xuất phát từ:
-→ giai cấp nông dân và các tầng lớp lao động khác.
-32.	ĐCS Việt Nam là đội tiên phong của GCCN, đồng thời là đội tiên phong của nhândân lao động và của toàn dân tộc Việt Nam, đại biểu trung thành ... của GCCN, nhân dân lao động và cả dân tộc, Đảng lấy chủ nghĩa Mác-Lênin và Tư tưởng Hồ Chí Minh làm nền tảng tư tưởng và kim chỉ nam cho hành động, lấy ... làm nguyên tắc tổ chức cơ bản của Đảng.
-→ lợi ích/ tập trung dân chủ.
-33.	GCCN nước ta có ... to lớn, là giai cấp lãnh đạo cách mạng, thông qua đội tiền phonglà ĐCS Việt Nam, giai cấp đại diện cho ..., giai cấp tiên phong đi đầu trong sự nghiệp CNH – HĐH đất nước, lực lượng ... trong liên minh với GCCN với GCND và đội ngũ tri thức dưới sự lãnh đạo của Đảng.
-→ sứ mệnh lịch sử / phương thức sản xuất tiên tiến/ nòng cốt.
-34.	Đại hội XIII của Đảng xác định: “Xây dựng GCCN Việt Nam hiện đại, lớn mạnh,nâng cao bản lĩnh ..., trình độ học vấn, chuyên môn, kỹ năng nghề nghiệp, tác phong công nghiệp, kỹ luật lao động, thích ứng với cuộc cách mạng công nghiệp lần thứ 4, tăng cường giáo dục ... cho GCCN, chăm lo đời sống vật chất tinh thần, nhà ở và phúc lợi xã hội cho công nhân, bảo vệ quyền, lợi ích hợp pháp, chính đáng của công nhân.” → chính trị/ chính trị tư tưởng.
-35.	Đại hội XIII của Đảng xác định: “Tiếp tục đẩy mạnh ... toàn diện, tăng cường bảnchất GCCN của Đảng, đổi mới ... ,nâng cao năng lực lãnh đạo cầm quyền của Đảng.” → xây dựng chỉnh đốn Đảng/ phương thức lãnh đạo.
-36.	Đại hội XIII của Đảng nêu rõ: “Xây dựng Đảng ta thực sự là ... là lực lượng ... đủ sứcmạnh lãnh đạo GCCN và toàn thể nhân dân tiến lên xây dựng đất nước giàu đẹp.”
-→ hạt nhân chính trị/ nòng cốt .
- 
-CHƯƠNG 3: CHỦ NGHĨA XÃ HỘI VÀ THỜI KÌ QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI
-1.	Theo CNMLN, CNXH là giai đoạn nào của hình thái KTXH cộng sản chủ nghĩa: giai đoạn thấp
-2.	Thay thế trường phái kinh tế của hình thái kinh tế xhcn bằng hình thái kinh tế cscn phảithông qua: cách mạng xhcn (do gccn tiến hành thông qua đội tiền phong là ĐCS)
-3.	Theo CNMLN, CNXH thường được tiếp cận theo các góc độ: 4 góc độ
-+ Là phong trào thực tiễn	+ Là một khoa học
-+ Là một chế độ xã hội tốt đẹp	+ Là trào lưu tư tưởng, lí luận
-4.	CNXH ra đời xuất phát từ những điều kiện chủ yếu nào? Điều kiện kinh tế và điều kiện chính trị xã hội
-5.	Theo CNMLN, CNXH có mấy đặc trưng cơ bản: 6 đặc trưng
-6.	Trong các đặc trưng của CNXH, đặc trưng nào thể hiện thuộc tính bản chất củaCNXH?
-CNXH là chế độ xã hội do nhân dân lao động làm chủ
-7.	Theo CNMLN, CNXH có 1 trong những đặc trưng cơ bản là: CNXH giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người, tạo điều kiện để con người phát triển toàn diện (6 đặc trưng trang 93)
-8.	Theo CNMac, CNXH có nền kinh tế phát triển cao dựa trên: lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu
-9.	C. Mác khẳng định tính tất yếu thời kì quá độ từ CNTB lên CNXH: “Giữa XH TBCN,CSCN có 1 thời kì cải biến cách mạng từ xh nọ thành xh kia, thích ứng với thời kì ấy là thời kì quá độ chính trị
-10.	Lênin trong điều điện nước Nga Xô viết khẳng định: “Về lí luận không thể nghi ngờgì được rằng giữa CNTB và CNCS có 1 thời kì quá độ nhất định”
-11.	Thực chất của thời kì quá độ lên CNXH là: những tàn tích của xh cũ và những nhân tố mới của CNXH tồn tại đan xen trên tất cả các lĩnh vực của đời sống xh
-12.	Đặc điểm cơ bản của thời kì quá độ lên CNXH: thời kì cải biến cách mạng sâu sắc, triệt để từ xh cũ sang xh mới trên tất cả các lĩnh vực của đời sống xh, xây dựng từng bước cơ sở vc – kĩ thuật của CNXH
-13.	Đặc điểm cơ bản về kinh tế trong thời kì quá độ lên CNXH: tồn tại nhiều thành phần kinh tế
- 
-14.	Đặc điểm cơ bản về chính trị trong thời kì quá độ: tồn tại nhiều giai cấp, tầng lớp xã hội khác nhau
-15.	Đường lối xuyên suốt của CM VN và cũng là đặc điểm cốt yếu trong di sản tư tưởngHCM là: độc lập dân tộc gắn liền CNXH
-16.	Cương lĩnh chính trị 1930 ĐCSVN khẳng định: “Tiến hành cách mạng dân tộc dân chủ nhân dân do giai cấp cn lãnh đạo tiến lên cnxh bỏ qua giai đoạn tbcn” 17. Thời kì quá độ lên cnxh trên phạm vi cả nước ta bắt đầu từ năm: 1975
-18.	Đại hội 9 của Đảng ta xác định con đường đi lên của nước ta là sự phát triển quá độ lêcnxh bỏ qua chế độ tbcn tức là: bỏ qua chế độ áp bức bất công bóc lột tbcn, bỏ qua thói hư tật xấu, những thiết chế thể chế chính trị không phù hợp với chế độ xhcn
-19.	Cương lĩnh xây dựng đất nước trong thời kì quá độ lên cnxh (bổ sung phát triển 2011) Đảng ta xác định xh xhcn mà nhân dân ta xây dựng có mấy đặc trưng cơ bản: 8 đặc trưng
-20.	Đặc trưng nào của xh xhcn mà nhân dân ta xây dựng còn là mục tiêu tổng quát của sựnghiệp xây dựng cnxh ở nước ta: Dân giàu, nước mạnh, dân chủ, công bằng, văn minh
-21.	Đảng ta xây dựng đặc trưng về kinh tế của xh xhcn mà nhân dân ta xây dựng là: có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ phù hợp
-22.	Đảng ta xây dựng có mấy phương hướng xây dựng cnxh ở VN hiện nay: 8 phương hướng
-23.	Đảng ta xác định một trong những phương hướng xây dựng cnxh ở VN hiện nay là: Đẩy mạnh CNH – HĐH đất nước gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên môi trường (trang 117)
-24.	Đảng ta xác định phương hướng phát triển kinh tế trong xây dựng cnxh ở nước tahiện nay là: phát triển nền kinh tế thị trường định hướng xhcn
-25.	Qua 35 năm tiến hành công cuộc đổi mới, 30 năm phát triển lên cnxh, đại hội 13 khẳng định: “Lí luận về đường lối đổi mới về cnxh và con đường đi lên cnxh ở nước ta ngày càng hoàn thiện và từng bước được hiện thực hóa”
-26.	ĐH 13 đánh giá thành tựu của 35 năm thực hiện…30 năm tiến hành xây dựng…thànhtựu là: chúng ta đã đạt được những thành tựu to lớn có ý nghĩa lịch sử, phát triển mạnh mẽ toàn diện hơn so với những năm trước đổi mới
- 
-27.	Khẳng định nào sau đây được thể hiện trong văn kiện đh lần thứ mấy: “Đất nước tachưa bao giờ có được cơ đồ, tiềm lực, vị thế và uy tín quốc tế như ngày nay”: ĐH 13
-28.	ĐH 13 xác định mục tiêu phát triển đất nước 2025 (kỉ niệm 50 năm giải phóng miềnNam) thống nhất đất nước: là nước đang phát triển có công nghiệp theo hướng hiện đại vượt qua mức thu nhập trung bình thấp
-29.	ĐH 13 xác định mục tiêu phát triển đất nước 2030 (kỉ niệm 100 năm thành lập Đảng):
-Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao
-30.	ĐH 13 xác định mục tiêu phát triển đất nước 2045 (kỉ niệm 100 năm thành lập nước VN DCCH, nay là CHXHCN VN): trở thành nước phát triển, thu nhập cao
-31.	ĐH 13 xác định mấy phương hướng phát triển đất nước giai đoạn 2021 – 2030: 12 phương hướng
-CHƯƠNG 4: DÂN CHỦ XÃ HỘI CHỦ NGHĨA VÀ NHÀ NƯỚC XÃ HỘI CHỦ NGHĨA
-1.	Dân chủ có nghĩa chung: Quyền lực của nhân dân hay quyền lực thuộc về nhân dân
-2.	Dân chủ là một giá trị xã hội phản ánh những quyền cơ bản của con người
-3.	Dân chủ xuất hiện sớm nhất: chiếm hữu nô lệ
-4.	Các chế độ dân chủ xuất hiện: chủ nô, tư sản, xã hội chủ nghĩa
-5.	Điểm tiến bộ của dân chủ tư sản: thủ tiêu chế độ quân chủ chuyên chế
-6.	Hạn chế của nền dân chủ tư sản: quyền lực kinh tế, quyền lực chính trị nằm trong tay giai cấp tư sản
-7.	Dân chủ XHCN ra đời khi: từ sau thắng lợi cách mạng tháng 10 Nga (1917)
-8.	Dân chủ XHCN khác với các nền dân chủ đã có trong lịch sử ở điểm cơ bản nào? Là nền được rộng rãi nhất trong lịch sử
-9.	Lênin nhấn mạnh: “Chế độ dân chủ vô sản so với bất cứ chế độ dân chủ tư sản nàocũng dân chủ hơn gấp triệu lần”
-10.	Dân chủ XHCN là nền dân chủ cao hơn về chất so với nền dân chủ có trong lịch sửnhân loại là nền dân chủ ở đó mọi quyền lực thuộc về nhân dân, đặt dưới sự lãnh đạo của Đảng Cộng sản
-11.	Dân chủ XHCN mang bản chất giai cấp nào? Công nhân
-12.	Bản chất nền chính trị dân chủ XHCN: Sự lãnh đạo của giai cấp công nhân thông qua ĐCS đối với toàn xã hội nhằm thực hiện quyền lực của nhân dân
- 
-13.	Bản chất nền kinh tế của DCXHCN: dựa trên chế độ sở hữu xã hội về những tư liệu sản xuất chủ yếu
-14.	Bản chất của tư tưởng DCXHCN: lấy hệ tư tưởng Mác...xã hội mới
-15.	DCXHCN Việt Nam ra đời khi: Cách mạng tháng Tám (1945)
-16.	Bàn về quyền làm chủ nhân dân trên lĩnh vực chính trị HCM chỉ rõ: “Trong chế độXHCN thì bao nhiêu quyền lực đều là của dân, bao nhiêu sức mạnh đều ở nơi dân, bao nhiêu lợi ích đều là vì dân”
-17.	DCXHCN ở Việt Nam được thực hiện dưới hình thức: dân chủ trực tiếp và dân chủ gián tiếp
-18.	ĐH 13 xác định phương châm: “Dân biết, dân bàn, dân làm, dân kiểm tra, dân giámsát, dân thụ hưởng đồng thời xác định rõ vai trò Đảng lãnh đạo, nhà nước quản lí mặt trận tổ quốc và các tổ chức chính trị xã hội làm nòng cốt”
-19.	ĐH 13 của Đảng nêu rõ: “Xử lí kịp thời, nghiêm minh những tổ chức cá nhân lợidụng gây rối nội bộ...làm phương hại đến quyền làm chủ nhân dân
-20.	Nhà nước xuất hiện sớm nhất: Chiếm hữu nô lệ
-21.	Các kiểu nhà nước trong lịch sử: chủ nô, phong kiến, tư sản, xã hội chủ nghĩa
-22.	Nhà nước XHCN là kiểu nhà nước mà ở đó sự thống trị chính trị thuộc về giai cấp công nhân đưa nhân dân lao động lên địa vị làm chủ
-23.	Bản chất chính trị của nhà nước: Mang bản chất giai cấp công nhân giai cấp có lợi ích phù hợp với lợi ích chung nhân dân lao động
-24.	Bản chất kinh tế: Chịu sự quy định của chế độ sở hữu xã hội về tư liệu sản xuất
-25.	Bản chất văn hóa: Được xây dựng trên nền tảng tinh thần là lý luận của CN Mác và những giá trị văn hóa của nhân loại
-26.	Nhà nước pháp quyền XHCN được hiểu là: một kiểu nhà nước mà ở đó tất cả mọicông dân đều được giáo dục pháp luật tất cả vì mục tiêu phục vụ nhân dân
-27.	Nhà nước pháp quyền XHCN quản lí mọi mặt đời sống xã hội chủ yếu bằng: Hiến pháp, pháp luật
-28.	Nhà nước pháp trị và nhà nước pháp quyền giống nhau: là dùng pháp luật để quản lí xã hội
-29.	Hệ thống chính trị ở Việt Nam bao gồm: Đảng Cộng sản Việt Nam, nhà nước XHCN Việt Nam, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị xã hội
- 
-30.	Trong quá trình xây dựng và từng bước hoàn thiện nhà nước VN dưới sự lãnh đạoĐảng, đã ban hành mấy bản hiến pháp: 5 bản
-31.	ĐH 13 nhấn mạnh: “Quyền lực nhà nước là thống nhất có sự phân công, rành mạch phối hợp chặt chẽ và tăng cường kiểm soát quyền lực nhà nước”
-32.	Nhà nước pháp quyền XHCN có mấy đặc điểm: 6 đặc điểm
-33.	ĐH 13 nêu rõ: “Xây dựng và hoàn thiện nhà nước pháp quyền XHCN: Trong sạch,vững mạnh, tinh gọn hoạt động hiệu lực hiệu quả vì nhân dân phục vụ tiếp tục đẩy mạnh đấu tranh phòng chống tham nhũng tiêu cực lãng phí quan liêu tội phạm và tệ nạn xã hội”
-34.	Xây dựng và hoàn thiện nhà nước pháp quyền XHCN VN được coi là nhiệm vụtrọng tâm và là 1 trong 3 đột phá chiến lược ĐH 13
-CHƯƠNG 5: CƠ CẤU XÃ HỘI – GIAI CẤP VÀ LIÊN MINH GIAI CẤP, TẦNG LỚP THỜI KỲ QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI
-1.	Cơ cấu xã hội là gì? Là những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên
-2.	Cơ cấu xã hội giai cấp là gì? Là hệ thống các giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định, thông qua những mối quan hệ về sở hữu tư liệu sản xuất, về tổ chức quản lý quá trình sản xuất về địa vị chính trị xã hội giữa các giai cấp và tầng lớp đó
-3.	Trong các loại cơ cấu xã hội sau đây, cơ cấu xã hội nào giữ vị trí quan trọng hàng đầuchi phối cơ cấu xh khác: Cơ cấu xh giai cấp
-4.	CNXH khoa học nghiên cứu loại hình ccxh nào? Cơ cấu xh giai cấp
-5.	Sự biến đổi ccxhgc được quyết định bởi: sự biến đổi cơ cấu kinh tế
-6.	Yếu tố nào quy định sự đa dạng, phức tạp của ccxhgc trong thời kì quá độ lên cnxh: đa dạng và phức tạp của cơ cấu kinh tế
-7.	Ccxhgc ở nước ta hiện nay bao gồm: giai cấp công nhân, giai cấp nông dân, đội ngũ tri thức, đội ngũ doanh nhân
-8.	Giai cấp công nhân có vai trò quan trọng đặc biệt là giai cấp lãnh đạo cách mạng là lực lượng đi đầu trong sự nghiệp CNH-HĐH và là lực lượng nòng cốt trong liên minh GCCN, GCND và đội ngũ tri thức
- 
-9.	GCND cùng với nông nghiệp nông thôn có vị trí chiến lược trong sự nghiệp HDH nông nghiệp nông thôn là cơ sở và lực lượng quan trọng để phát triển kinh tế xã hội bền vững
-10.	Đội ngũ tri thức là lực lượng lao động sáng tạo quan trọng…đất nước xây dựng kinh tế tri thức phát triển nền văn hóa VN
-11.	Đội ngũ doanh nhân phát triển nhanh… thành một đội ngũ vững mạnh
-12.	Luận điểm: “Cách mạng vô sản là bài đồng ca…bài ca ai điếu” của ai? Các Mác
-13.	Lênin khẳng định: “Nếu không liên minh với nông dân thì không thể có được chínhquyền của giai cấp vô sản không thể nghĩ đến việc duy trì chính quyền đó”
-14.	Lênin chỉ rõ: “Duy chính vô sản là hình thức đặc biệt của liên minh giai cấp, giai cấp vô sản, đội ngũ tiên phong…vô sản”
-15.	Trong thời kì quá độ CNXH, GCCN,GCND và tầng lớp lao động khác vừa là lựclượng sản xuất cơ bản, vừa là lực lượng chính trị xã hội to lớn
-16.	Liên minh GCCN, GCND, tầng lớp lao động khác do yếu tố nào quyết định: do có những lợi ích cơ bản, thống nhất với nhau
-17.	Nội dung liên minh nào quyết định nhất, là cơ sở vật chất kĩ thuật của liên minhGCCN, ND, LĐK trong thời kì quá độ lên CNXH ở VN: đó là liên minh kinh tế
-18.	Mục đích liên minh chính trị giữa GCCN, ND, LĐK trong thời kì quá độ lên CNXHở VN nhằm: phát huy sức mạnh đại đoàn kết toàn dân tộc
-19.	Mục đích của liên minh văn hóa-xã hội giữa GCCN, ND, LĐK: xây dựng nền văn hóa VN tiên tiến, đậm đà bản sắc dân tộc, tiếp thu văn hóa nhân loại
-20.	Trong liên minh giai cấp tầng lớp ở nước ta hiện nay, giai cấp giữ vai trò lãnh đạo: Giai cấp công nhân
-21.	Trong thời kì quá độ lên CNXH ở nước ta, giai cấp công nhân vẫn là giai cấp lãnh đạo thông qua đội tiền phong và Đảng Cộng sản đối với toàn xã hội
-22.	Trong thời kì quá độ, đội ngũ tri thức có vai trò như thế nào? Là lực lượng lao động sáng tạo, đặc biệt quan trọng
-23.	Trong thời kì quá độ thanh niên có vị trí vai trò như thế nào? Trụ cột của nước nhà, chủ nhân tương lai của đất nước, là lực lượng xung kích trong xây dựng và bảo vệ Tổ quốc
-24.	Sự biến đổi cơ cấu xã hội giai cấp trong thời kì quá độ mang tính: quy luật phổ biến và đặc thù của xã hội VN
- 
-25.	Có mấy phương hướng cơ bản xây dựng cơ cấu xã hội giai cấp và tăng cường liênminh:
-5 phương hướng
-CHƯƠNG 6: VẤN ĐỀ DÂN TỘC VÀ TÔN GIÁO TRONG THỜI KÌ QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI
-1.	Theo quan điểm của CN Mác Lênin, dân tộc là quá trình phát triển lâu dài của xã hộiloài người, trải qua các hình thức cộng đồng người khác nhau từ thấp đến cao bao gồm: thị tộc, bộ lạc, bộ tộc, dân tộc
-2.	Khái niệm nào sau đây dùng để chỉ một cộng đồng người ổn định được hình thànhtrong lịch sử trong lãnh thổ nhất định có chung mối liên hệ về kinh tế, ngôn ngữ và một nền văn hóa? Dân tộc - quốc gia
-3.	Đặc trưng quan trọng nhất của dân tộc quốc gia là: có chung phương thức sinh hoạt kinh tế
-4.	Sự biến đổi của cộng đồng dân tộc do yếu tố nào quyết định? Do biến đổi của phương thức sản xuất
-5.	Ở các nước phương Tây dân tộc được hình thành từ chế độ nào? Chế độ tư bản chủ nghĩa
-6.	Ở các nước phương Đông yếu tố nào là cơ bản nhất để hình thành dân tộc? Do yêu cầu đoàn kết chống lại thiên nhiên khắc nghiệt và chống giặc ngoại xâm
-7.	Xu hướng khách quan của sự phát triển quan hệ dân tộc là: Tách khỏi nhau và liên hiệp lại
-8.	Nội dung cương lĩnh dân tộc theo quan điểm của CN Mác Lênin là: Các dân tộc hoàn toàn bình đẳng, được quyền tự quyết, liên hiệp công nhân tất cả dân tộc
-9.	Quyền bình đẳng giữa các dân tộc là quyền: thiêng liêng của các dân tộc
-10.	Quyền dân tộc tự quyết giữa các dân tộc: tự quyết định vận mệnh của dân tộc mình
-11.	Trong các nội dung của quyền dân tộc tự quyết thì nội dung nào được coi là cơ bản,tiên quyết nhất: Nội dung chính trị
-12.	Cương lĩnh dân tộc của CNMLN do ai viết: LÊNIN viết
-13.	Động lực để các quốc gia dân tộc “tách khỏi nhau” hoặc “liên hiệp lại” xuất phát từ:
-lợi ích dân tộc
-14.	Giá trị truyền thống hàng đầu của dân tộc VN là: Yêu nước, đoàn kết chống giặc ngoại xâm
- 
-15.	Vấn đề dân tộc ở VN được Đảng ta khằng định như thế nào? Vấn đề mang tính chiến lược cơ bản, lâu dài
-16.	VN là một quốc gia đa dân tộc có mấy đặc điểm: 6 đặc điểm
-17.	“Các dân tộc trong cộng đồng VN bình đằng, đoàn kết, tôn trọng, giúp nhau cùngphát triển” là đặc trưng thứ mấy của xã hội XHCN mà ta xây dựng: Đặc trưng 6
-18.	Tại ĐH 13 Đảng ta đề ra chủ trương: “Bảo đảm các dân tộc bình đẳng, đoàn kết, tôn trọng giúp nhau cùng phát triển. Huy động phân bố, sử dụng, quản lí hiệu quả các nguồn lực để đầu tư phát triển, tạo chuyển biến căn bản về KT, VH, XH ở vùng đồng bào dân tộc thiểu số. Ngăn chặn mọi âm mưu, hành động chia rẽ, phá hoại khối đại đoàn kết toàn dân tộc”
-19.	“Tất cả mọi tôn giáo chẳng qua chỉ là sự phản ánh hư ảo vào đầu óc con người … lựclượng siêu trần thế” của ai: Ăngghen
-20.	Theo quan điểm của CNMLN, tôn giáo là: một hình thái ý thức xã hội phản ánh hư ảo hiện thực khách quan
-21.	Theo quan điểm CNMLN, tôn giáo có nguồn gốc: KT-XH, nhận thức, tâm lí
-22.	Giải quyết vấn đề tôn giáo trong thời kì quá độ lê CNXH có mấy nguyên tắc: 4 nguyên tắc
-23.	Một trong những nguyên tắc giải quyết vấn đề tôn giáo trong thời kì quá độ lênCNXH là: Tôn trọng, bảo đảm quyền tự do, tín ngưỡng, tôn giáo của nhân dân
-24.	Quan điểm: “Mục đích cao cả của Phật Thích Ca và Chúa Giêsu….thế giới đại đồng”của ai? Hồ Chí Minh
-25.	Quan điểm: “Vì lẽ sinh tồn cũng như mục đích của cuộc sống….tức là văn hóa” củaai?
-Hồ Chí Minh
-26.	VN có mấy tôn giáo lớn: 6
-27.	Tôn giáo ở VN có mấy đặc điểm: 5
-28.	Một trong đặc điểm của tôn giáo ở VN: Một quốc gia nhiều tôn giáo; đa dạng, đan xen
-29.	Khâu đột phá đầu tiên trong nhận thức tư duy, lý luận của Đảng ta “về vấn đề tôngiáo VN” là: tín ngưỡng, tôn giáo là một nhu cầu tinh thần một bộ phận nhân dân
-30.	Đảng ta xác định lực lượng làm tốt công tác tôn giáo trong thời kì mới là trách nhiệmcủa: toàn bộ hệ thống chính trị do Đảng lãnh đạo
- 
-31.	Theo quan điểm tôn giáo của Đảng ta hiện nay việc theo đạo truyền đạo cũng nhưmọi hoạt động tôn giáo khác: đều phải tuân thủ Hiến pháp và Pháp luật
-32.	Cốt lõi của công tác tôn giáo trong thời kì quá độ lên CNXH là: Công tác dân vận
-33.	ĐH 13 của Đảng khẳng định: “Vận động, đoàn kết, tập hợp các tổ chức tôn giáo, chứcsách, tín đồ sống tốt đời đẹp đạo….sự nghiệp phát triển đất nước…xử lí nghiêm minh những đối tượng lợi dụng tôn giáo…dân tộc”
-CHƯƠNG 7: VẤN ĐỀ GIA ĐÌNH TRONG THỜI KÌ QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI
-1.	Chỉ ra luận điểm đúng về gia đình: gia đình là tế bào hạt nhân, nền tảng của xã hội, tồn tại lâu dài trong lịch sử xã hội
-2.	Quan hệ nào là cơ bản nhất trong gia đình: 2 cơ bản (quan hệ hôn nhân và quan hệ huyết thống)
-3.	Trong học thuyết MLN, giải phóng phụ nữ thì cần: giải phóng xã hội
-4.	“Hằng ngày tái tạo nên đời sống bản thân mình, người bắt đầu tạo ra những người khácsinh sôi nảy nở đó là quan hệ vợ chồng, giữa cha mẹ và con cái đó là gia đình” luận điểm của: Mác và Ăngghen
-5.	Cơ sở hình thành gia đình là: Quan hệ hôn nhân và quan hệ huyết thống, quan hệ cha mẹ nuôi và con nuôi
-6.	“Nhiều gia đình cộng lại mới thành xã hội, xã hội tốt thì gia đình tốt, gia đình tốt thì xãhội mới tốt, hạt nhân xã hội là gia đình” là câu nói của: Hồ Chí Minh
-7.	Gia đình gồm mấy chức năng cơ bản: 4 chức năng
-8.	Một trong những cơ sở để xây dựng gia đình trong thời kì quá độ lên CNXH: hôn nhân tự do, tiến bộ, 1 vợ 1 chồng, vợ chồng bình đẳng
-9.	Sự biến đổi của gia đình Việt Nam trong thời kì quá độ, diễn ra trên phương diện nào?Quy mô, chức năng, quan hệ gia đình
-10.	ĐH 12 của Đảng đưa ra nhiệm vụ phát triển gia đình: "Thực hiện chiến lược phát triển gia đình VN, phát huy giá trị truyền thống tốt đẹp, xây dựng gia đình no ấm, tiến bộ, hạnh phúc, văn minh”
-11.	ĐH 12 xác định: “Coi trọng chăm sóc sức khỏe nhân dân công tác dân số - kế hoạch hóa gia đình bảo vệ và chăm sóc bà mẹ trẻ em xây dựng gia đình hạnh phúc”
+Chương 1: TỔNG QUAN VỀ TTNT
+1. Lịch sử phát triển của TTNT
+1930: Alan Turing nghĩ ra TTNT.
+1956: J.Mc Carthy, M. Minsky, A. Newell, Shannon. Simon,… đưa ra khái niêm “trí tuệ nhân tạo”
+1960: Đại học MIT ra đời NNLT LISP( ngôn ngữu đầu tiên dùng cho TTNT).
+1961: Thuật ngữ lần đầu sd tại đại học MIT
+Thập kỉ 1960s: thời kì lạc quan của ttnt: các ctr trò chơi, chứng minh tự động, tính tích phân bất định, điều khiển robot,..
+1970-1971: ttnt bế tác do hạn chế về bộ nhớ và tốc độ tính toán của mt.
+1972-1980: ttnt ra đời vấn đề xử lí nntn, biểu diễn tri thức và giải quyết vấn đề, nnlt LISP, Prolog, các hệ chuyên gia,...
+1980: ttnt ứng dụng trong thiết bị dân dụng( máy giặt, máy ảnh,..), ra đời hệ thống nhận dạng, xử lý ảnh, xử lý tiếng nói,..
+1990-nay: tập trung nghiên cứu: cơ chế suy diễn, ttnt phân tạo, các mô hình tác tử,..
+2. Tiền đề cho sự phát triển của TTNT.
+Tiền đề: Logic hình thức, tâm lý học nhận thức, tự động hoá,..
+Ứng dụng: hệ chuyên gia, Robot xử lý tri thức
+3. Trí tuệ con người.
+Định nghĩa 1: Theo Alan Turing: Trí tuệ là những gì có thể được đánh giá thông qua các trắc nghiệm thông minh
+Định nghĩa 2: Theo từ điển Webster: Trí tuệ là sự phản ứng 1 cách thích hợp trước những tình huống mới thông qua việc hiệu chỉnh hành vi 1 cách thích đáng
+Định nghĩa 3: Theo các nhà tâm lý học: Trí tuệ con người được tiến hành thông qua 4 thao tác cơ bản
+4. Trí tuệ máy.
+Chưa có định nghĩa mà chỉ có dấu hiệu nhận biết trí tuệ máy là TTNT
+Các khả năng của TTNT
+• Khả năng học
+• Khả năng mô phỏng hành vi của con người
+• Khả năng trừu tượng hoá, tổng quát hoá và suy diễn
+• Khả năng tự giải thích hành vi
+• Khả năng thích nghi với tình huống mới trong đó có khả năng thu nạp tri thức và dữ liệu
+• Khả năng xử lý các biểu diễn hình thức như các ký hiệu tượng trưng, danh sách
+• Khả năng sử dụng các tri thức heuristic (mẹo, kinh nghiệm)
+• Khả năng xử lý các thông tin không đầy đủ, không chính xác
+5. Trí tuệ nhân tạo.
+Trí tuệ nhân tạo (AI - Artificial Intelligence): Là một ngành của khoa học máy tính liên quan đến việc tự động hóa các hành vi thông minh
+TTNT: Phải được đặt trên những nguyên lý, lý thuyết vững chắc, có khả năng ứng dụng được. Những nguyên lý này bao gồm:
+• Các cấu trúc dữ liệu để biểu diễn tri thức
+• Các thuật toán để áp dụng cho những tri thức đó • Các ngôn ngữ và kỹ thuật lập trình để cài đặt
+6. Một số lĩnh vực ứng dụng của TTNT.
+Các phương pháp tìm kiếm lời giải: Hệ chuyên gia, Hệ thống giải trí, Hệ thống xử lý tiếng nói, Xử lý ngôn ngữ tự nhiên, Hệ thống nhận dạng,  Lập kế hoạch và người máy (robot),  Máy học,  Các mô hình nơ ron (mạng nơ ron và giải thuật di truyền),...
 
-Câu 1. Tư tưởng xã hội chủ nghĩa là gì?
-Đáp án: a. Là một hệ thống những quan niệm phản ánh những nhu cầu, những ước mơ, nguyện vọng của các giai cấp lao động về một xã hội không có áp bức và bóc lột, mọi người đều bình đẳng và có cuộc sống ấm no, hạnh phúc.
-Câu 2. Những biểu hiện cơ bản của tư tưởng xã hội chủ nghĩa là gì?
-a. Là những ước mơ nguyện vọng về một chế độ xã hội ai cũng có việc làm ai cũng lao động . b. Là quan niệm về một chế độ xã hội mà tư liệu sản xuất đều thuộc về mọi thành viên xã hội . c. Là những tư tưởng về một xã hội, trong đó mọi người đều bình đẳng, có cuộc sống ấm no, tự do, hạnh phúc.
-Đáp án: d. Cả a, b và c
-Câu 3. Những yếu tố tư tưởng XHCN được xuất hiện từ khi nào?
-Đáp án: b. Sự xuất hiện chế độ tư hữu, xuất hiện giai cấp thống trị và bóc lột.
-Câu 4. Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?
-Đáp án: a. Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.
-Câu 5. Chức năng và nhiệm vụ của chủ nghĩa xã hội khoa học là gì?
-a. Là trang bị những tri thức khoa học của chủ nghĩa Mác - Lênin đã phát hiện ra và luận giải về quá trình tất yếu lịch sử dẫn đến hình thành, phát triển hình thái kinh tế - xã hội cộng sản, giải phóng xã hội, giải phóng con người. b. Là giáo dục, trang bị lập trường tư tưởng chính trị của giai cấp công nhân cho đảng cộng sản, giai cấp công nhân và nhân dân lao động. c. Là định hướng về chính trị – xã hội cho mọi hoạt động của giai cấp công nhân, của đảng cộng sản, của nhà nước và của nhân dân lao động trên mọi lĩnh vực
-Đáp án: d. Cả a, b và c đều đúng.
-Câu 6. Ai đã đưa ra quan niệm "CNXH là sự phản kháng và đấu tranh chống sự bóc lột người lao động, một cuộc đấu tranh nhằm hoàn toàn xoá bỏ sự bóc lột"?
-Đáp án: d. V.I.Lênin
-Câu 7. Ai được coi là người mở đầu các trào lưu xã hội chủ nghĩa và cộng sản chủ nghĩa thời cận đại?
-Đáp án: b. Tômát Morơ
-Câu 8. Ai là người viết tác phẩm "Không tưởng" (Utôpi)?
-Đáp án: c. Tômát Morơ
-Câu 9. Ai là người đã đưa ra chủ trương thiết lập nền "Chuyên chính cách mạng của những người lao động"?
-Đáp án: c. Grắccơ Babớp
-Câu 10. Tư tưởng về "Giang sơn ngàn năm của Chúa" xuất hiện ở thời đại nào?
-Đáp án: b. Thời cổ đại
-Câu 11. Tác phẩm "Thành phố mặt trời" là của tác giả nào?
-Đáp án: b. Tômađô Campanenla
-Câu 12. Ai đã viết tác phẩm "Những di chúc của tôi"?
-Đáp án: b. Giăng Mêliê
-Câu 13. Ai là người đã nêu ra "Tuyên ngôn của những người bình dân"?
-Đáp án: c. Grắccơ Babớp
-Câu 14. Ai là người đặt vấn đề đấu tranh cho chủ nghĩa xã hội với tính cách là một phong trào thực tiễn (Phong trào hiện thực)?
-Đáp án: c. Grắccơ Babớp
-Câu 15. Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX?
-Đáp án: c. Xanh Ximông, Sáclơ Phuriê, Rôbớt Ôoen
-Câu 16. Nhà tư tưởng xã hội chủ nghĩa không tưởng nào đã nói đến vấn đề giai cấp và xung đột giai cấp?
-Đáp án: a. Xanh Ximông
-Câu 17. Nhà tư tưởng xã hội chủ nghĩa nào đã tố cáo quá trình tích luỹ tư bản chủ nghĩa bằng hình ảnh "cừu ăn thịt người"?
-Đáp án: a. Tômát Morơ
-Câu 18. Ai là người nêu ra luận điểm: Trong nền kinh tế tư bản chủ nghĩa, "sự nghèo khổ được sinh ra từ chính sự thừa thãi"?
-Đáp án: b. Sáclơ Phuriê
-Câu 19. Nhà tư tưởng xã hội chủ nghĩa nào đã chia lịch sử phát triển của nhân loại thành các giai đoạn: mông muội, dã man, gia trưởng và văn minh?
-Đáp án: b. Sáclơ Phuriê
-Câu 20. Ai đã nêu ra tư tưởng: trình độ giải phóng xã hội được đo bằng trình độ giải phóng phụ nữ?
-Đáp án: b. Sáclơ Phuriê
-Câu 21. Người mơ ước xây dựng thành phố mặt trời, mà trong đó không có nạn thất nghiệp, không có kẻ lười biếng, ai cũng lao động. Ông là ai?
-Đáp án: c. Tômađô Cămpanela
-Câu 22. Nhà tư tưởng xã hội chủ nghĩa nào đã tiến hành thực nghiệm xã hội cộng sản trong lòng xã hội tư bản?
-Đáp án: d. Rôbớt Ôoen
-Câu 23. Nhà tư tưởng xã hội chủ nghĩa nào đã bị phá sản trong khi thực nghiệm tư tưởng cộng sản chủ nghĩa của mình?
-Đáp án: c. Rôbớt Ôoen
-Câu 24. Những đại biểu tiêu biểu cho chủ nghĩa xã hội không tưởng phê phán thế kỷ XIX ở Pháp và Anh?
-a. Xanh xi mông b. Phuriê  c. Rô Bớc Ô Oen d. Cả a, b, c.
-Đáp án: d. Cả a, b, c.
-Câu 25. Chọn những tác giả nào đúng với tác phẩm của họ?
-Đáp án: c. Giắccơ Babớp: Tuyên ngôn của những người bình dân
-Câu 26. Những hạn chế cơ bản của các nhà tư tưởng xã hội chủ nghĩa trước Mác là gì? a. Chưa thấy được bản chất bóc lột và quá trình phát sinh phát triển và diệt vong tất yếu của chủ nghĩa tư bản. b. Không dùng bạo lực cách mạng để xoá bỏ chế độ tư bản chủ nghĩa. c. Không phát hiện được lực lượng xã hội tiên phong có thể thực hiện cuộc chuyển biến cách mạng từ chủ nghĩa tư bản lên chủ nghĩa xã hội và cộng sản chủ nghĩa.
-Đáp án: d. Cả a, b và c
-Câu 27. Nguyên nhân chủ yếu của những hạn chế của chủ nghĩa xã hội không tưởng là?
-Đáp án: c. Do những điều kiện lịch sử khách quan quy định.
-Câu 28. C. Mác sinh ngày tháng năm nào?
-Đáp án: c. 5.5.1818
-Câu 29. C. Mác mất ngày tháng năm nào?
-Đáp án: a. 14.3.1883
-Câu 30. Ph. Ăngghen sinh ngày tháng năm nào?
-Đáp án: b. 28.11.1820
-Câu 31. Ph. Ăngghen mất ngày tháng năm nào?
-Đáp án: b. 5.8.1895
-Câu 32. Ai là người được Ph.Ăngghen nhận xét là "có tầm mắt rộng thiên tài"?
-Đáp án: d. Xanh Ximông
-Câu 33. Ai là người được Ph.Ăngghen đánh giá là "nắm phép biện chứng một cách cũng tài tình như Hêghen là người đương thời với ông"?
-Đáp án: c. Phurie
-Câu 34. Ai là người được Ph.Ăngghen nhận xét "Mọi phong trào xã hội, mọi thành tựu thực sự đã diễn ra ở Anh vì lợi ích của công nhân đều gắn với tên tuổi của ông"?
-Đáp án: d. Ôoen
-Câu 35. Ai là người nêu ra quan điểm: "Dân vi quý, xã tắc thứ chi, quân vi khinh"?
-Đáp án: b. Mạnh Tử
-Câu 36. Ai trong số những người sau đây được Các Mác coi là nhà tư tưởng vĩ đại nhất thời cổ đại?
-Đáp án: c. Aristôt
-Câu 37. Nội dung cơ bản nhất mà nhờ đó chủ nghĩa xã hội từ không tưởng trở thành khoa học?
-Đáp án: c. Phát hiện ra giai cấp công nhân là lực lượng xã hội có thể thủ tiêu CNTB, xây dựng CNXH.
-Câu 38. Những điều kiện và tiền đề khách quan nào dẫn đến sự ra đời của chủ nghĩa xã hội khoa học : a. Sự ra đời và phát triển của nền đại công nghiệp tư bản chủ nghĩa b. Sự trưởng thành của giai cấp công nhân công nghiệp c. Những thành tựu khoa học tự nhiên và tư tưởng lí luận đầu thế kỉ 19d.
-Đáp án: d. Cả a, b và c
-39. Tiền đề nào là nguồn gốc lý luận trực tiếp của chủ nghĩa xã hội khoa học. a. Triết học cổ điển Đức b. Kinh tế chính trị học cổ điển Anh c. Chủ nghĩa xã hội không tưởng – phê phán
-Đáp án: d. Cả a, b và c
-Câu 40. Ph. Ăngghen đã đánh giá: "Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học". Hai phát kiến đó là gì?
-Đáp án: c. Học thuyết giá trị thặng dư – Chủ nghĩa duy vật lịch sử
-Câu 41. Vì sao chủ nghĩa xã hội khoa học theo nghĩa rộng là chủ nghĩa Mác - Lênin?
-Đáp án: c. Vì chủ nghĩa xã hội khoa học dựa vào triết học, kinh tế chính trị để lý giải tính tất yếu lịch sử của Cách mạng xã hội chủ nghĩa và Hình thái kinh tế – xã hội cộng sản chủ nghĩa gắn liền với vai trò lãnh đạo của giai cấp công nhân.
-Câu 42. Tác phẩm "Phê phán cương lĩnh Gôta" là của ai?
-Đáp án: a. C.Mác
-Câu 43. Tác phẩm nào được Lênin đánh giá là "tác phẩm chủ yếu và cơ bản trình bày chủ nghĩa xã hội khoa học"?
-Đáp án: a. Chống Đuyrinh
-Câu 44. Câu nói: "Thực hiện sự nghiệp giải phóng thế giới ấy - đó là sứ mệnh lịch sử của giai cấp vô sản hiện đại" là của ai?
-Đáp án: b. Ph. Ăngghen
-Câu 45. Lý thuyết phân kỳ hình thái kinh tế-xã hội cộng sản chủ nghĩa lần đầu tiên được đề cập trong tác phẩm nào?
-Đáp án: d. Phê phán Cương lĩnh Gôta.
-Câu 46. Quốc tế cộng sản là tên gọi khác của?
-Đáp án: d. Hội liên hiệp công nhân quốc tế
-Câu 47. Tác phẩm đầu tiên mà Các Mác và Ăng ghen viết chung là tác phẩm nào?
-Đáp án: c. Gia đình thần thánh.
-Câu 48. Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?
-Đáp án: c. Tuyên ngôn của Đảng cộng sản
-Câu 49. Lần đầu tiên Ph.Ăngghen nói chủ nghĩa Mác cấu thành bởi ba bộ phận trong tác phẩm nào?
-Đáp án: a. Sự phát triển của chủ nghĩa xã hội từ không tưởng đến khoa học
-Câu 50. Phát hiện nào sau đây của C. Mác và Ph. Ăngghen ? 
-Chủ nghĩa duy vật lịch sử,Học thuyết giá trị thặng dư ,Sứ mệnh lịch sử của giai cấp công nhân
-Câu 51. Phạm trù nào được coi là cơ bản nhất, là xuất phát điểm của chủ nghĩa xã hội khoa học?
-Đáp án: b. Sứ mệnh lịch sử của giai cấp công nhân
-Câu 52. Câu "Sự phát triển tự do của mọi người là điều kiện cho sự phát triển tự do của tất cả mọi người" là của ai?
-Đáp án: c. C.Mác và Ph.Ăng ghen
-Câu 53. C. Mác và Ph. Ăngghen đã dựa vào những phát kiến nào để xây dựng luận chứng về sứ mệnh lịch sử của giai cấp công nhân?
-Đáp án: b. Chủ nghĩa duy vật lịch sử và Học thuyết giá trị thặng dư
-Câu 54. Chủ nghĩa duy vật lịch sử và Học thuyết giá trị thặng dư đã được C. Mác phát triển và trình bày một cách có hệ thống trong tác phẩm nào?
-Đáp án: c. Bộ Tư bản
-Câu 55. V.I. Lênin sinh ngày tháng năm nào?
-Đáp án: b. 22.4.1870
-Câu 56. V.I. Lênin mất ngày tháng năm nào?
-Đáp án: b. 21.1.1924
-Câu 57. Ai là người đầu tiên đưa chủ nghĩa xã hội từ khoa học thành thực tiễn sinh động?
-Đáp án: c. V.I. Lênin
-Câu 58. Từ khi ra đời (1848) đến nay, Chủ nghĩa xã hội khoa học phát triển qua mấy giai đoạn chủ yếu?
-Đáp án: b. 3
-Câu 59. Nhà nước xã hội chủ nghĩa đầu tiên được thành lập ở đâu?
-Đáp án: b. Nga
-Câu 60. Khái niệm chuyên chính vô sản được Các Mác dùng lần đầu tiên trong tác phẩm nào?
-Đáp án: a. Đấu tranh giai cấp ở Pháp
-Câu 61. Định nghĩa về giai cấp được Lênin trình bày lần đầu tiên trong tác phẩm nào?
-Đáp án: c. Sáng kiến vĩ đại.
-Câu 62. Tìm ra định nghĩa đúng nhất về giai cấp công nhân:
-Đáp án: b. Là giai cấp lao động trong nền sản xuất công nghiệp có trình độ kỹ thuật và công nghệ hiện đại của xã hội.
-Câu 63. Điều kiện để một cuộc cách mạng dân chủ tư sản kiểu mới có thể chuyển biến thành cách mạng vô sản:
-Đáp án: d. Cả a, b và c
-Câu 64. Cấu trúc cơ bản của một hình thái kinh tế – xã hội là:
-Đáp án: b. Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng.
-Câu 65. Cơ cấu xã hội nào có vai trò quan trọng nhất:
-Đáp án: d. Cơ cấu giai cấp
-Câu 66. Khái niệm nào trong sau đây được dùng để chỉ một cộng đồng người ổn định được hình thành trong lịch sử trong một lãnh thổ nhất định, có chung mối liên hệ về kinh tế, ngôn ngữ và một nền văn hoá?
-Đáp án: b. Dân tộc
-Câu 67. Vì sao giai cấp nông dân không thể lãnh đạo được cuộc cách mạng xã hội chủ nghĩa?
-Đáp án: c. Họ không đại diện cho phương thức sản xuất tiên tiến
-Câu 68. Đặc trưng nào trong số các đặc trưng sau được coi là đặc trưng cơ bản nhất của giai cấp công nhân nói chung?
-Đáp án: b. Họ lao động trong nền công nghiệp có trình độ công nghệ và kỹ thuật hiện đại.
-Câu 69. Ai là tác giả của câu nói: "Chủ nghĩa xã hội hay là chết"?
-Đáp án: b. Phiđen Castrô
-Câu 70. Câu nói "Chủ nghĩa đế quốc là sự chuẩn bị vật chất đầy đủ nhất cho cách mạng vô sản" là của:
-Đáp án: c. V.I Lênin
-Câu 71. Tác phẩm nào được Lênin coi là cuốn bách khoa toàn thư thực sự của chủ nghĩa cộng sản?
-Đáp án: b. Chống Đuy rinh
-Câu 72. Phát hiện ra sự phân chia xã hội thành giai cấp và đấu tranh giai cấp là công lao của:
-Đáp án: d. Các nhà sử học tư sản trước Mác
-Câu 73. Câu nói: "Điểm chủ yếu trong học thuyết của Mác là ở chỗ nó làm sáng tỏ vai trò lịch sử của giai cấp vô sản là người xây dựng chủ nghĩa xã hội" là của ai?
-Đáp án: b. V.I. Lênin
-Câu 74. Cách mạng xã hội chủ nghĩa là quá trình cải biến một cách toàn diện trên tất cả các lĩnh vực của đời sống xã hội từ kinh tế, chính trị, văn hoá, tư tưởng, v.v. để xây dựng thành công chủ nghĩa xã hội và cuối cùng là chủ nghĩa cộng sản.
-Đáp án: a. Đúng
-Câu 75. Nguyên nhân sâu xa của cách mạng xã hội chủ nghĩa là:
-Đáp án: a. Mâu thuẫn giữa Lực lượng sản xuất và quan hệ sản xuất
-Câu 76. Tiến trình của cách mạng xã hội chủ nghĩa có mấy giai đoạn?
-Đáp án: b. Hai
-Câu 77. Điều kiện chủ quan có vai trò quyết định nhất của cuộc cách mạng xã hội chủ nghĩa.
-Đáp án: c. Sự trưởng thành của giai cấp công nhân, đặc biệt khi nó đã có đảng tiên phong lãnh đạo.
-Câu 78. Công xã Pari ra đời vào ngày tháng năm nào?
-Đáp án: b. 18.3.1871
-Câu 79. Động lực của cuộc cách mạng xã hội chủ nghĩa
-Đáp án: d. Giai cấp công nhân, tầng lớp trí thức, giai cấp nông dân, tiểu tư sản.
-Câu 80. Ai là người đầu tiên đưa ra khái niệm cách mạng dân chủ tư sản kiểu mới?
-Đáp án: d. V. I. Lênin
-Câu 81. Cách mạng dân chủ tư sản kiểu mới do giai cấp, tầng lớp nào lãnh đạo?
-Đáp án: b. Giai cấp công nhân
-Câu 82. Cách mạng dân chủ tư sản do giai cấp, tầng lớp nào lãnh đạo?
-Đáp án: b. Giai cấp tư sản
-Câu 83. Điều kiện để thực hiện sự chuyển biến từ cách mạng dân chủ tư sản kiểu mới lên cách mạng xã hội chủ nghĩa là gì?
-Đáp án: d. Cả a, b và c
-Câu 84. Cách mạng xã hội chủ nghĩa do giai cấp, tầng lớp nào lãnh đạo?
-Đáp án: c. Giai cấp công nhân
-Câu 85. Mục tiêu của giai đoạn thứ nhất của cách mạng xã hội chủ nghĩa là gì?
-Đáp án: b. Giành chính quyền về tay giai cấp công nhân và nhân dân lao động
-Câu 86. Mục tiêu cuối cùng của giai cấp công nhân, của cuộc cách mạng xã hội chủ nghĩa là?
-Đáp án: b. Giải phóng con người, giải phóng xã hội
-Câu 87. Mục tiêu cuối cùng của cách mạng xã hội chủ nghĩa là gì?
-Đáp án: b. Giải phóng con người, giải phóng xã hội
-Câu 88. Cách mạng xã hội chủ nghĩa lần đầu tiên nổ ra và thắng lợi ở đâu?
-Đáp án: c. Nga
-Câu 89. Cách mạng dân chủ tư sản kiểu cũ và cách mạng dân chủ tư sản kiểu mới khác nhau ở điểm nào?
-Đáp án: c. Lực lượng lãnh đạo.
-Câu 90. Động lực cơ bản, chủ yếu của cách mạng xã hội chủ nghĩa là?
-Đáp án: b. Giai cấp công nhân.
+Chương 2: TÁC TỬ THÔNG MINH
+1. Tác tử và môi trường.
+Khái niệm: Một tác tử (agent) là bất cứ thứ gì cảm nhận môi trường quanh nó thông qua các cảm biến và tác động trở lại môi trường thông qua bộ kích hoạt
+Đa tác tử (multi-agent): Là một hệ thống gồm nhiều tác tử (agent) độc lập, tương tác với nhau để giải quyết một vấn đề chung hoặc nhiệm vụ nào đó
+2. Đặc điểm của tác tử.
+Cho đích cần đạt và các tri thức sẵn có, tác tử cần:
+Sử dụng thông tin thu được từ các quan sát mới để cập nhật lại tri thức của nó
+Trên cơ sở tri thức của nó, thực thi hành động nhằm đạt được mục tiêu đề ra trong thế giới của nó
+Một tác tử được gọi là tự trị nếu hành vi được xác định bởi kinh nghiệm của chính bản thân nó (với khả năng học và thích nghi)
+3. Các yếu tố cần xem xét khi thiết kế tác tử.
+Khi thiết kế một tác tử, cần phải xem xét 4 yếu tố:  Performance measure(hàm đo hiệu năng),  Enviroment(môi trường),  Actuator(bộ kích hoạt),  Sensor( cảm biến)=> PEAS
+4. Đặc điểm của môi trường: 5 đặc điểm
+Tính quan sát được.
+Tính xác định được.
+Tính động.
+Tính liên tục hay rời rạc.
+Là đơn tác tử hay rời rạc.
+5. Phân loại tác tử: 5 loại tác tử
+Tác tử phản xạ đơn giản: Tác tử hành động chỉ dựa trên trạng thái hiện tại, không xét đến quá khứ
+Tác tử phản xạ có trạng thái: Tác tử lưu các trái thái bên trong (internal states) dựa trên chuỗi percept, phản ánh ít nhất một vài khía cạnh không quan sát được của môi trường.
+Tác tử hướng mục đích: Có 3 dạng đích->Đích khiến tác tử phải suy luận về tương lai hoặc các trạng thái khác. Có thể không có hành động nào đưa đến đích.
+Tác tử hướng lợi ích: thực hiện hành động sao cho có lợi nhất về lâu dài, đem lại lợi ích lớn, có thể suy luận về các nhiệm vụ có nhiều đích, về sự xung đợt giữa các đích và về các tình huống không chắc chắn.
+Tác tử với khả năng học.
 
 
+Chương 3: GIẢI QUYẾT VẤN ĐỀ BẰNG TÌM KIẾM
+1. GQVĐ và khoa học Trí tuệ nhân tạo
+GQVĐ là 1 quá trình tìm lời giải thông qua các cách
+Phương pháp tính toán nhờ 1 giải thuật
+Tìm kiếm heuristic
+Dùng phương pháp THỬ và SAI
+Dùng phương pháp NHÁNH - CẬN
+2. GQVĐ của con người
+Mô hình xử lý thông tin gồm 3 thành phần: Hệ thống cảm nhận, hệ thống nhận thức, hệ thống hành động
+Mô tả cơ chế hành động xử lý thông tin: Kích thích, vùng đệm, bộ xử lý nhận thức, bộ nhớ ngắn hạn, bộ nhớ dài hạn
+GQVĐ là quá trình riêng của xử lý thông tin, đó là cách xuất phát từ 1 tình huống ban đầu nào đó để đi tới đích mong muốn. Tuy nhiên, các phản xạ tức thời, các thao tác đơn thuần thì không được coi là GQVĐ
+4 chiến lược GQVĐ của con người:
+CL1: Ước lược vấn đề xem xét độ phức tạp.
+CL2: Nói lỏng 1 vài ràng buộc.
+CL3: Chia bài toán lớn phức tạp thành các bài toán con.
+CL4: Tìm cách chuyển các thông tin bên ngoài thành các ký hiệu làm cho bài toán dễ hiểu và dễ giải hơn.
+3. Phân loại vấn đề
+Định nghĩa: là quá trình xuất phát từ dạng ban đầu và tìm kiếm trong KGBT dãy các phép toán hay các hành động cho phép để đạt được đích mong muốn
+Phân loại: 2 loại
+Vấn đề phát biểu chỉnh: thỏa mãn 4 điều kiện:  Đích được đặt ra, Biết trạng thái ban đầu,  Xác định được các thao tác,  Có thể nhận biết được 1 lời giải bài toán (đoán hoặc giải)
+Vấn đề phát biểu không chỉnh: thỏa mãn 5 điều kiện:  Đích đặt ra không tường minh,  KGBT rời rạc,  KGBT vô hạn,  Các thao tác không được chỉ ra,  Không ràng buộc về mặt thời gian
+4. Các thành phần cơ bản của GQVĐ.
+GQVĐ là trường hợp riêng của xử lý thông tin, đó là 1 quá trình hành động tư duy gồm 4 thao tác
+Thao tác 1: Xác định đích
+Thao tác 2: Xác định các sự kiện và các luật có liên quan đến đích
+Thao tác 3: Rút gọn để GQVĐ đỡ phức tạp hơn
+Thao tác 4: Sử dụng các cơ chế suy diễn phù hợp để đạt được đích mong muốn
+GQVĐ là truyền thống
+Chương trình = CTDL + GT (truyền thống)
+Chương trình = Tri thức + Suy diễn (TTNT)
+GQVĐ là các chiến lược điều khiển, tìm kiếm
+Xử lý cạnh tranh
+Kỹ thuật heuristic: Quay lui, hàm đánh giá
+5. Các phương pháp biểu diễn vấn đề: 4pp
+Biểu diễn vấn đề bằng KGTT
+PP quy bài toán thành các bài toán con
+Biểu diễn bằng logic hình thức
+Biểu diễn bằng đồ thị
+6. GQVĐ bằng tìm kiếm.
+Phân loại chiến lược tìm kiếm: 2 loại
+Tìm kiếm mù: Không có sự hướng dẫn nào cho việc tìm kiếm,  Phát triển các trạng thái ban đầu cho tới khi gặp một trạng thái đích nào đó. Có 2 kỹ thuật: Tìm kiếm theo chiều rộng và tìm kiếm theo chiều sâu
+Tìm kiếm heuristic (kinh nghiệm, mẹo): Sử dụng tri thức đánh giá về các trạng thái để hướng dẫn việc tìm kiếm,  Trong quá trình phát triển các trạng thái, ta chọn trạng thái được đánh giá là tốt nhất để phát triển trong số các trạng thái chờ phát triển -> Gọi là các phương pháp tìm kiếm heuristic.
+TK theo chiều rộng: TK tốt nhất-đầu tiên, TT A*
+TK theo chiều sâu: Tk leo đồi, TT Nhánh-Cận
+Hàm đánh giá và TK heuristic: có 2 chiến lược quan trọng: TK tốt nhất-đầu tiên và Tk leo đồi.
+TT A*= Kỹ thuật TK tốt nhất đầu tiên+ Hàm đánh giá
 
+
+Chương 4:
+Mệnh đề (Statement): là phát biểu khẳng định tính ĐÚNG hoặc SAI (True/False)
+Câu (Sentence): Câu được cấu tạo từ những ký hiệu sơ cấp theo các luật sau: Tất cả các ký hiệu mệnh đề, ký hiệu chân lý,...đều là câu. Các câu hợp lệ được gọi là các công thức
+Biểu thức (Expression): Một biểu thức là một câu hay công thức của phép toán mệnh đề khi và chỉ khi nó được tạo từ những ký hiệu hợp lệ thông qua một dãy các luật
+Tri thức: Tri thức được mô tả dưới dạng các câu trong ngôn ngữ biểu diễn tri thức gồm 2 thành phần: Cú pháp và Ngữ nghĩa
+- Cú pháp: Các ký hiệu và các quy tắc liên kết các ký hiệu (các luật cú pháp) để tạo thành các câu (công thức) trong ngôn ngữ
+- Ngữ nghĩa: Xác định ý nghĩa của các câu của thế giới thực
+- Cần cơ chế suy diễn: Ngôn ngữ biểu diễn tri thức cần được cung cấp cơ chế suy diễn. Một luật suy diễn cho phép suy ra một công thức từ một tập các công thức khác
+Ngôn ngữ biểu diễn tri thức = Cú pháp + Ngữ nghĩa + Cơ chế suy diễn
+Cú pháp: Tập các ký hiệu và tập các luật xây dựng công thức				Ngữ nghĩa: Xác định ý nghĩa của các công thức, ý nghĩa của các phép kết nối logic được biểu diễn qua bảng chân lý
+Dạng chuẩn HỘI (CNF - Conjunctive Normal Form) là: Hội của các biểu thức tuyển/literal
+Dạng chuẩn TUYỂN (DNF - Disjunctive Normal Form) là: Tuyển của các biểu thức hội/literal
+Dạng chuẩn Horn (câu Horn) là: Hội của các biểu thức tuyển, trong đó các biểu thức tuyển có nhiều nhất 1 ký hiệu khẳng định (literal dương)
+Các tính chất cơ bản:
+A ^ A == A, A v A == A
+A ^ 1 == A, A v 1 == A
+A ^ 0 == A, A v 0 == 0
+A v -A = 1, A ^ -A = 0
+A => B
+
+
+Chương 5:
+
+Biểu diễn tri thức: Là mô tả về thế giới bên ngoài dưới dạng sao cho các máy tính thông minh có thể hiểu được, có thể đưa tới những kết luận về môi trường xung quanh trên cơ sở mô tả các hình thức, các tri thức nhận được.
+Dữ liệu: Là các đại lượng mang tính định lượng
+Tri thức: Là các đại lượng mang tính định tính. Có thể hiểu tri thức là sự tiến hóa từ dữ liệu, thể hiện:
+Chươngtrình=CTDL+Giảithuật
+Chươngtrìnhheuristic=Kýhiệutượngtrưng+Giảithuậtheuristic Hệdựatrêntrithức=Trithức+Suydiễn
+Các phương pháp biểu diễn
+- Biểu diễn bằng logíc hình thức: được thể hiện qua các mệnh đề(pp đc sử dụng phổ biến)
+- Biểu diễn bằng hệ sản xuất: gồm các sự kiện, luật Horn(pp đc sử dụng phổ biến)
+- Biểu diễn bằng mạng ngữ nghĩa
+- Biểu diễn bằng khung tri thức (Frame): biểu diễn tri thức phù hợp với biểu diễn đối tượng, gồm tập hợp các bộ 3 O-A-V
+- Biểu diễn bằng bộ 3 tham số O - A – V (Object – Attribute - Value)
+Tri thức định lượng: Tri thức mang đặc trưng định tính nhưng liên quan đến các kỹ thuật tính toán, phụ thuộc vào chất lượng của hàm được đánh giá. Hàm đánh giá là cơ sở để chọn chiến lược điều khiển: xử lý cạnh tranh và chọn hướng định tính phù hợp
+
+Tri thức định tính
+- Tri thức thủ tục: Đó là phương pháp cấu trúc tri thức, ghép nối và suy diễn các tri thức mới từ các tri thức đã có.
+- Tri thức mô tả: Là những thông tin về 1 sự kiện, hiện tượng hay1quá trình mà không đưa ra cấu trúc bên trong, phương pháp sử dụng bên trong. Tri thức mô tả không phụ thuộc vào không gian và thời gian.
+- Tri thức điều khiển: Là tri thức điều khiển quá trình xử lý tri thức, nó phối hợp với tri thức thủ tục và tri thức mô tả để thông qua nó điều khiển sự cạnh tranh.
+Xử lý tri thức là các kỹ thuật nhằm xây dựng các hệ thống để giải quyết các bài toán có sử dụng tri thức.
+Suy diễn là cơ chế liên kết các tri thức đã có để suy ra tri thức mới. Có 2 phương pháp suy diễn:
+- Suy diễn tiến (lập luận tiến) (forward chaining): Là quá trình thực hiện 1 chu trình đối sánh – thực thi (match–excecute). Đầu tiên, các sự kiện trong phần vế trái của luật sẽ được kiểm tra, nếu nó thỏa mãn thì luật này khả hợp và thực thi luật này. Quá trình sẽ dừng lại khi tập các sự kiện có chứa phần kết luận.
+Ưu điểm
+- Làm việc tốt khi bài toán là đi thu thập thông tin rồi thấy điều cần suy diễn.
+ - Cho ra khối lượng lớn các thông tin từ một số thông tin ban đầu. Nó sinh ra nhiều thông tin mới
+ - Suy diễn tiến là tiếp cận tốt đối với các loại bài toán cần giải quyết các nhiệm vụ như: lập kế hoạch, điều hành, điều khiển và diễn dịch
+Nhược điểm
+ - Không cảm nhận được rằng chỉ cần một vài thông tin quan trọng. Hệ thống hỏi các câu hỏi có thể hỏi mà không biết rằng chỉ một ít câu đã đi đến kết luận được.
+ - Hệ thống có thể hỏi cả câu hỏi không liên quan. Các câu trả lời cũng quan trọng nhưng làm người dùng lúng túng khi trả lời các câu không liên quan đến chủ đề
+- Suy diễn lùi (lập luận lùi) (backward chaining): Là quá trình suy diễn xuất phát từ kết luận đã cho đã được chứng minh để tìm ra được các biến phụ cần chứng minh cho đến khi tất cả những gì cần chứng minh đã có trong giả thiết.
+Ưu điểm
+- Phù hợp với bài toán đưa ra giả thuyết và liệu giả thuyết đó có đúng hay không. - Tập trung vào đích đã cho. Nó tạo ra một loạt câu hỏi chỉ liên quan đến vấn đề đang xét, thuận tiện đối với người dùng
+ - Khi suy diễn một điều gì từ thông tin đã biết, nó chỉ tìm trên một phần của cơ sở tri thức thích đáng đối với bài toán đang xét
+- Suy diễn lùi được đánh giá cao cho các bài toán: chẩn đoán, dự đoán và tìm lỗi
+Nhược điểm: Thường tiếp theo dòng suy diễn thay vì đúng ra phải dừng ở đó mà chuyển sang nhánh khác
+CHƯƠNG 6: HỌC MÁY
+1. TỔNG QUAN VỀ HỌC MÁY
+1.1. Khái niệm cơ bản
+Định nghĩa:
+Học máy là ngành nghiên cứu thuật toán cho phép máy tính học từ dữ liệu
+Học máy cải thiện hiệu quả công việc thông qua kinh nghiệm
+Biểu diễn bài toán: (T, P, E)
+T (Task): Nhiệm vụ cần thực hiện
+P (Performance): Tiêu chí đánh giá hiệu năng
+E (Experience): Kinh nghiệm từ dữ liệu
+Ví dụ minh họa:
+Bài toán: Lọc thư rác
+T: Phân loại email là rác hay không rác
+P: Tỷ lệ % email được phân loại đúng
+E: Tập các email đã được gán nhãn
+1.2. Phân loại học máy
+A. Học có giám sát (Supervised Learning)
+Dữ liệu có cả đầu vào và đầu ra
+Phân loại: Đầu ra rời rạc (VD: rác/không rác)
+Hồi quy: Đầu ra liên tục (VD: dự đoán giá nhà)
+B. Học không giám sát (Unsupervised Learning)
+Dữ liệu chỉ có đầu vào
+Phân cụm: Nhóm dữ liệu tương tự (VD: phân nhóm khách hàng)
+Luật kết hợp: Tìm mối quan hệ (VD: khách mua A thường mua B)
+C. Học bán giám sát (Semi-supervised)
+Một phần dữ liệu có nhãn, phần còn lại không
+D. Học tăng cường (Reinforcement Learning)
+Học từ phần thưởng/phạt của môi trường
+1.3. Chia tập dữ liệu
+Tổng dữ liệu 100%
+├── Training set (60-80%): Huấn luyện mô hình
+├── Validation set (10-20%): Tối ưu tham số
+└── Test set (10-20%): Đánh giá cuối cùng
+1.4. Vấn đề quan trọng
+Overfitting (Quá khớp)
+Mô hình học quá tốt trên tập huấn luyện
+Kém hiệu quả trên dữ liệu mới
+Nguyên nhân: Mô hình quá phức tạp, dữ liệu ít, nhiễu
+Underfitting (Kém khớp)
+Mô hình quá đơn giản
+Không nắm bắt được xu hướng dữ liệu
+Định lý No-free-lunch
+Không có thuật toán nào tốt nhất cho MỌI bài toán
+Cần chọn thuật toán phù hợp với từng miền ứng dụng
+2. MẠNG NƠ RON NHÂN TẠO (ANN)
+2.1. Mô hình nơ ron cơ bản
+Công thức:
+Net = Σ(wⱼ × sⱼ) - θ
+out = g(Net)
+Trong đó:
+wⱼ: trọng số liên kết
+sⱼ: tín hiệu vào
+θ: ngưỡng
+g: hàm kích hoạt
+3 hàm kích hoạt phổ biến:
+Hàm dấu (Sign)
+g(x) = { 1 nếu x ≥ 0
+   	{-1 nếu x < 0
+Hàm Sigmoid
+g(x) = 1/(1 + e^(-x))
+Giá trị: (0, 1)
+Hàm tuyến tính từng đoạn
+g(x) = { 1 nếu x ≥ θ₁
+   	{ x nếu θ₂ < x < θ₁
+   	{ 0 nếu x ≤ θ₂
+2.2. Mạng Perceptron (1 lớp)
+Thuật toán học:
+1. Khởi tạo trọng số ngẫu nhiên [-0.5, 0.5]
+2. Với mỗi mẫu (Xₛ, Yₛ):
+   - Tính out = g(Σwⱼ×xⱼ)
+   - Err = Yₛ - out
+   - Cập nhật: wⱼ = wⱼ + η×xⱼ×Err
+3. Lặp đến khi hội tụ
+Khả năng:
+Có thể biểu diễn: AND, OR, NOT
+Không thể biểu diễn: XOR (cần nhiều lớp)
+2.3. Mạng Hopfield
+Đặc điểm:
+Mạng 1 lớp, liên kết đầy đủ
+Tự kết hợp (auto-association)
+Ứng dụng: Phục hồi mẫu có nhiễu
+Công thức trọng số:
+wⱼᵢ = Σ(xₛᵢ × xₛⱼ) với s = 1→p
+(p là số mẫu học)
+
+Điều kiện: wᵢᵢ = 0 (không tự liên kết)
+Quá trình sử dụng:
+1. X(0) = X_input
+2. Lặp:
+   Y(t) = sign(W × X(t))
+   Nếu Y(t) = X(t) → Dừng
+   Ngược lại: X(t+1) = Y(t)
+2.4. Mạng lan truyền ngược (Backpropagation)
+Cấu trúc:
+Nhiều lớp ẩn
+Lan truyền tiến (Forward) + Lan truyền ngược (Backward)
+Thuật toán:
+Bước 1: Forward (Lan truyền tiến)
+Với mỗi lớp từ input → output:
+  Netᵢ = Σ(wᵢⱼ × aⱼ)
+  aᵢ = g(Netᵢ)
+Bước 2: Backward (Lan truyền ngược)
+Lớp ra:
+δᵢ = Errᵢ × g'(Netᵢ)
+wᵢⱼ = wᵢⱼ + η × aⱼ × δᵢ
+Lớp ẩn:
+δⱼ = g'(Netⱼ) × Σ(wᵢⱼ × δᵢ)
+wⱼₖ = wⱼₖ + η × aₖ × δⱼ
+Khả năng:
+1 lớp ẩn: Xấp xỉ hàm liên tục
+2 lớp ẩn: Xấp xỉ hàm bất kỳ
+3. LOGIC MỜ (FUZZY LOGIC)
+3.1. Tập mờ cơ bản
+Định nghĩa:
+Tập mờ Ā trên U có hàm thuộc: μ_Ā: U → [0,1]
+μ_Ā(x) = độ thuộc của x vào Ā
+Biểu diễn:
+U đếm được:
+Ā = μ₁/x₁ + μ₂/x₂ + ... + μₙ/xₙ
+Ví dụ:
+U = {20, 30, 40, 50, 60} (tuổi)
+Ā_trẻ = 1.0/20 + 0.8/30 + 0.5/40 + 0.2/50 + 0.0/60
+3.2. Các phép toán tập mờ
+1. Phép HỢP (∪)
+μ_(Ā∪B̄)(x) = max{μ_Ā(x), μ_B̄(x)}
+2. Phép GIAO (∩)
+μ_(Ā∩B̄)(x) = min{μ_Ā(x), μ_B̄(x)}
+3. Phần BÙ (¬)
+μ_Ā̄(x) = 1 - μ_Ā(x)
+4. Tổng đại số (⊕)
+μ_(Ā⊕B̄)(x) = μ_Ā(x) + μ_B̄(x) - μ_Ā(x)×μ_B̄(x)
+5. Tích đại số (⊗)
+μ_(Ā⊗B̄)(x) = μ_Ā(x) × μ_B̄(x)
+3.3. Tập mức và tập rõ
+Tập mức α (α-cut)
+Ā_α = {x ∈ U | μ_Ā(x) ≥ α}
+Tập rõ gần nhất
+μ_Â(x) = { 1 nếu μ_Ā(x) ≥ 0.5
+     	{ 0 nếu μ_Ā(x) < 0.5
+3.4. Khoảng cách và chỉ số mờ
+Khoảng cách Hamming
+d(Ā,B̄) = Σ|μ_Ā(xᵢ) - μ_B̄(xᵢ)|
+Khoảng cách Hamming tương đối
+ρ(Ā,B̄) = d(Ā,B̄)/m
+(m = số phần tử)
+Khoảng cách Euclid
+e(Ā,B̄) = √[Σ(μ_Ā(xᵢ) - μ_B̄(xᵢ))²]
+Chỉ số mờ theo Hamming
+ℑ(Ā) = 2×d(Ā,Â)/n
+Chỉ số mờ theo Euclid
+ℑ(Ā) = 2×e(Ā,Â)/√n
+ VÍ DỤ VỀ MẠNG NƠ RON NHÂN TẠO
+Ví dụ 2: Mạng Perceptron - Cổng logic AND
+Bài toán: Xây dựng mạng Perceptron để mô phỏng cổng AND
+Dữ liệu huấn luyện:
+x₁
+x₂
+y (mục tiêu)
+000
+010
+100
+111
+
+Quá trình huấn luyện:
+Bước 1: Khởi tạo trọng số ngẫu nhiên
+w₁ = 0.3, w₂ = 0.3, θ = -0.5
+Hệ số học: η = 0.1
+Bước 2: Huấn luyện với mẫu (0,0) → y = 0
+- Net = w₁*0 + w₂*0 - θ = 0 - (-0.5) = 0.5
+- out = sign(0.5) = 1
+- Err = 0 - 1 = -1
+- Cập nhật:
+  w₁ = 0.3 + 0.1*0*(-1) = 0.3
+  w₂ = 0.3 + 0.1*0*(-1) = 0.3
+  θ = -0.5 + 0.1*(-1)*(-1) = -0.4
+Bước 3: Huấn luyện với mẫu (0,1) → y = 0
+- Net = 0.3*0 + 0.3*1 - (-0.4) = 0.7
+- out = sign(0.7) = 1
+- Err = 0 - 1 = -1
+- Cập nhật:
+  w₁ = 0.3
+  w₂ = 0.3 + 0.1*1*(-1) = 0.2
+  θ = -0.4 + 0.1*(-1) = -0.5
+... (tiếp tục cho đến khi hội tụ)
+Kết quả cuối: w₁ = 0.5, w₂ = 0.5, θ = -0.7
+Ví dụ 3: Mạng Hopfield - Nhớ và phục hồi mẫu
+Bài toán: Lưu trữ 2 mẫu và phục hồi khi có nhiễu
+Dữ liệu:
+Mẫu 1: X¹ = [1, -1, 1]	(mẫu "A")
+Mẫu 2: X² = [-1, 1, -1]   (mẫu "B")
+Bước 1: Tính ma trận trọng số W
+w₁₁ = x¹₁*x¹₁ + x²₁*x²₁ = 1*1 + (-1)*(-1) = 2
+w₁₂ = x¹₁*x¹₂ + x²₁*x²₂ = 1*(-1) + (-1)*1 = -2
+w₁₃ = x¹₁*x¹₃ + x²₁*x²₃ = 1*1 + (-1)*(-1) = 2
+w₂₂ = x¹₂*x¹₂ + x²₂*x²₂ = (-1)*(-1) + 1*1 = 2
+w₂₃ = x¹₂*x¹₃ + x²₂*x²₃ = (-1)*1 + 1*(-1) = -2
+w₃₃ = x¹₃*x¹₃ + x²₃*x²₃ = 1*1 + (-1)*(-1) = 2
+Ma trận W:
+	[ 2  -2   2 ]
+W = [-2   2  -2 ]
+	[ 2  -2   2 ]
+Bước 2: Phục hồi mẫu có nhiễu
+Input: X = [1, 1, 1] (mẫu "A" bị nhiễu)
+Lần 1:
+- Net₁ = 2*1 + (-2)*1 + 2*1 = 2 → out₁ = 1
+- Net₂ = (-2)*1 + 2*1 + (-2)*1 = -2 → out₂ = -1
+- Net₃ = 2*1 + (-2)*1 + 2*1 = 2 → out₃ = 1
+- Y(1) = [1, -1, 1]
+Lần 2:
+- Input X(2) = [1, -1, 1]
+- Tính lại → Y(2) = [1, -1, 1]
+- Y(2) = X(2) → Dừng
+Kết quả: Phục hồi được mẫu "A" = [1, -1, 1]
+Ví dụ 4: Mạng lan truyền ngược (Backpropagation)
+Bài toán: Học hàm XOR
+Cấu trúc mạng:
+Input layer: 2 nơ ron (x₁, x₂)
+Hidden layer: 2 nơ ron (h₁, h₂)
+Output layer: 1 nơ ron (y)
+Dữ liệu huấn luyện:
+x₁
+x₂
+y
+000
+011
+101
+110
+
+Quá trình huấn luyện với mẫu (1,0) → y = 1:
+Giả sử trọng số ban đầu:
+w₁₁ = 0.5, w₁₂ = -0.3 (từ x₁, x₂ đến h₁)
+w₂₁ = 0.2, w₂₂ = 0.4  (từ x₁, x₂ đến h₂)
+v₁ = 0.6, v₂ = -0.5   (từ h₁, h₂ đến y)
+η = 0.5 (hệ số học)
+Hàm kích hoạt: sigmoid σ(x) = 1/(1+e⁻ˣ)
+Bước 1: Lan truyền tiến (Forward)
+- Lớp ẩn:
+  Net_h₁ = 0.5*1 + (-0.3)*0 = 0.5
+  a_h₁ = σ(0.5) = 0.622
+  Net_h₂ = 0.2*1 + 0.4*0 = 0.2
+  a_h₂ = σ(0.2) = 0.550
+- Lớp ra:
+  Net_y = 0.6*0.622 + (-0.5)*0.550 = 0.098
+  out = σ(0.098) = 0.524
+Bước 2: Tính sai số
+- Err = 1 - 0.524 = 0.476
+Bước 3: Lan truyền ngược (Backward)
+- Lớp ra:
+  δ_y = Err * σ'(Net_y) = 0.476 * 0.524 * (1-0.524) = 0.119
+  Cập nhật trọng số:
+  v₁ = 0.6 + 0.5*0.622*0.119 = 0.637
+  v₂ = -0.5 + 0.5*0.550*0.119 = -0.467
+- Lớp ẩn:
+  δ_h₁ = σ'(Net_h₁) * v₁ * δ_y = 0.622*(1-0.622) * 0.6 * 0.119 = 0.017
+  δ_h₂ = σ'(Net_h₂) * v₂ * δ_y = 0.550*(1-0.550) * (-0.5) * 0.119 = -0.015
+
+  Cập nhật trọng số:
+  w₁₁ = 0.5 + 0.5*1*0.017 = 0.509
+  w₁₂ = -0.3 + 0.5*0*0.017 = -0.3
+  w₂₁ = 0.2 + 0.5*1*(-0.015) = 0.193
+  w₂₂ = 0.4 + 0.5*0*(-0.015) = 0.4
+
+3. VÍ DỤ VỀ LOGIC MỜ
+Ví dụ 5: Tập mờ "Người trẻ"
+Cho: U = {10, 20, 30, 40, 50, 60} (tuổi)
+Định nghĩa tập mờ "Trẻ":
+Ā_trẻ = 1.0/10 + 0.9/20 + 0.6/30 + 0.3/40 + 0.1/50 + 0.0/60
+Hay viết: Ā_trẻ = {(10, 1.0), (20, 0.9), (30, 0.6), (40, 0.3), (50, 0.1), (60, 0.0)}
+Các phép toán:
+a) Tập mức α-cut:
+α = 0.3: Ā₀.₃ = {10, 20, 30, 40}
+α = 0.5: Ā₀.₅ = {10, 20, 30}
+α = 0.9: Ā₀.₉ = {10, 20}
+b) Tập rõ gần nhất:
+Â = {10, 20, 30} (các phần tử có μ ≥ 0.5)
+Ví dụ 6: Tính chỉ số mờ
+Cho tập mờ:
+A = 0.3/x₁ + 0.9/x₂ + 0.7/x₃ + 0.4/x₄
+Bước 1: Xác định tập rõ gần nhất
+Với ngưỡng 0.5:
+- μ_A(x₁) = 0.3 < 0.5 → μ_Â(x₁) = 0
+- μ_A(x₂) = 0.9 ≥ 0.5 → μ_Â(x₂) = 1
+- μ_A(x₃) = 0.7 ≥ 0.5 → μ_Â(x₃) = 1
+- μ_A(x₄) = 0.4 < 0.5 → μ_Â(x₄) = 0
+Â = 0/x₁ + 1/x₂ + 1/x₃ + 0/x₄
+Bước 2: Tính chỉ số mờ theo Hamming
+d(A,Â) = |0.3-0| + |0.9-1| + |0.7-1| + |0.4-0| = 0.3 + 0.1 + 0.3 + 0.4 = 1.1
+
+ℑ(A) = 2*d(A,Â)/n = 2*1.1/4 = 0.55
+Bước 3: Tính chỉ số mờ theo Euclid
+e(A,Â) = √[(0.3-0)² + (0.9-1)² + (0.7-1)² + (0.4-0)²]= √[0.09 + 0.01 + 0.09 + 0.16]= √0.35
+ℑ(A) = 2*e(A,Â)/√n = 2*0.592/√4 = 2*0.592/2 = 0.592
+Ví dụ 7: Phép hợp và giao tập mờ
+Cho 2 tập mờ:
+A = 0.7/x₁ + 0.4/x₂ + 0.9/x₃
+B = 0.5/x₁ + 0.8/x₂ + 0.3/x₃
+a) Phép HỢP (Union):
+μ_(A∪B)(xᵢ) = max{μ_A(xᵢ), μ_B(xᵢ)}
+A∪B = max(0.7,0.5)/x₁ + max(0.4,0.8)/x₂ + max(0.9,0.3)/x₃ = 0.7/x₁ + 0.8/x₂ + 0.9/x₃
+b) Phép GIAO (Intersection):
+μ_(A∩B)(xᵢ) = min{μ_A(xᵢ), μ_B(xᵢ)}
+A∩B = min(0.7,0.5)/x₁ + min(0.4,0.8)/x₂ + min(0.9,0.3)/x₃ = 0.5/x₁ + 0.4/x₂ + 0.3/x₃
+c) Phần BÙ:
+μ_Ā(xᵢ) = 1 - μ_A(xᵢ)
+Ā = (1-0.7)/x₁ + (1-0.4)/x₂ + (1-0.9)/x₃ = 0.3/x₁ + 0.6/x₂ + 0.1/x₃
+d) Tổng đại số:
+μ_(A⊕B)(xᵢ) = μ_A(xᵢ) + μ_B(xᵢ) - μ_A(xᵢ)*μ_B(xᵢ)
+A⊕B = [0.7+0.5-0.7*0.5]/x₁ + [0.4+0.8-0.4*0.8]/x₂ + [0.9+0.3-0.9*0.3]/x₃ = 0.85/x₁ + 0.88/x₂ + 0.93/x₃
+e) Tích đại số:
+μ_(A⊗B)(xᵢ) = μ_A(xᵢ) * μ_B(xᵢ)
+A⊗B = (0.7*0.5)/x₁ + (0.4*0.8)/x₂ + (0.9*0.3)/x₃= 0.35/x₁ + 0.32/x₂ + 0.27/x₃
+Ví dụ 8: Phân tích tập mờ qua tập rõ (theo slide BTVD 2)
+Cho:
+U = {x₁, x₂, x₃, x₄, x₅, x₆, x₇}
+Các tập mức:
+A₀.₃ = {x₃, x₄, x₅, x₆, x₇}
+A₀.₅ = {x₃, x₄, x₅, x₆, x₇}
+A₀.₇ = {x₃, x₅, x₆}
+A₀.₉ = {x₅, x₆}
+Phân tích ngược lại các giá trị độ thuộc:
+Từ các tập mức, suy ra:
+- x₁: không thuộc tập nào → μ_A(x₁) = 0.1
+- x₂: không thuộc tập nào → μ_A(x₂) = 0 (giả sử)
+- x₃: thuộc A₀.₃, A₀.₅ nhưng không thuộc A₀.₇ → μ_A(x₃) = 0.5
+- x₄: thuộc A₀.₃, A₀.₅ nhưng không thuộc A₀.₇ → μ_A(x₄) = 0.6
+- x₅: thuộc tất cả kể cả A₀.₉ → μ_A(x₅) = 0.9
+- x₆: thuộc tất cả kể cả A₀.₉ → μ_A(x₆) = 1.0
+- x₇: thuộc A₀.₃, A₀.₅ nhưng không thuộc A₀.₇ → μ_A(x₇) = 0.5
+Công thức phân tích:
+A = 0.1·{x₁,x₃,x₄,x₅,x₆,x₇} ∪ 0.5·{x₃,x₄,x₅,x₆,x₇} ∪ 0.6·{x₃,x₄,x₅,x₆} ∪ 0.7·{x₃,x₅,x₆} ∪ 0.9·{x₅,x₆} ∪ 1.0·{x₆}
+
+TRẮC NGHIỆM
+Có bn quy tắc trong giải thuật TK theo chiều rộng =>  qui tắc
+Giải thuật TK theo CR bắt đầu duyệt từ => Nút gốc
+“Nếu k tìm thấy đỉnh liền kề, thì xoá đỉnh đầu tiên trong hàng đợi” là quy tắc thứ mấy trong TK theo CR => Qui tắc thứ 2
+Đâu k phải là ứng dụng của giải thuật TK theo CR trong bài toán lý thuyết đồ thị => TK có giới hạn
+=> Ứng dụng: Tìm đường đi ngắn nhất, Tìm các thành phần liên thông, Tìm tất cả các đỉnh trong 1 thành phần liên thông.
+Nếu số đỉnh là hữu hạn thì giải thuật TK theo CR có tìm ra kq không? => Có
+Giải thuật TK theo CR có bn tính chất => 2 tính chất
+Giải thuật TK theo CR có tính chất vét cạn, vậy có nên áp dụng vào đồ thị có số đỉnh lớn không? => Không nên
+GT TK theo CR => Duyệt tất cả các đỉnh
+GT TK theo CR => Sử dụng ngăn xếp
+Có bn qui tắc trong GT TK theo chiều sâu => 3 quy tắc
+TK theo CS có giới hạn là gì => Là 1 TT phát triển các nút chưa xét các theo chiều sâu nhưng có giới hạn mức
+GT TK theo CS dần có sd KGTT O(bxL) không => Có sd
+TK theo giá thành thống nhất là tối ưu vì => Con đường có chi phí thấp nhất đc chọn
+TT nào đc đưa ra để khắc phục điểm yếu của TT TK giới hạn độ sâu DLS => TK sâu dần
+GTTK sâu dần thường áp dụng cho bài toán nào => Btoan có KGTT lớn và độ sâ của nghiệm là k biết trc
+Trong GT TK leo đồi => Khi phát triển 1 đỉnh u thì bước tiếp theo ta chọn trong số các đỉnh con của u, đỉnh nào có nhiều hứa hẹn nhất để phát triển, đỉnh này đc xđ = hàm đánh giá
+GT TK nhánh cận giải quyết các bài toán nào => Các btoan tối ưu tổ hợp
+GT nhánh cận là 1 dạng tiến của TT nào => GT quay lui
+Ưu điểm GT nhánh cận => Không quét qua toàn bộ nghiệm có thể có của btoan
+Có mấy GT dựa vào GTTK tốt nhất đầu tiên => 3 giải thuật( A*)
+GTTK tốt nhất đầu tiên kết hợp 2 ưu điểm của 2 GT nào => GT TK theo CR và GT TK theo CS
+Đáp án đúng nói về GTTK tốt nhất đầu tiền => có thể bị kẹt trọng 1 vòng lặp như DFS
+GT A* được công bố lần đầu vào => 1986
+GT A*=> Tốn khá nhiều bộ nhớ để lưu lại những trạng thái đã đi qua
+Thông tin luật đánh giá heuristic về bài toán đc biểu diễn bằng luật điều khiển dưới dạng => If then
+SD thuật giải Heuristic => Nhanh chóng và dễ dàng đưa ra kq do vậy chi phí thấp
+GT heuristic thường thể hiện => Khá tự nhiên, gần gũi với cách suy nghĩ và hành động của con người
+GT đồ thị và hoặc => GT sd chỉ 1 hàm ước lượng Heuristic để đánh giá 1 trạng thái trong đồ thị
+GT đồ thị và hoặc => SD 1 danh sách S nhằm mục đích cho quá trình truyền lùi về gốc của đồ thị
+Đâu k là đặc trưng của hệ chuyên gia => Kh sd thông tin Heuristic
+( Đặc trưng: Sd tri thức chuyên gia, sd kĩ thuật tìm kiếm, có khả năng xử lí kí hiệu)
+Toán học logic xuất phát điểm từ => Tập hợp các câu đơn giản ghi nhận lại các sự kiện đã xảy ra trong 1 không gian và thời gian xác định nào đó
+Có mấy loại toán học logic => 2 loại
 
 
