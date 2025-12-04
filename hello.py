@@ -125,10 +125,17 @@ Các tính chất cơ bản:
 A ^ A == A, A v A == A
 A ^ 1 == A, A v 1 == A
 A ^ 0 == A, A v 0 == 0
-A v -A = 1, A ^ -A = 0
-A => B
-
-
+A v -A == 1, A ^ -A == 0
+A => B == -A v B
+A ⇔ B == (A => B) ^ (B => A)
+-(-A) == A
+A => B ^ C == A => B và A => C
+(A v B) => C == A => C và B => C
+Các luật:
+De Morgan: -(A v B) == -A ^ -B; -(A ^ B) == -A v -B
+giao hoán: A v B == B v A; A ^ B == B ^ A
+kết hợp: (A v B) v C == A v (B v C); (A ^ B) ^ C == A ^ (B ^ C)
+phân phối: A ^ (B v C) == (A ^ B) v (A ^ C); A v (B ^ C) == (A v B) ^ (A v C)
 Chương 5:
 
 Biểu diễn tri thức: Là mô tả về thế giới bên ngoài dưới dạng sao cho các máy tính thông minh có thể hiểu được, có thể đưa tới những kết luận về môi trường xung quanh trên cơ sở mô tả các hình thức, các tri thức nhận được.
@@ -362,9 +369,9 @@ w₂₂ = x¹₂*x¹₂ + x²₂*x²₂ = (-1)*(-1) + 1*1 = 2
 w₂₃ = x¹₂*x¹₃ + x²₂*x²₃ = (-1)*1 + 1*(-1) = -2
 w₃₃ = x¹₃*x¹₃ + x²₃*x²₃ = 1*1 + (-1)*(-1) = 2
 Ma trận W:
-	[ 2  -2   2 ]
+	    [ 2  -2   2 ]
 W = [-2   2  -2 ]
-	[ 2  -2   2 ]
+	    [ 2  -2   2 ]
 Bước 2: Phục hồi mẫu có nhiễu
 Input: X = [1, 1, 1] (mẫu "A" bị nhiễu)
 Lần 1:
@@ -496,9 +503,9 @@ Công thức phân tích:
 A = 0.1·{x₁,x₃,x₄,x₅,x₆,x₇} ∪ 0.5·{x₃,x₄,x₅,x₆,x₇} ∪ 0.6·{x₃,x₄,x₅,x₆} ∪ 0.7·{x₃,x₅,x₆} ∪ 0.9·{x₅,x₆} ∪ 1.0·{x₆}
 
 TRẮC NGHIỆM
-Có bn quy tắc trong giải thuật TK theo chiều rộng =>  qui tắc
+Có bn quy tắc trong giải thuật TK theo chiều rộng => 3 quy tắc
 Giải thuật TK theo CR bắt đầu duyệt từ => Nút gốc
-“Nếu k tìm thấy đỉnh liền kề, thì xoá đỉnh đầu tiên trong hàng đợi” là quy tắc thứ mấy trong TK theo CR => Qui tắc thứ 2
+“Nếu k tìm thấy đỉnh liền kề, thì xoá đỉnh đầu tiên trong hàng đợi” là quy tắc thứ mấy trong TK theo CR => Quy tắc thứ 2
 Đâu k phải là ứng dụng của giải thuật TK theo CR trong bài toán lý thuyết đồ thị => TK có giới hạn
 => Ứng dụng: Tìm đường đi ngắn nhất, Tìm các thành phần liên thông, Tìm tất cả các đỉnh trong 1 thành phần liên thông.
 Nếu số đỉnh là hữu hạn thì giải thuật TK theo CR có tìm ra kq không? => Có
@@ -506,12 +513,12 @@ Giải thuật TK theo CR có bn tính chất => 2 tính chất
 Giải thuật TK theo CR có tính chất vét cạn, vậy có nên áp dụng vào đồ thị có số đỉnh lớn không? => Không nên
 GT TK theo CR => Duyệt tất cả các đỉnh
 GT TK theo CR => Sử dụng ngăn xếp
-Có bn qui tắc trong GT TK theo chiều sâu => 3 quy tắc
+Có bn quy tắc trong GT TK theo chiều sâu => 3 quy tắc
 TK theo CS có giới hạn là gì => Là 1 TT phát triển các nút chưa xét các theo chiều sâu nhưng có giới hạn mức
 GT TK theo CS dần có sd KGTT O(bxL) không => Có sd
 TK theo giá thành thống nhất là tối ưu vì => Con đường có chi phí thấp nhất đc chọn
 TT nào đc đưa ra để khắc phục điểm yếu của TT TK giới hạn độ sâu DLS => TK sâu dần
-GTTK sâu dần thường áp dụng cho bài toán nào => Btoan có KGTT lớn và độ sâ của nghiệm là k biết trc
+GTTK sâu dần thường áp dụng cho bài toán nào => Btoan có KGTT lớn và độ sâu của nghiệm là k biết trước
 Trong GT TK leo đồi => Khi phát triển 1 đỉnh u thì bước tiếp theo ta chọn trong số các đỉnh con của u, đỉnh nào có nhiều hứa hẹn nhất để phát triển, đỉnh này đc xđ = hàm đánh giá
 GT TK nhánh cận giải quyết các bài toán nào => Các btoan tối ưu tổ hợp
 GT nhánh cận là 1 dạng tiến của TT nào => GT quay lui
@@ -529,6 +536,21 @@ GT đồ thị và hoặc => SD 1 danh sách S nhằm mục đích cho quá trì
 Đâu k là đặc trưng của hệ chuyên gia => Kh sd thông tin Heuristic
 ( Đặc trưng: Sd tri thức chuyên gia, sd kĩ thuật tìm kiếm, có khả năng xử lí kí hiệu)
 Toán học logic xuất phát điểm từ => Tập hợp các câu đơn giản ghi nhận lại các sự kiện đã xảy ra trong 1 không gian và thời gian xác định nào đó
-Có mấy loại toán học logic => 2 loại
+Có mấy loại toán học logic => 4 loại: Logic mệnh đề, Logic vị từ, Logic mờ, Logic xác suất
+Biểu diễn tri thức bằng logic vị từ => Cho phép ta có khả năng truy cập hoặc thay thế các thành phần của biểu diễn
+Trong logic đề xuất, ký hiệu đề xuất là => Các chữ cái in hoa ABC
+Toán logic vị từ => Là 1 phần cả toán học logic, nó mở rộng từ logic đề xuất
+PP học nhờ các mạng noron => Là pp học thay đổi cấu trúc bên trong của mạng hoặc thay đổi các trọng số kết nối giữa các noron trong mạng
+PP học ký ức( rote learning) => Sd 1 vài bộ nhớ để ghi nhận lại dữ liệu và đem ra sd trong các tình huống tương tự
+Để định nghĩa 1 khoảng không gian học thường sd phép toán => Tổng quát hoá đặc trưng hoá
+PP mờ hoá => Là qt làm mờ 1 đại lượng rõ
+PP mờ hoá trực giác => Là pp dựa trên kinh nghiệm và sự hiểu biết của con người để phát triển các hàm liên thuộc chuyển đổi các đại lượng từ rõ sang đại lượng mờ
+PP mờ hoá suy diễn là => dựa trên luật để phát triển các hàm liên thuộc
+PP giải mờ => là quá trình biến đổi từ các đại lượng mờ sang các đại lượng rõ
+PP giải mờ cực đại => lấy giá trị rõ tại điểm cực đại của tập
+PP giải mờ trọng tâm => lấy giá trị rõ tại điểm trọng tâm vùng hợp nhau
+
+
+
 
 
