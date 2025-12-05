@@ -43,28 +43,26 @@ Kiểm soát viên: thực hiện việc kiểm tra mức độ tin cậy của 
 Người viết các chuẩn kỹ thuật: tiêu chuẩn hóa các yêu cầu của quản lý thành chính sách và thủ tục cho tổ chức; viết tài liệu mô tả những đặc điểm, chức năng, công dụng của sản phẩm phần mềm.
 Lập kế hoạch công nghệ: các chuyên gia lập kế hoạch công nghệ sẽ thực hiện việc giám sát sự phát triển công nghệ trong hệ thống, xác định các xu hướn
 6.      Trình bày chức năng của từng loại hình nguồn nhân lực?
-Đối tượng
-Nhiệm vụ
-1. Phân tích viên hệ thống
+1. Phân tích viên hệ thống:
 Xác lập chiến lược sử dụng công nghệ thông tin cho cơ quan hay doanh nghiệp
 Lập kế hoạch tổng thể và kế hoạch cho từng hệ thống trong các giai đoạn lập kế hoạch cho sản phẩm phần mềm hay hệ thống tin
 Lập kế hoạch sử dụng thông tin nhất quán với các chiến lược quản lý, và tạo ra các kế hoạch tổng thể của hệ thống phù hợp với chiến lược sử dụng thông tin
 Đề xuất sản phẩm phần mềm hay hệ thống thông tin có khả năng cấu trúc lại các công tác nghiệp vụ trên cơ sở kế hoạch hệ thống tổng thế và tạo ra kế hoạch cho từng hệ thống
 Hỗ trợ việc xây dựng sản phẩm phần mềm hay hệ thống thông tin và các công việc phục vụ sản phẩm phần mềm hay hệ thống thông tin trên cơ sở các chiến lược và kế hoạch và hỗ trợ các hoạt động cấu trúc lại nghiệp vụ  được thực hiện bởi các bộ phận người dùng hệ thống
 Đánh giá việc đáp ứng mục tiêu, hiệu quả, năng suất và các chuẩn chất lượng đạt được của sản phẩm phần mềm hay hệ thông tin từ quan điểm của người lập kế hoạch
-2. Chuyên viên quản lý dự án
+2. Chuyên viên quản lý dự án:
 Tạo lập kế hoạch thực hiện của dự án trên cơ sở các kế hoạch của từng hệ thống, mua bán các tài nguyên và thiết lập hệ thống dự án.
 Quản lý kinh phí, lịch trình thực hiên và chất lượng để đảm bảo tiến độ dự án một cách trôi chảy; đáp ứng các mục tiêu dự án bằng cách hiểu những điều kiện về tiến độ, bằng cách xác định và nhận thức được các vấn đề cũng như phát sinh  có thể xảy ra trong tương lai từ giai đoạn đầu và bằng việc thực hiện các biện pháp khắc phục phù hợp
 Phân tích và đánh giá các kế hoạch dự án cũng như việc đáp ứng các kế hoạch đó sau khi đã hoàn thành toàn bộ dự án và quy trihf chủ yếu của dự án, hoặc khi cảm thấy cần thiết; phối hợp các kết quả phân tích, đánh giá trong dự an và trong vận hành hệ thống, đồng thời phổ biến các thông tin này.
 Theo dõi sát sao quá trình thực hiện các giai đoạn của dự án phần mềm
 Phát hiện kịp thời các tinh huống xảy ra, nhanh chóng đưa ra các giải pháp khắc phục hiệu quả nhất các tinh huống đó để đưa tiến trình dự án trở lại quỹ đạo bình thường
-3. Chuyên viên thiết kế, phát triển hệ thống và phần mềm
+3. Chuyên viên thiết kế, phát triển hệ thống và phần mềm:
 Tham gia vào việc phát triể phần mềm sao cho phù hợp với đặc tả ngoài trong các dự án phát triển sản phẩm phần mềm hay hệ thông tin
 Trao đổi với người thiết kế đặc tả ngoài, tạo ra thiết kế trong và biểu thiết kế chương trình phù hợp với đặc tả ngoài.
 Tạo ra chương trình hiệu quả trên cơ sở các kiến thức về thuật toán nâng cao và cấu trúc dữ liệu
 Thực hiện kiểm thử đơn vị, kiểm thử tích hợp của chương trình
 Giới thiệu các kỹ sư công nghệ thông tin trong quá trình phát triển phần mềm.
-4. Chuyên viên hệ thống ứng dụng
+4. Chuyên viên hệ thống ứng dụng:
 Phân tích những điều kiện tiên quyết cho công việc, tham gia vào hoạt động xây dựng sản phần mềm hay hệ thống thông tin trong các dự án phát triển sản phẩm phần mềm hay hệ thông tin
 Phân tich điều kiện tiên quyêt cho công việc được đòi hỏi từ phía người dùng và tổ chức các đặc tả cần thiết.
 Thiết kế sản phẩm phần mềm hay hệ thông tin bằng cách kiểm tra các phương pháp thực hiện giống như: phát triển ứng dụng mới hoặc phần mềm được đóng gous; cấu hình của hệ thống; chuyển giao và vận hành hệ thống, trên cơ sở các đặc tả cần thiết.
@@ -75,20 +73,64 @@ Tư vấn các chuyên gia về từng công nghệ phần cứng, phần mềm,
 Quản trị tài nguyên mạng là hạ tầng cơ sở của sản phẩm phần mềm hay hệ thông tin như người quản trị mạng.
 Thiết kế, xây dựng và vận hành mạng để đạt được hiệu quả cao, tin cậy, an toàn bằng cách phân tích yêu cầu LAN/WAN.
 Hỗ trợ các kỹ thuật về mạng trong mọi giai đoạn(kế hoạch,phân tich,thiết kế, vận hành và duy trì) của việc phát triển từng hệ thống.
-
-
-
-
+6. Chuyên viên hệ CSDL:
+Quản lý nguồn tài nguyên tông tin trong toàn bộ sản phẩm phần mềm hay hệ thông tin như người quản trị dữ liệu.
+Xây dựng và duy trì các CSDL cốt lõi như người quản trị dữ liệu.
+Hỗ trợ các vấn đề kỹ thuật liên quan CSDL trong mọi giai đoạn (phân tích, thiết kế, vận hành và duy trì) của sự phát triển cho từng hệ thống.
+7. Chuyên viên quản lý
+Chuyên viên quản lý hệ thông tham gia lập kế hoạch, xây dựng và vận hành hạ tầng hệ thống thông tin.
+Quản lý cấu hình, trục trặc, hiệu năng, mô tả, và an toàn liên quan đến hạ tầng hệ thống thông tin với tư cách người quản lý hệ thống.
+Thực hiện các công việc để nâng cao tính ổn định và hiệu quả hoạt động của hệ thống thông tin.
+Lập kế hoạch và thực hiện các hoạt động thử nghiệm và chuyển dịch hệ thống đối với việc cài đặt và vận hành hệ thống mới.
+Hướng dẫn, trợ giúp, hỗ trợ về mặt kỹ thuật cho người sửdụng hệ thống.
+8. Chuyên viên quản trị hệ thống cấp cao:
+Các chuyên gia này chiếm vị trí hàng đầu trong vận hành nghiệp vụ và trong các hoạt động khác của tổ chức hay cơ quan, đóng vai trò lãnh đạo trong chu kỳ cải tiến hoạt động nghiệp vụ, và việc sử dụng thông tin. Họ được yêu câu phải hiêu được các chiến lược quản lý, chiến lược nghiệp vụ và phục vụ các chức năng sau cho cả nghiệp vụ lẫn hệ thông tin.
+Tham gia lập kế hoạch các mô hình nghiệp vụ và tái cấu trúc quy trình nghiệp vụ, lập kế hoạch thực hiện, và chuẩn bị kế hoạch đối với môi trường thực hiện.
+Tạo ra các biện pháp thực hiện cụ thể đối với các mô hình nghiệp vụ mới và các quy trình nghiệp vụ mới, cũng như đưa ra chỉ dẫn cho các hoạt động tái cấu trúc.
+Đánh giá tác động của các hoạt động mới và các thông tin phản hồi cần thiết để đạt được tiến bộ sau này.
+Hiểu quy trình phát triển hệ thống và các mức độ đạt được, chuẩn bị cho việc chấp nhận, vận hành, xác định và quy định trong các vấn đề cần thiết để bắt đầu vận hành.
+Giám sát liên tục hoạt động của hệ thống và các điều kiện sử dụng như một phần của công việc nghiệp vụ hàng ngày, đánh giá sự hoàn thành của hệ thống và đưa ra đề xuất cải tiến.
+Tham gia vào lập kế hoạch, đánh giá nghiệp vụ và chiến lược thông tin do công ty đang tiến hành và cung cấp sự hỗ trợ.
+9. Chuyên viên hệ thống gắn:
+Chuyên viên triển khai hệ thống gắn tham gia lập kế hoạch quy trình triển khai hệ thống và thiết kế các công việc dựa trên kế hoạch triển khai hệ thống.
+Đánh giá hiệu quả kỹ thuật và kinh tế của phần mềm, bộ vi xử lý, và các vi mạch (LSI) nhúng trong sản phẩm để đảm bảo đáp ứng được các đặc tả đã đề ra.
+Lập kế hoạch thiết kế hệ thống nhúng, bao gồm: các đề xuất quy trình triển khai hệ thống, đưa ra các đặc tả cần có, kiểm tra khả năng xử lý thời gian thực, và cân bằng giữa phần cứng và phần mềm.
+Xác định và lựa chọn các đặc tả cho bộ vi xử lý, vi mạch (LSI), hệ điều hành thời gian thực, và các thành phần khác.
+Sắp xếp và cải thiện môi trường triển khai việc thực hiện các hoạt động triển khai.
+10. Chuyên viên quản trị an toàn hệ thông tin.
+Là người chịu trách nhiệm quản lý an ninh thông tin, người quản trị an toàn hệ thống thông tin lập kế hoạch và thực hiện các quy chế an toàn thông tin dựa trên các khía cạnh vật lý, con người và kỹ thuật.
+Sắp xếp các tài nguyên thông tin, phân tích các mối đe dọa và nguy cơ an toàn, cũng như đưa ra những chính sách an toàn để xác định mục tiêu quản lý an toàn của cơ quan.
+Lựa chọn và áp dụng các công nghệ để đạt được an toàn thông tin phù hợp với các chính sách thông tin, đưa ra các hướng dẫn vận hành và giáo dục người dung.
+Theo dõi liên tục các xâm phạm về an toàn dựa trên đầu ra thông tin các loại của hệ thống, và thực hiện các biện pháp đối phó với xâm phạm an toàn.
+11. Chuyên viên công nghệ thông tin cơ bản.
+Các chuyên viên này tham gia vào thiết kế và phát triển chương trình dựa trên cơ sở các đặc tả bên trong của các dự án phát triển sản phẩm phần mềm.
+Có khả năng đóng góp bằng việc sử dụng các kiến thức chung về công nghệ thông tin.
+Có khả năng tạo ra biểu thiết kế chương trình dựa trên đặc tả thiết kế bên trong dưới sự hướng dẫn của người chuyên viên cấp cao hơn.
+Có khả năng tạo ra chương trình dựa trên các kiến thức thuật toán cơ bản và cấu trúc dữ liệu.
 7.     Trình bày nội dung tài liệu thiết kế phần mềm?
+Mục I của tài liệu thiết kế có tên là Phạm vi trình các vấn đề chung tổng quát như mục tiêu của phần mềm, các chức năng chính của phần mềm, các giới hạn và các ràng buộc.
+Mục II trình bày các tài liệu tham khảo, các tài liệu hỗ trợ.
+Mục III, mô tả thiết kế, được hoàn tất như một phần của thiết kế sơ bộ. Cần lưu ý rằng, thiết kế là hướng thông tin - tức là luồng hoặc cấu trúc của dữ liệu sẽ khống chế kiến trúc của phần mềm. Trong mục này, biểu đồ dòng dữ liệu hay các biểu diễn dữ liệu khác được phát triển trong khi các phân tích yêu cầu được làm mịn và được dùng để điều khiển cấu trúc phần mềm.
+Các mục IV và V trình bày các nội dung khi thiết kế sơ bộ chuyển thành thiết kế chi tiết. Các mô-đun – các phần từ định địa chỉ tách biệt được của phần mềm như chương trình con, hàm hay thủ tục – khởi đầu được mô tả bằng lời thuật xử lý trong tiếng Anh. Lời thuật xử lý giải thích chức năng thủ tục của một mô-đun. Sau này, một công cụ thiết kế thủ tục sẽ được dùng để dịch lời thuật thành một mô tả có cấu trúc.
+I. Phạm vi: Mục tiêu hệ thống, Phần cứng, phần mềm và giao diện con người, Các chức năng phần mềm chính, Cơ sở dữ liệu được xác định bên ngoài, Các ràng buộc, giới hạn thiết kế chính
+II. Tài liệu tham khảo: Tài liệu về phần mềm hiện có, Tài liệu hệ thống, Tài liệu người cung cấp (phần cứng và phần mềm), Tham khảo kỹ thuật
+III. Mô tả thiết kế: Mô tả dữ liệu( Tổng quan về luồng dữ liệu, Tổng quan về cấu trúc dữ liệu), Cấu trúc chương trình suy dẫn, Giao diện bên trong cấu trúc
+IV. Mô-đun; cho mỗi mô-đun: Lời thuật xử lý, Mô tả giao diện, Mô tả ngôn ngữ thiết kế (hay những mô tả khác), Các mô-đun đã dùng,Tổ chức dữ liệu, Bình luận
+V. Cấu trúc tệp và dữ liệu toàn cục: Cấu trúc tệp ngoài( Cấu trúc logic, Mô tả bản ghi logic, Phương pháp thâm nhập),  Dữ liệu toàn cục, Tham khảo chép tệp và dữ liệu
+VI. Tham khảo chéo yêu cầu
 
-
-
-
-
-
+VII. Điều khoản kiểm thử: Hướng dẫn kiểm thử, Chiến lược tích hợp, Xem xét đặc biệt
+VIII. Đóng gói: Các điều khoản cho chương trình chồng chất đặc biệt, Xem xét chuyển đổi
+IX. Lưu ý đặc biệt
+X. Phần phụ lục
 8.     Khái niệm kiểm thử hộp trắng? Đối tượng và mức độ áp dụng của kiểm thử hộp trắng?
 KN: Kiểm thử hộp trắng( Kiểm thử cấu trúc) là hình thức kiểm thử dựa trên giải thuật, cấu trúc của các lệnh bên trong chương trình với đảm bảo rằng tất cả các câu lệnh sẽ được thực hiện ít nhất một lần.
-
+Đối tượng áp dụng: Đối tượng được kiểm thử là một thành phần phần mềm, tức là có thể là một hàm chức năng, một mô-đun chức năng, một phân hệ chức năng....
+Mức độ áp dụng: Phương pháp kiểm thử hộp trắng áp dụng cho các trường hợp sau đây:
++ Kiểm thử đơn vị (Unit testing): để kiểm tra đường dẫn trong một
++ Kiểm thử tích hợp (Integration testing): để kiểm tra đường dẫn giữa các đơn vị.
++ Kiểm thử hệ thống (System testing): để kiểm tra các đường dẫn giữa các hệ thống con với nhau.
+Tuy nhiên, kiểm thử hộp trắng chủ yếu áp dụng cho các kiểm thử đơn vị.
 9.     Trình bày chi tiết từng giai đoạn kiểm thử?
 *Phân tích yêu cầu:
 Đầu vào: Tài liệu đặc tả yêu cầu, tài liệu thiết kế hệ thống, tài liệu khách hàng yêu cầu về các tiêu chí chấp nhận của sp, bản mẫu của khách hàng yêu cầu (nếu có)
@@ -159,7 +201,11 @@ Quản lý chất lượng phần mềm (Software Quality Management) là quá t
 Nó bao gồm các hoạt động nhằm ngăn ngừa lỗi, phát hiện lỗi và cải tiến liên tục để đảm bảo phần mềm có chất lượng cao, thỏa mãn người dùng và tuân thủ các tiêu chuẩn kỹ thuật.
 13. Qui trình CMM là gì? Các cấp độ của CMM?
 Là một bộ khung gồm những chuẩn đề ra cho một tiến trình sản xuất phần mềm hiệu quả.
-
+Cấp độ 1: Khởi đầu
+Cấp độ 2: Dược lặp lại
+Cấp độ 3: Được xác định
+Cấp độ 4: Được quản lí
+Cấp độ 5: Tối ưu
 Trình bày các nội dung CMM cấp độ 1
  Cấp độ 1 là bước khởi đầu của CMM. Mọi doanh nghiệp, mọi công ty phần mềm, Mỗi nhóm, mỗi cá nhân đều có thể đạt được. Ở cấp độ này CMM chưa yêu cầu bất kỳ tính năng nào
 Trình bày các nội dung CMM cấp độ 2
@@ -194,19 +240,24 @@ quản trị thay đổi công nghệ
 quản trị thay đổi quá trình
 14. Khái niệm quản lý cấu hình và nội dung kế hoạch quản lý cấu hình?
 Quản lý cấu hình là yêu cầu bắt buộc và có mục đích là để thiết lập bảo đảm tính toàn vẹn của các sản phẩm trung gian cũng như là các sản phẩm sau cùng của một dự án phần mềm, xuyên suốt Chu kỳ sống của dự án đó
-
+Quản lý cấu hình:
+Lập kế hoạch quản lý cấu hình: Định danh, Kiểm soát phiên bản, Quản lý điểm mốc
+Kiểm soát thay đổi: Báo cáo tình trạng cấu hình, Kiểm toán cấu hình, Quản lý sản phẩm, Lưu trữ và sao chép dự phòng
 15. Trình bày về phân tích và phân loại rủi ro?
-·   	Phân tích khả năng xuất hiện rủi ro: 4 mức đo lường khả năng xuất hiện rủi ro: thường xuyên, hay xảy ra, đôi khi, hiếm khi
-·   	Phân tích mức tác động của rủi ro: 4 mức đo lường: trầm trọng, quan trọng, vừa phải, không đáng kể
-·   	phân tích các thời điểm xuất hiện rủi ro: ngay lập tức, rất gần, sắp xảy ra, rất lâu
-·   	Uớc lượng và phân hạng các rủi ro: tùy theo tổ chức, đặc thù từng dự án, trưởng dự án sẽ xác định rủi ro cần đưa vào kiểm soát, với các mức ưu tiên khác nhau
+· Phân tích khả năng xuất hiện rủi ro: 4 mức đo lường khả năng xuất hiện rủi ro: thường xuyên, hay xảy ra, đôi khi, hiếm khi
+· Phân tích mức tác động của rủi ro: 4 mức đo lường: trầm trọng, quan trọng, vừa phải, không đáng kể
+·   Phân tích các thời điểm xuất hiện rủi ro: ngay lập tức, rất gần, sắp xảy ra, rất lâu
+·  Uớc lượng và phân hạng các rủi ro: tùy theo tổ chức, đặc thù từng dự án, trưởng dự án sẽ xác định rủi ro cần đưa vào kiểm soát, với các mức ưu tiên khác nhau
 16. Trình bày đặc trưng và mối quan hệ giữa các mức, dữ liệu và xử lý của phương pháp MERISE?
 - Đặc trưng của phương pháp MERISE là tách rời dữ liệu và quy trình xử lý nhằm đảm bảo tỉnh khách quan trong quá trình phân tích và cung cấp đầy đủ các mô hình để diễn đạt các bước cập nhật. Hệ thống bao gồm dữ liệu và quy trình xử lý được biểu diễn ở ba mức:
 + Mức quan niệm (Concept): xác định các thành phần của dữ liệu và xử lý.
 + Mức tổ chức (Oganization): chi tiết hóa những quan hệ giữa chúng.
 + Mức tác nghiệp (Physic): các thành phần được thể hiện trong thực tế như thế nào.
 - Trên cơ sở ba mức bất biến của hệ thống thông tin, phương pháp phân tích thiết kế MERISE sử dụng các mô hình tương ứng trên các mức này để phân tích thiết kế một hệ thống thông tin
-
+- Mối quan hệ giữa các mức, dữ liệu và xử lí
+Mức quan niệm-Mô hình quan niệm về dữ liệu-Mô hình quan niệm về xử lí.
+Mức tổ chức-Mô hình tổ chức về dữ liệu-Mô hình tổ chức về xử lí
+Mức vật lí-Mô hình vật lí về dữ liệu- Mô hình vật lý về xử lí
 17. Trình bày khái niệm và các thành phần của biểu đồ BFD?
 - Mục đích của việc phân tích chức năng là xác định một cách chính xác và cụ thể các chức năng chính của hệ thống quản lý mà chúng ta sẽ tiên hành xây dựng phân mêm. Trong giai đoạn phân tích chức năng, người ta phải xác định một cách rõ ràng những gì mà hệ thống sẽ phải thực hiện mà chưa quan tâm tới phương pháp thực hiện các chức năng ấy. Biểu đồ BFD (còn gọi là Sơ đồ BFD) là việc phân rã có thứ bậc đơn giản các chức năng của hệ thống trong thành các chức năng nhỏ hơn, cuối cùng thu được một cây chức năng hoàn chỉnh.
 - Biểu đồ BFD đầy đủ gồm những thành phần sau đây:
@@ -214,21 +265,29 @@ Quản lý cấu hình là yêu cầu bắt buộc và có mục đích là đ�
 + Mô tả các chức năng;
 + Đầu vào của chức năng;
 + Đầu ra của chức năng.
-
 18. Trình bày ký pháp và đặc điểm của biểu đồ BFD?
-* Ký pháp
-
+* Ký pháp:
+Kí hiệu chức năng là 1 hình chữ nhật bên trong là tên chức năng.
+Liên kết các chức năng là đường thẳng
+Tên chức năng là Động từ-Bổ ngữ và động từ nên ở dạng thức mệnh lệnh.
 * Đặc điểm:
 - Biểu đồ phân cấp chức năng - BFD có các đặc điểm sau:
 + BFD cung cấp cách nhìn tổng quát về chức năng của hệ thống, phạm vi cần phân tích+ BFD trình bày các chức năng của hệ thống ở dạng tĩnh, tức là không thể hiện được mối quan hệ về chuyển giao thông tin giữa các chức năng, không thể hiện trình tự thực hiện xử lý thông tin.
 + BFD thường được sử dụng để bổ trợ cho việc xây dựng biểu đồ luồng dữ liệu DFD.
 + Chất lượng của tên đặt cho các chức năng là quan trọng cho thành công của hệ thống.
+Mỗi chức năng cần có 1 tên duy nhất, tên nên biểu thị thật sát và đầy đủ ý nghĩa của các chức năng con của chức năng được đặt tên. Tên của chức năng cần phải phản ánh được các chức năng của thế giới thực chứ không chỉ cho hệ thống thông tin.
++ Biểu đồ BFD rất gần với sơ đồ tổ chức, tuy nhiên không nên nhầm lẫn giữa hai loại biểu đồ này.
+Trình tự xây dựng biểu đồ chức năng BFD theo các bước sau:
++ Xem cả hệ thống là một chức năng duy nhất, còn gọi là mức 0;
++ Phân rã khối chức năng ở mức trên thành các chức năng nhỏ hơn ở mức dưới, lần lượt đánh số là mức 1, mức 2,...
 
 19. Trình bày khái niệm và các ký pháp của biểu đồ ngữ cảnh?
 * Khái niệm
 - Biêu đô ngữ cảnh (Context Diagram) thường được xây dựng ở giai đoạn đầu tiên của quá trình phân tích và được dùng để vạch ra biên giới của hệ thống cũng như để phân tích viên hệ thống xem xét mọi tham số ở bên ngoài hệ thống. Chúng ta cũng có thể dùng biểu đồ này như mức cao nhất có thể được của DFD, trong đó có thể đạt tới biểu đồ DFD mức 0 bằng cách phân rã chức năng quá trình trung tâm của biểu đồ ngữ cảnh
-* Ký pháp
-
+* Ký pháp dùng trong biểu đồ ngữ cảnh:
+Toàn bộ hệ thống đang nghiên cứu: Hình oval bên trong là Tên hệ thống
+Các tác nhân bên ngoài tham gia: Hình chữ nhật bên trong là Tên tác nhân
+Các dòng thông tin đi vào và đi ra của hệ thống: Mũi tên
 - Như vậy, trong mỗi biểu đồ ngữ cảnh sẽ có một vòng tròn quá trình trung tâm biểu thị cho toàn bộ hệ thống đang nghiên cứu. Vòng tròn này được bao quanh bởi các tác nhân bên ngoài của hệ thống được biểu diễn bằng các hình chữ nhật. Các dòng thông tin đi vào và đi ra khỏi hệ thống từ các tác nhân được biểu diễn bằng các mũi tên định hướng đi vào và đi ra.
 20. Trình bày khái niệm và các ký pháp của biểu đồ DFD?
 * Khái niệm
@@ -237,7 +296,10 @@ Quản lý cấu hình là yêu cầu bắt buộc và có mục đích là đ�
 - Như vậy, biểu đồ DFD cung cấp cho phân tích viên hệ thống một cái nhìn tổng thể về hệ thống và cơ chế lưu chuyển thông tin trong hệ thống ấy. Biểu đồ DFD xác định các thông tin luân chuyển từ một quá trình hoặc từ chức năng này trong hệ thống sang một quá trình hoặc chức năng khác. Điều quan trọng nhất là nó chỉ ra phải có săn những thông tin nào trước khi thực hiện một chức năng hay một quá trình nào đó.
 * Các ký pháp
 - Để biểu diễn biểu đồ BFD người ta sử dụng một số ký hiệu quy ước được gọi là các ký pháp của DFD. Ký pháp của DFD bao gồm bốn ký hiệu là: nguồn hoặc đích, tên dòng dữ liệu, tiến trình xử lý, kho dữ liệu. Các ký hiệu này được biểu diễn trong hình sau đây:
-
+Tác nhân, nguồn hoặc đích: Hình chữ nhật bên trong là Tên tác nhân
+Quá trình hay chức năng: Hình oval bên trong là tên chức năng.
+Luồng dữ liệu: Mũi tên và trên mũi tên có ghi luồng dữ liệu
+Kho dữ liệu: 2 đường thẳng song song và ở giữa là Tên kho dữ liệu
 21. Trình bày những điểm cần chú ý trong biểu đồ DFD?
 *Không mô tả xử lý logic — chỉ mô tả dòng dữ liệu
 DFD tập trung vào dữ liệu đi đâu, đến ai, và được xử lý ở mức nào, không mô tả thuật toán hay quy trình chi tiết.
@@ -271,25 +333,21 @@ Quan trọng trong bài nộp để giảng viên chấm dễ.
 22. Trình bày về phân rã biểu đồ DFD?
 - Như vậy, khi sử dụng phương pháp phân rã biểu đồ luồng dữ liệu DFD mức đình chúng ta thu được nhiều mức DFD khác nhau, từ mức tổng quát nhất đến các mức ngày càng chi tiết hơn. Điều này cũng tương tự như bản vẽ thiết kế một tòa nhà của một kiến trúc sư. Mức tổng quát đầu tiên là phối cảnh hình ảnh của ngôi nhà tương lai. Sau đó, dữ liệu được phân mức thành bản vẽ thiết kế từng tầng. Bước phân mức tiếp theo là trong mỗi tầng được phân mức thành các bản vẽ thiết kế chi tiết hơn như thiết kế sản, thiết kế dầm chịu lực.
 -Trong quá trình phân rã DFD, chúng ta cần phải cho mỗi trang của biểu đồ DFD một tiêu đề riêng. Trong trường hợp sơ đồ mức 0, tiêu đề sẽ là tên của toàn bộ hệ thống, và tiêu đề cho từng mức thấp hơn sẽ mang tên của quá trình đang triển khai. Trong cách tiếp cận này, mỗi quá trình ở biểu đồ mức đỉnh đều được gắn với một con số cụ thể, và sẽ được mang tiếp theo với các chỉ số chỉ mức phụ thuộc, xem như một cách đặt tên theo con số cho từng quá trình con của nó.
-Ví dụ:
-+ Mức 0
-+ Mức 1
-+ Mức 2
-+ Mức 3
-+ Mức 4
-Trong DFD của mức 1 ta lại có:
-+ Mức 1.1
-+ Mức 1.2
-+ Mức 1.3
+Ví dụ: Mức 0, Mức 1, Mức 2, Mức 3, Mức 4
+Trong DFD của mức 1 ta lại có: Mức 1.1, Mức 1.2, Mức 1.3
 23. Trình bày về kiến trúc phần mềm và cho ví dụ?
 - Kiến trúc phần mềm (Software Architecture) chỉ một cấu trúc tổng thể của phần mêm và qua đó cung cấp một sự tích hợp về mặt khái niệm của một hệ thống.
 - Kiến trúc phần mềm có vai trò rất quan trọng trong kỹ nghệ phần mêm vì:
 + Kiến trúc phần mềm là công cụ giao tiếp giữa những người có liên quan trong quy trình sản xuât phân mêm.
 + Kiến trúc phân mêm là cơ sở để tiên hành phân tích hệ thống.
 + Kiến trúc phân mêm là cơ sở để sử dụng lại phân mêm cho các hệ thông có yêu câu tương tự.
-
-Ví dụ:
-
+Ví dụ: Phần mềm thẩm định khoản vay đối với khách hàng doanh nghiệp lớn.
+Quản trị hệ thống: Quản lí hệ thống, quản lí người dùng
+Quản lí danh mục: Quản lí cán bộ, quản lí chi nhánh, quản lí khách hàng
+Quản lí tài liệu: Quản lí hồ sơ cho vay, quản lí văn bản chế độ
+Thẩm định hồ sơ cho vay: Nhập thông tin khoản vay, đối chiếu với quy định cho vay, thông báo kết quả thẩm định.
+Báo cáo: Lựa chọn báo cáo, hiển thị báo cáo
+Tìm kiếm: Đưa ra tiêu chí tìm kiếm, hiển thị kết quả tìm kiếm
 24. Trình bày nguyên tắc thiết kế giao diện và trình bày thông tin trên màn hình.
 - Các nguyên tắc thiết kế giao diện:
 + Khuôn dạng màn hình nhập liệu phải được thiết kế giống như khuôn dạng của tài liệu gốc. Không yêu cầu người sử dụng phải ghi nhớ thông tin từ màn hình này sang màn hình khác.
@@ -305,27 +363,9 @@ Ví dụ:
 * Nội dung chính của tài liệu thiêt kê bao gồm các mục sau đây:
 a. Trang nhan đề: Phần này trình bày các thông tin về: tên phần mềm, tên tác giả, nơi làm việc của tác giả, ngày xuất bản.
 b. Mục lục: Phần này trình bày nội dung các chương mục chính của tài liệu.
-c. Tóm tắt hệ thống: Phần này trình bày một cách ngắn gọn các vấn đề chủ yếu của phần mềm.
-- Quy trình thao tác của hệ thống
-- Mô tả toàn bộ hệ thống
-- Mô tả hoạt động cho các bộ phận liên quan
-- Kiểm soát phần mềm
-- Tài liệu đầu vào cho máy tính
-- Thiết kế giao diện màn hình
-- Mô tả cách sử dụng
-- Quy tắc hoàn chỉnh mỗi trường
-- Cách sửa chữa do nhầm lẫn được ghi chú
-- Giải thích thông báo lỗi trong chương trình
-d. Tài liệu ra: Đối với mỗi báo cáo ở đầu ra:
-- Mô tả về xuất xứ
-- Mô tả cách sử dụng
-- Giải thích từng trường một
-- Giải thích thông báo lỗi
-- Sửa các lỗi một cách có hiệu quả
-- Tài liệu phi máy tính
-- Đối với mỗi tài liệu:
-- Thí dụ băng những mô tả
-- Xử lý các dữ liệu sai
+c. Tóm tắt hệ thống: Phần này trình bày một cách ngắn gọn các vấn đề chủ yếu của phần mềm.: Quy trình thao tác của hệ thống, Mô tả toàn bộ hệ thống, Mô tả hoạt động cho các bộ phận liên quan, Kiểm soát phần mềm, Tài liệu đầu vào cho máy tính, Thiết kế giao diện màn hình, Mô tả cách sử dụng, Quy tắc hoàn chỉnh mỗi trường, Cách sửa chữa do nhầm lẫn được ghi chú, Giải thích thông báo lỗi trong chương trình
+d. Tài liệu ra: Đối với mỗi báo cáo ở đầu ra: Mô tả về xuất xứ, Mô tả cách sử dụng, Giải thích từng trường một, Giải thích thông báo lỗi, Sửa các lỗi một cách có hiệu quả, Tài liệu phi máy tính,
+Đối với mỗi tài liệu: Thí dụ băng những mô tả, Xử lý các dữ liệu sai
 26. Nêu các nội dung cần có của Các lưu đồ hệ thống, Các tiến trình máy tính, tài nguyên máy tính, tài liệu input của Tài liệu thiết kế phần mềm
  a. Các lưu đồ hệ thống:
 - Các sơ đồ dòng dữ liệu và lưu đồ hệ thống
@@ -333,24 +373,9 @@ d. Tài liệu ra: Đối với mỗi báo cáo ở đầu ra:
 - Giải thích các thuật ngữ kỹ thuật cần thiết; tên các quá trình máy tính (chương trình...);
 - Danh sách gợi ý nội dung Tài liệu vận hành
 b. Các tiến trình máy tính:
-- Đối với mỗi tiến trình cần đưa ra các thông tin cần thiết sau đây:
-+ Mô tả tiên trình
-+ Tham khảo dữ liệu input và output
-+ Tham khảo các chương trình
-+ Giải thích các thông báo
-- Tài nguyên máy tính:
-+ Dung lượng bộ nhớ (Cực đại/ Cực tiểu)
-+ Khối lượng (Đầu vào/ Đầu ra/ Lưu trữ)
-+ Ngoại vi
-+ Tham khảo các tệp
-+ Thời gian chạy
-+ Phân cấp các mức ưu tiên
-- Tài liệu input:
-+ Nguồn gốc của các dữ liệu input
-+ Các thủ tục kiểm tra dữ liệu vào
-+ Kiểm soát dữ liệu vào
-+ Thời gian biểu (số lượng đến, thời gian nhập)
-+ Nơi nhận tài liệu vào
+- Đối với mỗi tiến trình cần đưa ra các thông tin cần thiết sau đây:Mô tả tiên trình, Tham khảo dữ liệu input và output, Tham khảo các chương trình, Giải thích các thông báo
+- Tài nguyên máy tính: Dung lượng bộ nhớ (Cực đại/ Cực tiểu), Khối lượng (Đầu vào/ Đầu ra/ Lưu trữ), Ngoại vi, Tham khảo các tệp, Thời gian chạy, Phân cấp các mức ưu tiên
+- Tài liệu input: Nguồn gốc của các dữ liệu input, Các thủ tục kiểm tra dữ liệu vào, Kiểm soát dữ liệu vào, Thời gian biểu (số lượng đến, thời gian nhập), Nơi nhận tài liệu vào
 
 
 
