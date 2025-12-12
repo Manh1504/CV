@@ -1,381 +1,322 @@
-1.     Trình  bày các đặc trưng cơ bản của phần mềm?
-Các đặc trưng của phần mềm:
-- Phần mềm được kỹ nghệ hoá nó không được chế tạo theo nghĩa cổ điển
-Phần mềm là phần tử hệ thống logic chứ không phải là hệ thống vật lý do đó nó có các đặc trưng khác với hệ thống phần cứng. Trong mỗi sản phẩm phần mềm đều chứa một hàm lượng lao động quan trọng nhất là chất xám. Đó chính là trí tuệ và lao động trí óc của tất cả những thành viên trong dự án phần mềm từ nhà quản trị dự án, cán bộ phân tích thiết kế cho đến những người lập trình trực tiếp. Phần mềm tiêu thụ rất ít nguyên liệu thô.
-- Phần mềm không bị hỏng đi trong quá trình sử dụng
-Một đặc trưng cơ bản của phần mềm là nó không bị hỏng đi trong quá trình sử dụng. Phần mềm không bị ảnh hưởng bởi các yếu tố môi trường, thời tiết. Phần mềm chỉ bị trục trặc do những khiếm khuyết do thiết kế hoặc lập trình mà phần lớn trong số này được phát hiện và sửa chữa ngay trong giai đoạn đầu khi phần mềm được đưa vào sử dụng.}
-- Phần mềm được sáng chế theo đơn đặt hàng chứ không được lắp ráp từ các thành phần có sẵn
-Phần mềm được sáng chế theo yêu cầu của mỗi khách hàng, chứ không phải được lắp ráp từ những thành phần có sẵn. Phần mềm được xây dựng theo yêu cầu của các tổ chức khác nhau phải đáp ứng được những đặc điểm riêng về quy trình nghiệp vụ của tổ chức ấy. Trong giai đoạn hiện nay, trong nhiều lĩnh vực hoạt động xã hội, các quy trình nghiệp vụ đã được chuẩn hóa, thống nhất theo mẫu chung nên trên thực tế các nhà sản xuất phần mềm có thể xây dựng những bộ phận phần mềm theo chuẩn mực chung và khi cần sẽ điều chỉnh cho phù hợp với đặc điểm riêng theo yêu cầu của khách hàng.
-2.     Trình bày các tiêu chuẩn đánh giá chất lượng phần mềm theo chuẩn ISO/IEC9126?
-Chuẩn ISO/IEC 9126 đã quy định đặc tính đánh giá chất lượng phần mềm bao gồm 6 tiêu chuẩn lớn được chia thành 21 tiêu chuẩn con cụ thể.
-Tiêu chuẩn 1: Chức năng (Functional): đánh giá các chức năng của phần mềm đáp ứng được nhu cầu của người tiêu dùng.
-Tiêu chuẩn 2: Độ tin cậy (Reliability): khả năng đảm bảo an toàn hiệu quả của phần mềm dưới tác động bên ngoài.
-Tiêu chuẩn 3: Tính khả dụng (Usability): khả năng sử dụng phần mềm theo hướng giảm thiểu những nỗ lực của người sử dụng.
-Tiêu chuẩn 4: Tính hiệu quả (Efficiency): hiệu quả mà phần mềm mang lại.
-Tiêu chuẩn 5: Khả năng bảo trì (Maintainability): khả năng bảo trì của phần mềm.
-Tiêu chuẩn 6: Khả năng chuyển đổi (Portability)
-3.     Trình bày các thế hệ ngôn ngữ lập trình?
-·   	Ngôn ngữ thế hệ thứ nhất: Tiêu biểu nhất của ngôn ngữ thế hệ thứ nhất là hợp ngữ. Các ngôn ngữ thế hệ thứ nhất có đặc điểm là phụ thuộc rất mạnh vào từng máy tính điện tử cụ thể và mức độ trừu tượng của các chương trình thường rất thấp
-·   	Ngôn ngữ thế hệ thứ hai: Các ngôn ngữ thế hệ thứ hai được đặc trưng bởi việc sử dụng một thư viện các chương trình phần mềm rất lớn được sử dụng rộng rãi trong nhiều lĩnh vực khác nhau. Ví dụ, FORTRAN là ngôn ngữ thế hệ thứ hai được áp dụng phổ biến trong việc giải quyết các bài toán khoa học và kỹ thuật, COBOL cũng được ứng dụng rộng rãi trong lĩnh vực thương mại điện tử và xử lý dữ liệu kinh tế…
-4.     Phân loại nghề nghiệp theo mức độ kinh nghiệm trong nguồn nhân lực kỹ nghệ phần mềm?
-Xét trên mức độ kinh nghiệm, người ta chia ra các nhóm gồm: sơ cấp, trung cấp, cao cấp, chuyên gia kỹ thuật, nhà quản lý.
-Sơ cấp: làm việc theo đúng chuyên môn được đào tạo và được quản lý chặt chẽ, được giúp đỡ để nâng cao sự hiểu biết và tích lũy kinh nghiệm trong công việc.
-Trung cấp: thường có 2-4 năm kinh nghiệm thực tế trong công việc, có thể làm việc độc lập và thực hiện trực tiếp 1 số các hoạt động trong hệ thống.
-Cao cấp: đã có 1 trình độ khá cao trong công việc và tích lũy được rất nhiều kinh nghiệm trong kỹ thuật đào tạo và huấn luyện người khác. Thường được giao nhiệm vụ giám sát người khác.Phụ thuộc vào quy mô, sự phức tạp của các dự án mà họ thường được giao nhiệm vụ lãnh đạo các nhóm, các dự án.
-Chuyên gia kỹ thuật: là người có kinh nghiẹm sâu rộng trong nhiều lĩnh vực hoạt động khác nhau. Kinh nghiệm của một chuyên gia bao gồm nhiều lĩnh vực như phát triển phần mềm, về mạng máy tính, về cơ sở dữ liệu và hệ điều hành. Ngoài kiến thức chuyên môn thì các chuyên gia kỹ thuật cũng là những người có trình độ quản lý cao nhưng họ không phải chịa trách nhiêm cho một dựa án cụ thể nào. Các chuyên gia kỹ thuật là những người đã làm việc trong hệ thống được khoảng hàng chục năm và cũng có thể duy trì lâu dài ở cấp độ này
-Quản lý: tiến hành công việc quản lý hệ thống một cách độc lập, phát huy được tính sáng tạo và vị trí của riêng từng cá nhân, thực hiện công việc quản lý các dự án phần mềm một cách tốt nhất.
-5.     Phân loại nghề nghiệp theo loại hình công việc trong nguồn nhân lực kỹ nghệ phần mềm?
-Các loại hình công việc được bàn luận đến dựa vào cách phân loại nguồn nhân lực gồm: nguồn nhân lực phát triển ứng dụng, nguồn nhân lực hỗ trợ ứng dụng, nguồn nhân lực chuyên ngành kỹ thuật, và những nguồn nhân lực khác.
-Ø  Nguồn nhân lực phát triển ứng dụng
-Lập trình viên: người viết chương trình cho máy tính, tức là chuyển đổi nhũng đồ án chi tiết kỹ thuạt sang các module chương trình trên một ngôn ngữ lập trình cụ thể. Căn cứ vào bài toán đặt ra các lập trình viên có thể lựa chọn một ngôn ngữ lập trình phù hợp nhất và tiến hành coding, dịch và thử nghiệm chương trình trên máy tính và cuối cùng là đóng gói chương trình
-Kỹ sư phần mềm: có thể làm cả 3 công việc: phân tích, thiết kế, lập trình cũng như có thể làm nhiệm vụ lãnh đạo dự án hoặc quản lý dự án. Một kỹ sư phần mềm sơ cấp thường dành nhiều thời gian cho việc lập trình, trong khi một kỹ sư có trình độ cao cấp lại tạp trung váo việc lập kế hoạchm nghiên cứu khả thi,phân tích và thiết kế phần mềm.
-Kỹ sư tri thức: có nhiệm vụ suy luận ra những mô hình ngữ  nghĩa để từ đó xây dựng nên những hệ chuyên gia và lĩnh vực trí tuệ nhân tạo,
-Ø  Nguồn nhân lực hỗ trợ ứng dụng
- Chuyên gia ứng dụng: có chuyên môn hóa sâu cho phép họ tham khảo ý kiến của các nhóm dự án về 1 loại ứng dụng cụ thể.
-Quản trị dữ liệu: quản lý mọi thông tin như một nguồn thống nhất
-Kỹ sư trí tuệ nhân tạo: có chức năng như các cố vấn giúp các nhóm dự án xác định, thiết kế và cài đặt trí tuệ vào các ứng dụng.
-Ø  Nguồn nhân lực chuyên ngành kỹ thuật
-Chuyên gia về mạng cục bộ: đặt kế hoạch, lắp đặt, quản lý và duy trì những khả năng của mạng cục bộ LAN.
-Chuyên gia hỗ trợ phần mềm: giống lập trình viên nhưng không trực tiếp coding mà thực hiện việc cài đặt và bảo dưỡng gói phần mềm sử dụng cho developer và user. Đó có thể là cơ sở dữ liệu, ngôn ngữ hồi đáp, sao lưu và phục hồi, bảng tính, quản lý khoảng trống đĩa, giao diện, truyền thông.
-Chuyên gia về bảo mật: bảo mật tuyệt đối cho hệ thống và sẵn sàng phục hồi khi xảy ra sự cố.
-Ø  Các nguồn nhân lực khác:
-Kiểm soát viên: thực hiện việc kiểm tra mức độ tin cậy của các phần mềm ứng dụng.
-Người viết các chuẩn kỹ thuật: tiêu chuẩn hóa các yêu cầu của quản lý thành chính sách và thủ tục cho tổ chức; viết tài liệu mô tả những đặc điểm, chức năng, công dụng của sản phẩm phần mềm.
-Lập kế hoạch công nghệ: các chuyên gia lập kế hoạch công nghệ sẽ thực hiện việc giám sát sự phát triển công nghệ trong hệ thống, xác định các xu hướn
-6.      Trình bày chức năng của từng loại hình nguồn nhân lực?
-1. Phân tích viên hệ thống:
-Xác lập chiến lược sử dụng công nghệ thông tin cho cơ quan hay doanh nghiệp
-Lập kế hoạch tổng thể và kế hoạch cho từng hệ thống trong các giai đoạn lập kế hoạch cho sản phẩm phần mềm hay hệ thống tin
-Lập kế hoạch sử dụng thông tin nhất quán với các chiến lược quản lý, và tạo ra các kế hoạch tổng thể của hệ thống phù hợp với chiến lược sử dụng thông tin
-Đề xuất sản phẩm phần mềm hay hệ thống thông tin có khả năng cấu trúc lại các công tác nghiệp vụ trên cơ sở kế hoạch hệ thống tổng thế và tạo ra kế hoạch cho từng hệ thống
-Hỗ trợ việc xây dựng sản phẩm phần mềm hay hệ thống thông tin và các công việc phục vụ sản phẩm phần mềm hay hệ thống thông tin trên cơ sở các chiến lược và kế hoạch và hỗ trợ các hoạt động cấu trúc lại nghiệp vụ  được thực hiện bởi các bộ phận người dùng hệ thống
-Đánh giá việc đáp ứng mục tiêu, hiệu quả, năng suất và các chuẩn chất lượng đạt được của sản phẩm phần mềm hay hệ thông tin từ quan điểm của người lập kế hoạch
-2. Chuyên viên quản lý dự án:
-Tạo lập kế hoạch thực hiện của dự án trên cơ sở các kế hoạch của từng hệ thống, mua bán các tài nguyên và thiết lập hệ thống dự án.
-Quản lý kinh phí, lịch trình thực hiên và chất lượng để đảm bảo tiến độ dự án một cách trôi chảy; đáp ứng các mục tiêu dự án bằng cách hiểu những điều kiện về tiến độ, bằng cách xác định và nhận thức được các vấn đề cũng như phát sinh  có thể xảy ra trong tương lai từ giai đoạn đầu và bằng việc thực hiện các biện pháp khắc phục phù hợp
-Phân tích và đánh giá các kế hoạch dự án cũng như việc đáp ứng các kế hoạch đó sau khi đã hoàn thành toàn bộ dự án và quy trihf chủ yếu của dự án, hoặc khi cảm thấy cần thiết; phối hợp các kết quả phân tích, đánh giá trong dự an và trong vận hành hệ thống, đồng thời phổ biến các thông tin này.
-Theo dõi sát sao quá trình thực hiện các giai đoạn của dự án phần mềm
-Phát hiện kịp thời các tinh huống xảy ra, nhanh chóng đưa ra các giải pháp khắc phục hiệu quả nhất các tinh huống đó để đưa tiến trình dự án trở lại quỹ đạo bình thường
-3. Chuyên viên thiết kế, phát triển hệ thống và phần mềm:
-Tham gia vào việc phát triể phần mềm sao cho phù hợp với đặc tả ngoài trong các dự án phát triển sản phẩm phần mềm hay hệ thông tin
-Trao đổi với người thiết kế đặc tả ngoài, tạo ra thiết kế trong và biểu thiết kế chương trình phù hợp với đặc tả ngoài.
-Tạo ra chương trình hiệu quả trên cơ sở các kiến thức về thuật toán nâng cao và cấu trúc dữ liệu
-Thực hiện kiểm thử đơn vị, kiểm thử tích hợp của chương trình
-Giới thiệu các kỹ sư công nghệ thông tin trong quá trình phát triển phần mềm.
-4. Chuyên viên hệ thống ứng dụng:
-Phân tích những điều kiện tiên quyết cho công việc, tham gia vào hoạt động xây dựng sản phần mềm hay hệ thống thông tin trong các dự án phát triển sản phẩm phần mềm hay hệ thông tin
-Phân tich điều kiện tiên quyêt cho công việc được đòi hỏi từ phía người dùng và tổ chức các đặc tả cần thiết.
-Thiết kế sản phẩm phần mềm hay hệ thông tin bằng cách kiểm tra các phương pháp thực hiện giống như: phát triển ứng dụng mới hoặc phần mềm được đóng gous; cấu hình của hệ thống; chuyển giao và vận hành hệ thống, trên cơ sở các đặc tả cần thiết.
-Giới thiệu cán bộ phát triển chương trình để thực hiện phát triển chương trình.
-Lập kế hoạch và thực hiện các kế hoạch kiểm thử chung, hỗ trợ cho việc chuyển giao và vận hành hệ thống, trên cơ sở các đặc tả đã yêu cầu
-Tư vấn các chuyên gia về từng công nghệ phần cứng, phần mềm, xây dựng mạng, CSDL
-5. Chuyên viên hệ thống mạng
-Quản trị tài nguyên mạng là hạ tầng cơ sở của sản phẩm phần mềm hay hệ thông tin như người quản trị mạng.
-Thiết kế, xây dựng và vận hành mạng để đạt được hiệu quả cao, tin cậy, an toàn bằng cách phân tích yêu cầu LAN/WAN.
-Hỗ trợ các kỹ thuật về mạng trong mọi giai đoạn(kế hoạch,phân tich,thiết kế, vận hành và duy trì) của việc phát triển từng hệ thống.
-6. Chuyên viên hệ CSDL:
-Quản lý nguồn tài nguyên tông tin trong toàn bộ sản phẩm phần mềm hay hệ thông tin như người quản trị dữ liệu.
-Xây dựng và duy trì các CSDL cốt lõi như người quản trị dữ liệu.
-Hỗ trợ các vấn đề kỹ thuật liên quan CSDL trong mọi giai đoạn (phân tích, thiết kế, vận hành và duy trì) của sự phát triển cho từng hệ thống.
-7. Chuyên viên quản lý
-Chuyên viên quản lý hệ thông tham gia lập kế hoạch, xây dựng và vận hành hạ tầng hệ thống thông tin.
-Quản lý cấu hình, trục trặc, hiệu năng, mô tả, và an toàn liên quan đến hạ tầng hệ thống thông tin với tư cách người quản lý hệ thống.
-Thực hiện các công việc để nâng cao tính ổn định và hiệu quả hoạt động của hệ thống thông tin.
-Lập kế hoạch và thực hiện các hoạt động thử nghiệm và chuyển dịch hệ thống đối với việc cài đặt và vận hành hệ thống mới.
-Hướng dẫn, trợ giúp, hỗ trợ về mặt kỹ thuật cho người sửdụng hệ thống.
-8. Chuyên viên quản trị hệ thống cấp cao:
-Các chuyên gia này chiếm vị trí hàng đầu trong vận hành nghiệp vụ và trong các hoạt động khác của tổ chức hay cơ quan, đóng vai trò lãnh đạo trong chu kỳ cải tiến hoạt động nghiệp vụ, và việc sử dụng thông tin. Họ được yêu câu phải hiêu được các chiến lược quản lý, chiến lược nghiệp vụ và phục vụ các chức năng sau cho cả nghiệp vụ lẫn hệ thông tin.
-Tham gia lập kế hoạch các mô hình nghiệp vụ và tái cấu trúc quy trình nghiệp vụ, lập kế hoạch thực hiện, và chuẩn bị kế hoạch đối với môi trường thực hiện.
-Tạo ra các biện pháp thực hiện cụ thể đối với các mô hình nghiệp vụ mới và các quy trình nghiệp vụ mới, cũng như đưa ra chỉ dẫn cho các hoạt động tái cấu trúc.
-Đánh giá tác động của các hoạt động mới và các thông tin phản hồi cần thiết để đạt được tiến bộ sau này.
-Hiểu quy trình phát triển hệ thống và các mức độ đạt được, chuẩn bị cho việc chấp nhận, vận hành, xác định và quy định trong các vấn đề cần thiết để bắt đầu vận hành.
-Giám sát liên tục hoạt động của hệ thống và các điều kiện sử dụng như một phần của công việc nghiệp vụ hàng ngày, đánh giá sự hoàn thành của hệ thống và đưa ra đề xuất cải tiến.
-Tham gia vào lập kế hoạch, đánh giá nghiệp vụ và chiến lược thông tin do công ty đang tiến hành và cung cấp sự hỗ trợ.
-9. Chuyên viên hệ thống gắn:
-Chuyên viên triển khai hệ thống gắn tham gia lập kế hoạch quy trình triển khai hệ thống và thiết kế các công việc dựa trên kế hoạch triển khai hệ thống.
-Đánh giá hiệu quả kỹ thuật và kinh tế của phần mềm, bộ vi xử lý, và các vi mạch (LSI) nhúng trong sản phẩm để đảm bảo đáp ứng được các đặc tả đã đề ra.
-Lập kế hoạch thiết kế hệ thống nhúng, bao gồm: các đề xuất quy trình triển khai hệ thống, đưa ra các đặc tả cần có, kiểm tra khả năng xử lý thời gian thực, và cân bằng giữa phần cứng và phần mềm.
-Xác định và lựa chọn các đặc tả cho bộ vi xử lý, vi mạch (LSI), hệ điều hành thời gian thực, và các thành phần khác.
-Sắp xếp và cải thiện môi trường triển khai việc thực hiện các hoạt động triển khai.
-10. Chuyên viên quản trị an toàn hệ thông tin.
-Là người chịu trách nhiệm quản lý an ninh thông tin, người quản trị an toàn hệ thống thông tin lập kế hoạch và thực hiện các quy chế an toàn thông tin dựa trên các khía cạnh vật lý, con người và kỹ thuật.
-Sắp xếp các tài nguyên thông tin, phân tích các mối đe dọa và nguy cơ an toàn, cũng như đưa ra những chính sách an toàn để xác định mục tiêu quản lý an toàn của cơ quan.
-Lựa chọn và áp dụng các công nghệ để đạt được an toàn thông tin phù hợp với các chính sách thông tin, đưa ra các hướng dẫn vận hành và giáo dục người dung.
-Theo dõi liên tục các xâm phạm về an toàn dựa trên đầu ra thông tin các loại của hệ thống, và thực hiện các biện pháp đối phó với xâm phạm an toàn.
-11. Chuyên viên công nghệ thông tin cơ bản.
-Các chuyên viên này tham gia vào thiết kế và phát triển chương trình dựa trên cơ sở các đặc tả bên trong của các dự án phát triển sản phẩm phần mềm.
-Có khả năng đóng góp bằng việc sử dụng các kiến thức chung về công nghệ thông tin.
-Có khả năng tạo ra biểu thiết kế chương trình dựa trên đặc tả thiết kế bên trong dưới sự hướng dẫn của người chuyên viên cấp cao hơn.
-Có khả năng tạo ra chương trình dựa trên các kiến thức thuật toán cơ bản và cấu trúc dữ liệu.
-7.     Trình bày nội dung tài liệu thiết kế phần mềm?
-Mục I của tài liệu thiết kế có tên là Phạm vi trình các vấn đề chung tổng quát như mục tiêu của phần mềm, các chức năng chính của phần mềm, các giới hạn và các ràng buộc.
-Mục II trình bày các tài liệu tham khảo, các tài liệu hỗ trợ.
-Mục III, mô tả thiết kế, được hoàn tất như một phần của thiết kế sơ bộ. Cần lưu ý rằng, thiết kế là hướng thông tin - tức là luồng hoặc cấu trúc của dữ liệu sẽ khống chế kiến trúc của phần mềm. Trong mục này, biểu đồ dòng dữ liệu hay các biểu diễn dữ liệu khác được phát triển trong khi các phân tích yêu cầu được làm mịn và được dùng để điều khiển cấu trúc phần mềm.
-Các mục IV và V trình bày các nội dung khi thiết kế sơ bộ chuyển thành thiết kế chi tiết. Các mô-đun – các phần từ định địa chỉ tách biệt được của phần mềm như chương trình con, hàm hay thủ tục – khởi đầu được mô tả bằng lời thuật xử lý trong tiếng Anh. Lời thuật xử lý giải thích chức năng thủ tục của một mô-đun. Sau này, một công cụ thiết kế thủ tục sẽ được dùng để dịch lời thuật thành một mô tả có cấu trúc.
-I. Phạm vi: Mục tiêu hệ thống, Phần cứng, phần mềm và giao diện con người, Các chức năng phần mềm chính, Cơ sở dữ liệu được xác định bên ngoài, Các ràng buộc, giới hạn thiết kế chính
-II. Tài liệu tham khảo: Tài liệu về phần mềm hiện có, Tài liệu hệ thống, Tài liệu người cung cấp (phần cứng và phần mềm), Tham khảo kỹ thuật
-III. Mô tả thiết kế: Mô tả dữ liệu( Tổng quan về luồng dữ liệu, Tổng quan về cấu trúc dữ liệu), Cấu trúc chương trình suy dẫn, Giao diện bên trong cấu trúc
-IV. Mô-đun; cho mỗi mô-đun: Lời thuật xử lý, Mô tả giao diện, Mô tả ngôn ngữ thiết kế (hay những mô tả khác), Các mô-đun đã dùng,Tổ chức dữ liệu, Bình luận
-V. Cấu trúc tệp và dữ liệu toàn cục: Cấu trúc tệp ngoài( Cấu trúc logic, Mô tả bản ghi logic, Phương pháp thâm nhập),  Dữ liệu toàn cục, Tham khảo chép tệp và dữ liệu
-VI. Tham khảo chéo yêu cầu
+Chương 1
+1) Ba mục đích chính của một hệ điều hành là gì?
+ Thực thi các chương trình người dùng và giúp giải quyết các vấn đề của người dùng dễ dàng hơn
+Làm cho hệ thống máy tính trở lên thuận tiện khi sử dụng
+Sử dụng phần cứng máy tính một cách hiệu quả
+2) Hệ thống có khả năng tương tác hiệu quả với người dùng là hệ thống nào?
+Hệ thống chia sẻ thời gian (time-sharing) là hệ thống có khả năng tương tác hiệu quả với người dùng.
+3) Hệ thống được sử dụng trong các thiết bị chuyên dụng điều khiển máy móc là hệ thống nào? Hệ thống thời gian thực (real-time) được sử dụng trong các thiết bị chuyên dụng điều khiển máy móc.
+4) Hệ điều hành nào hỗ trợ tính toán hiệu năng cao?
+Hệ điều hành xử lý song song (parallel processing) hỗ trợ tính toán hiệu năng cao.
+5) Hệ điều hành phát triển được chi phối bởi yếu tố gì? Sự phát triển của hệ điều hành được chi phối bởi hai yếu tố chính: nhu cầu của người dùng và sự tiến bộ của phần cứng.
+6) Trong môi trường đa chương và chia sẻ thời gian, nhiều người dùng chia sẻ hệ thống đồng thời, điều này có thể mang đến những vấn đề gì?
+Việc nhiều người dùng chia sẻ hệ thống đồng thời trong môi trường đa chương và chia sẻ thời gian có thể dẫn đến các vấn đề về bảo mật và bảo vệ. Các vấn đề bao gồm việc bảo vệ dữ liệu và bộ nhớ của người dùng này khỏi việc bị người dùng khác truy cập trái phép.
+7) Hệ điều hành đã trải qua các giai đoạn phát triển nào? Thách thức và vấn đề của từng giai đoạn là gì?
+Hệ điều hành đã trải qua các giai đoạn phát triển chính như: hệ thống xử lý theo lô (batch systems), hệ thống đa chương (multiprogramming), hệ thống chia sẻ thời gian (time-sharing), hệ thống phân tán (distributed systems), hệ thống thời gian thực (real-time systems) và hệ thống nhúng (embedded systems).
+Thách thức và vấn đề của từng giai đoạn bao gồm:
+ • Hệ thống xử lý theo lô: Tối ưu hóa việc sử dụng CPU, nhưng lại thiếu tính tương tác.
+ • Hệ thống đa chương và chia sẻ thời gian: Cần cơ chế bảo vệ bộ nhớ, lập lịch CPU và bảo mật để xử lý nhiều tác vụ cùng lúc.
+ • Hệ thống phân tán: Vấn đề về truyền thông, đồng bộ hóa và xử lý lỗi.
+ • Hệ thống thời gian thực: Đảm bảo thời gian phản hồi nghiêm ngặt, độ tin cậy và an toàn cao. 8) Hệ điều hành phải làm gì để khắc phục vấn đề về phần cứng, màn hình nhỏ… trên thiết bị di động?
+Để khắc phục các vấn đề về phần cứng hạn chế như màn hình nhỏ, bàn phím ảo, và tài nguyên pin, hệ điều hành trên thiết bị di động đã phát triển giao diện người dùng dựa trên cảm ứng, bàn phím trên màn hình và các tính năng quản lý năng lượng hiệu quả.
+9) Hệ điều hành trên máy tính Mainframe có các đặc tính gì?
+Hệ điều hành trên máy tính Mainframe thường có các đặc tính như: xử lý theo lô (batch processing), đa chương (multiprogramming) và chia sẻ thời gian (time-sharing).
+10) Hệ điều hành thời gian thực có những loại gì? Đặc tính của từng loại?
+Hệ điều hành thời gian thực được chia thành hai loại chính:
+ • Hệ thống thời gian thực cứng (Hard real-time systems): Yêu cầu nghiêm ngặt về thời gian. Thất bại trong việc đáp ứng thời gian phản hồi có thể dẫn đến hậu quả nghiêm trọng. Thường được sử dụng trong các hệ thống điều khiển công nghiệp và y tế.
+ • Hệ thống thời gian thực mềm (Soft real-time systems): Ưu tiên các tác vụ thời gian thực, nhưng việc bỏ lỡ thời hạn không gây ra lỗi nghiêm trọng, chỉ làm giảm hiệu suất hệ thống.
+11) Hệ điều hành có thể phân loại theo những tiêu chí nào? Mỗi cách phân loại có những loại hệ điều hành nào?
+Hệ điều hành có thể được phân loại theo các tiêu chí như:
+• Theo chức năng: Đơn chương, đa chương, chia sẻ thời gian, xử lý theo lô, thời gian thực.
+• Theo kiến trúc: Phân tán, xử lý song song, client/server, hệ điều hành nhúng.
+12) Hệ thống đa chương là gì?
+Hệ thống đa chương (multiprogramming system) là hệ thống mà tại một thời điểm, có nhiều tiến trình được nạp vào bộ nhớ, và CPU luôn được cấp phát cho một trong số các tiến trình đó, nhằm tối đa hóa việc sử dụng CPU.
+13) Hệ thống chia sẻ thời gian là gì?
+Hệ thống chia sẻ thời gian (time-sharing system) là một loại hệ thống đa chương. Nó sử dụng cơ chế chuyển đổi ngữ cảnh nhanh chóng giữa các tiến trình, tạo ra ảo giác rằng mỗi người dùng đều có một hệ thống riêng, cho phép tương tác trực tiếp với máy tính.
+14) Lập lịch ưu tiên là gì?
+Lập lịch ưu tiên là một thuật toán lập lịch trình CPU, trong đó mỗi tiến trình được gán một độ ưu tiên. CPU được cấp phát cho tiến trình có độ ưu tiên cao nhất.
+15) Chế độ giám sát và chế độ người sử dụng giúp bảo vệ hệ thống như thế nào?
+• Chế độ giám sát (monitor mode): Còn gọi là chế độ đặc quyền (privileged mode), là chế độ mà hệ điều hành chạy, cho phép truy cập và thực thi các lệnh đặc quyền.
+• Chế độ người dùng (user mode): Là chế độ mà các chương trình ứng dụng chạy, không được phép thực thi các lệnh đặc quyền. Sự phân tách này giúp bảo vệ hệ thống khỏi các hành động độc hại hoặc lỗi từ các chương trình ứng dụng, ngăn chúng truy cập trực tiếp vào các tài nguyên quan trọng của hệ thống.
+16) Sự khác biệt giữa bẫy và ngắt là gì? Chức năng của chúng là gì?
+• Ngắt (interrupt): Là một tín hiệu từ phần cứng (ví dụ: bộ điều khiển I/O) để tạm dừng CPU và yêu cầu dịch vụ từ hệ điều hành. Chức năng chính là thông báo cho hệ điều hành về sự kiện hoàn thành I/O hoặc lỗi phần cứng.
+• Bẫy (trap): Là một ngắt được tạo ra bởi phần mềm (ví dụ: một lỗi chia cho 0, một lệnh hệ thống). Chức năng của bẫy là thông báo lỗi hoặc yêu cầu dịch vụ từ hệ điều hành.
+17) Chế độ đặc quyền là gì? Cho một ví dụ của lệnh đặc quyền.
+Chế độ đặc quyền (privileged mode) là chế độ thực thi mà CPU có thể truy cập tất cả các tài nguyên và thực thi tất cả các lệnh của hệ thống. Một ví dụ của lệnh đặc quyền là lệnh thay đổi trạng thái của CPU từ chế độ đặc quyền sang chế độ người dùng hoặc ngược lại.
+18) Đưa ra 2 lý do tại sao cache hữu ích. Nêu những vấn đề cache giải quyết. Nêu những vấn đề do cache gây ra?
+• Lý do cache hữu ích: Tăng tốc độ truy cập dữ liệu bằng cách lưu trữ bản sao dữ liệu thường xuyên được truy cập từ bộ nhớ chính vào một bộ nhớ đệm nhỏ và nhanh hơn. Cache giải quyết vấn đề chênh lệch tốc độ giữa CPU và bộ nhớ chính.
+• Vấn đề do cache gây ra: Vấn đề chính là sự không nhất quán (inconsistency). Khi dữ liệu trong bộ nhớ chính và bộ nhớ cache không đồng bộ, có thể dẫn đến lỗi.
+19) Khi người sử dụng muốn truy cập vào hệ thống máy tính từ xa, thành phần nào sẽ cung cấp băng thông cho truy cập đó?
+Phần cứng, cụ thể là các thiết bị mạng như modem và card mạng, cung cấp băng thông cho việc truy cập từ xa.
+20) Liệu người dùng có thể truy cập vào bộ nhớ của một hệ thống máy tính khi HĐH không hoạt động được không?
+Không. Khi hệ điều hành không hoạt động, người dùng không thể truy cập vào bộ nhớ vì hệ điều hành chịu trách nhiệm quản lý và cấp phát bộ nhớ.
+1.	Cấu trúc RAID 0 và RAID 2
+RAID 0 (Striping)
+• Cấu trúc và Hoạt động: RAID 0, hay còn gọi là striping, là cấu hình RAID cơ bản nhất. Dữ liệu được chia thành các khối (blocks) và ghi lần lượt trên các ổ đĩa khác nhau trong mảng. Ví dụ, khối dữ liệu đầu tiên được ghi vào Đĩa 1, khối thứ hai vào Đĩa 2, và cứ thế tiếp tục. Điều này giúp tăng tốc độ đọc/ghi vì hệ thống có thể truy cập nhiều ổ đĩa cùng một lúc.
+ • Ưu điểm:
+ o Hiệu suất cao: Tốc độ đọc và ghi được cải thiện đáng kể do dữ liệu được xử lý song song trên nhiều ổ đĩa.
+    o Tận dụng toàn bộ dung lượng: Toàn bộ dung lượng của các ổ đĩa được sử dụng để lưu trữ dữ liệu.
+    o Chi phí thấp: Dễ dàng triển khai và không yêu cầu phần cứng phức tạp.
+ • Nhược điểm:
+    o Không có khả năng chịu lỗi (Fault Tolerance): Nếu một ổ đĩa trong mảng RAID 0 bị hỏng, toàn bộ dữ liệu trên tất cả các ổ đĩa sẽ bị mất và không thể phục hồi.
+    o Không phù hợp cho dữ liệu quan trọng: Do rủi ro mất dữ liệu cao, RAID 0 không phải là lựa chọn tốt để lưu trữ các thông tin nhạy cảm hoặc không thể thay thế.
+RAID 2 (Hamming Code ECC)
+ • Cấu trúc và Hoạt động: RAID 2 sử dụng kỹ thuật striping ở cấp độ bit thay vì cấp độ khối. Dữ liệu được chia nhỏ đến từng bit và ghi trên các ổ đĩa dữ liệu. Các ổ đĩa còn lại trong mảng được dùng để lưu mã sửa lỗi (ECC - Error-Correcting Code), thường là mã Hamming. Khi dữ liệu được đọc, mã ECC sẽ được kiểm tra để phát hiện và sửa lỗi bit đơn.
+ • Ưu điểm:
+     o Khả năng sửa lỗi nhanh chóng: Có thể phát hiện và sửa lỗi "on-the-fly" (ngay trong lúc hoạt động).
+     o Tốc độ truyền dữ liệu cao: Do dữ liệu được striping trên nhiều ổ đĩa.
+ • Nhược điểm:
+     o Chi phí cao: Yêu cầu một số lượng lớn ổ đĩa, vì cần nhiều ổ đĩa dành riêng cho việc lưu mã ECC.
+     o Lỗi thời và không hiệu quả: Các ổ cứng hiện đại đã tích hợp sẵn cơ chế phát hiện và sửa lỗi bên trong. Do đó, RAID 2 trở nên phức tạp và tốn kém một cách không cần thiết.
+     o Không được sử dụng trong thực tế: Vì những nhược điểm trên, RAID 2 hiện nay không còn được ứng dụng trên thị trường.
 
-VII. Điều khoản kiểm thử: Hướng dẫn kiểm thử, Chiến lược tích hợp, Xem xét đặc biệt
-VIII. Đóng gói: Các điều khoản cho chương trình chồng chất đặc biệt, Xem xét chuyển đổi
-IX. Lưu ý đặc biệt
-X. Phần phụ lục
-8.     Khái niệm kiểm thử hộp trắng? Đối tượng và mức độ áp dụng của kiểm thử hộp trắng?
-KN: Kiểm thử hộp trắng( Kiểm thử cấu trúc) là hình thức kiểm thử dựa trên giải thuật, cấu trúc của các lệnh bên trong chương trình với đảm bảo rằng tất cả các câu lệnh sẽ được thực hiện ít nhất một lần.
-Đối tượng áp dụng: Đối tượng được kiểm thử là một thành phần phần mềm, tức là có thể là một hàm chức năng, một mô-đun chức năng, một phân hệ chức năng....
-Mức độ áp dụng: Phương pháp kiểm thử hộp trắng áp dụng cho các trường hợp sau đây:
-+ Kiểm thử đơn vị (Unit testing): để kiểm tra đường dẫn trong một
-+ Kiểm thử tích hợp (Integration testing): để kiểm tra đường dẫn giữa các đơn vị.
-+ Kiểm thử hệ thống (System testing): để kiểm tra các đường dẫn giữa các hệ thống con với nhau.
-Tuy nhiên, kiểm thử hộp trắng chủ yếu áp dụng cho các kiểm thử đơn vị.
-9.     Trình bày chi tiết từng giai đoạn kiểm thử?
-*Phân tích yêu cầu:
-Đầu vào: Tài liệu đặc tả yêu cầu, tài liệu thiết kế hệ thống, tài liệu khách hàng yêu cầu về các tiêu chí chấp nhận của sp, bản mẫu của khách hàng yêu cầu (nếu có)
-Hoạt động:
-o   Người chịu trách nhiệm đảm bảo chất lượng phần mềm sẽ thực hiện nghiên cứu, phân tích cụ thể yêu cầu trong tài liệu đặc tả của dự án hoặc tài liệu của khách hàng để nắm bắt các yêu cầu mà dự án đưa ra bao gồm yêu cầu kiểm thử chức năng hay phi chức năng
-o   Nếu có câu hỏi hoặc đề xuất giải quyết, người chịu trách nhiệm đảm bảo chất lượng phần mềm đưa ra câu hỏi với các bên  liên quan như Business Analyst, Project Manager (thường là câu hỏi dạng Y/N, lựa chọn) để hiểu chính xác hơn về yêu cầu của sản phẩm. người phát triển hệ thống sẽ là người hỗ trợ và đưa ra giải pháp thích hợp cho khách hàng lựa chọn.
-Đầu ra: tài liệu chưa các câu hỏi và câu trả lời liên quan đến nghiệp vụ của hệ thống, tài liệu báo cáo tính khả thi, phân tích rủi ro của việc kiểm thử phần mềm.
-*Lập kế hoạch kiểm thử:
-Đầu vào: tài liệu đặc tả đã được cập nhật, tài liệu báo cáo tính khả thi, phân tích rủi ro.
-H động: Dựa vào tài liệu được cung cấp, quản lý kiểm thử lập kế hoạch cho cả nhóm nhằm:
-o   Xác định phạm vi dự án
-o   Xác định phương pháp tiếp cận
-o   Xác định các nguồn lực (con ng, thiết bị)
-o   Lên kế hoạch thiết kế công việc kiểm thử
-Đầu ra: tài liệu kế hoạch kiểm thử ước lượng kiểm thử, chuỗi kiểm thử.
-*Phát triển kịch bản kiểm thử:
-Đầu vào:  tài liệu kế hoạch kiểm thử ước lượng kiểm thử, chuỗi kiểm thử, tài liệu đặc tả đã được cập nhật
-Hoạt động:
-o   Rà soát tài liệu
-o   Viết các kịch bản kiểm thử
-o   Chuẩn bị dữ liệu kiểm thử
-o   Rà soát kịch bản kiểm thử
-Đầu ra: tlieu thiết kế kiểm thử, kịch bản kiểm thử, danh mục,...
-*Thiết lập môi trường kiểm thử:
-Đầu vào: kế hoạch kiểm thử, kịch bản kiểm thử, kiểm thử dữ liệu.
-Hoạt động:
-o   Cài đặt môi trường kiểm thử dựa trên những yêu cầu của khách hàng và đặc thù sản phẩm( VD: máy chủ, máy mạng,..)
-o   Người kiểm thử cần chuẩn bị một vài kịch bản kiểm thử để kiểm tra môi trường cài đặt đã sẵn sàng cho việc kiểm thử hay chưa
-Đầu ra: môi trường đã được cài đặt đúng theo yêu cầu sẵn sàng cho việc kiểm thử.
-*Thực hiện kiểm thử:
-Đầu vào: kế hoạch kiểm thử, thiết kế kiểm thử,....
-Hoạt động:
-o   Thực hiện các kịch bản như thiết kế và mức độ ưu tiên đã đưa ra trên môi trường đã cài đặt
-o   So sánh với kết quả mong đợi sau khi báo cáo các lỗi xảy ra lên công cụ quản lý lỗi và theo dõi trạng thái của lỗi đến khi sửa thành công
-o   Thực hiện kiểm thử lặp lại để kiểm tra các lỗi đã được phát hiện và kiểm thử hồi quy khi có sự thay đổi liên quan
-o   Hỗ trợ, đề xuất cho các nhóm dự án để có giải pháp hợp lý và kết hợp công việc hiệu quả
-o   Đo và phần tích tiến độ
-o   Báo cáo thường xuyên cho người quản lý dự án và khách hàng về tình hình thực hiện dự án
-Đầu ra: kết quả kiểm thử, danh sách các lỗi tìm được
-*Đóng chu trình kiểm thử:
-Đầu vào: tất cả các tài liệu liên quan đã được tổng hợp, ghi chéo và hoàn thiện đầy đủ
-Hoạt động:
-o   Tổng kết, báo cáo kết quả về việc thực thi các kịch bản kiểm thử
-o   Đánh giá các tiêu chí hoàn thành như phạm vi kiểm tra, chất lượng, chi phí, thời gian, mục tiêu kinh doanh quan trọng
-o   Thảo luận điểm tôt, điểm chưa rút và rút bài học kinh nghiệm
-10. Khái niệm và nhiệm vụ của bảo trì phần mềm?
-·   	Khái niệm: Là việc sửa đổi một phần mềm khi đã bàn giao để chỉnh lại các lỗi phát sinh, cải thiện hiệu năng của phần mềm hoặc các thuộc tính khác, hoặc làm cho phần mềm thích ứng trong một môi trường đã bị thay đổi.
-·   	Nhiệm vụ: sửa chữa lỗi chưa được phát hiện trong các giai đoạn trước trong chu kỳ sống của một phần mềm, đồng thời nâng cấp tính năng sử dụng và sự an toàn vận hành cho phần mềm
-11. Nội dung các giai đoạn trong quản lý dự án phần mềm?
--Quản lý dự án phần mềm là các hoạt động trong lập kế hoạch, giám sát và điều khiển tài nguyên dự án (ví dụ như kinh phí, con người), thời gian thực hiện, các rủi ro và quy trình thực hiện dự án nhằm đảm bảo thành công cho dự án. Quản lý dự án phần mềm cần đảm bảo cân bằng giữa ba yếu tố: thời gian, tài nguyên và chất lượng.
-Quy trình quản lý dự án phần mềm bao gồm các giai đoạn .
-a. Khởi tạo dự án (Initiating): Giai đoạn này thực hiện việc xác định một dự án mới hoặc một phát sinh (hoặc trộn lẫn) mới của một dự án có sẵn như: Xác định yêu cầu của dự án, mức độ ưu tiên của dự án, phân tích các yêu cầu đầu tư, phân công trách nhiệm cho các bộ phận triển khai.
-b. Lập kế hoạch dự án (Planning): Giai đoạn này yêu cầu thiết lập phạm vi công viêc của dự án, điều chỉnh lại mục tiêu và xác định đường đi tới mục tiêu đó. Lập kế hoạch thực hiện dự án là hoạt động diễn ra trong suốt quá trình từ khi bắt đầu thực hiện dự án đến khi bàn giao sản phẩm với nhiều loại kế hoạch khác nhau nhằm hỗ trợ kế hoạch chính của dự án phần mềm về lịch trình và ngân sách.
-Các loại kế hoạch thực hiện dự án:
-Kế hoạch đảm bảo chất lượng (mô tả các chuẩn, các quy trình được sử dụng trong dự án)
-Kế hoạch thẩm định (mô tả các phương pháp, nguồn lực, lịch trình thẩm định hệ thống)
-Kế hoạch quản lý cấu hình (mô tả các thủ tục, cấu trúc quản lý cấu hình được sử dụng)
-Kế hoạch bảo trì (dự tính các yêu cầu về hệ thống, chi phí, nỗ lực cần thiết cho bảo trì)
-Kế hoạch phát triển đội ngũ (mô tả kĩ năng và kinh nghiệm của các thành viên trong nhóm dự án sẽ phát triển như thế nào)
-Quy trình lập kế hoạch thực hiện dự án:
-Thiết lập các ràng buộc của dự án: thời gian, nhân lực, ngân sách
-Đánh giá bước đầu về các tham số của dự án: quy mô, độ phức tạp, nguồn lực
-Xác định các mốc thời gian trong thực hiện dự án và sản phẩm thu được ứng với mỗi mốc thời gian
-c. Triển khai (Executing): Giai đoạn này thực hiện hoàn thành các công việc được xác định trong phần lập kế hoạch để đảm bảo các yêu cầu của dự án.
-d. Kết thúc (Closing): Tổng kết tất cả các hoạt động của dự án để chính thức đóng lại dự án.
-12. Trình bày khái niệm quản lý chất lượng phần mềm?
-Quản lý chất lượng phần mềm (Software Quality Management) là quá trình lập kế hoạch, kiểm soát và đảm bảo rằng sản phẩm phần mềm được phát triển đáp ứng đầy đủ các yêu cầu đã đặt ra về chức năng, hiệu năng, độ tin cậy, tính an toàn và khả năng bảo trì.
-Nó bao gồm các hoạt động nhằm ngăn ngừa lỗi, phát hiện lỗi và cải tiến liên tục để đảm bảo phần mềm có chất lượng cao, thỏa mãn người dùng và tuân thủ các tiêu chuẩn kỹ thuật.
-13. Qui trình CMM là gì? Các cấp độ của CMM?
-Là một bộ khung gồm những chuẩn đề ra cho một tiến trình sản xuất phần mềm hiệu quả.
-Cấp độ 1: Khởi đầu
-Cấp độ 2: Dược lặp lại
-Cấp độ 3: Được xác định
-Cấp độ 4: Được quản lí
-Cấp độ 5: Tối ưu
-Trình bày các nội dung CMM cấp độ 1
- Cấp độ 1 là bước khởi đầu của CMM. Mọi doanh nghiệp, mọi công ty phần mềm, Mỗi nhóm, mỗi cá nhân đều có thể đạt được. Ở cấp độ này CMM chưa yêu cầu bất kỳ tính năng nào
-Trình bày các nội dung CMM cấp độ 2
-Cấp độ 2 có 6 KPAs như sau:
-quản lý Yêu cầu
- lập kế hoạch cho dự án
-theo dõi kiểm tra tiến độ dự án
-Quản trị Hợp đồng phụ phần mềm
- đảm bảo chất lượng sản phẩm
-quản trị cấu hình sản phẩm
-Trình bày các nội dung CMM cấp độ 3
-Các vùng tiến trình chủ chốt ở cấp độ 3 nhằm vào cả hai vấn đề về dự án và tổ chức vì một tổ chức tạo nên cấu trúc hạ tầng thể chế cho các quá trình quản lý và sản xuất phần mềm hiệu quả thể hiện qua các dự án chúng gồm có 7 kpas như sau:
- tập trung Tiến trình tổ chức
- phân định tiến trình
- tổ chức chương trình đào tạo
- Quản trị phần mềm tích hợp
- sản xuất sản phẩm phần mềm
-phối hợp nhóm
-xét duyệt ngang hàng
-Trình bày các nội dung CMM cấp độ 4
-Các vùng tiến trình chủ yếu ở cấp độ 4 tập trung vào thiết lập hiểu biết định lượng của cả quá trình sản xuất phần mềm và các sản phẩm phần mềm đang được xây dựng. Cấp độ 4 có hai KPAs gồm: quản lý quá trình định lượng,  quản lý chất lượng phần mềm.
-Các KPAs chú trọng tới:
-Chuẩn hóa thành tích trong tổ chức
- quản lý năng lực tổ chức
-công việc Dựa vào cách làm việc theo nhóm
- Xây dựng đội ngũ chuyên nghiệp
-sử dụng hệ thống cố vấn
-Trình bày các nội dung CMM cấp độ 5
-Các KPAs  chủ yếu Bao trùm các vấn đề mà cả tổ chức và dự án phải hướng tới để thực hiện việc hoàn thiện Quá trình sản xuất phần mềm liên tục có thể đo đếm được. Cấp độ 5 có 3 kpas là:
-phòng ngừa lỗi
-quản trị thay đổi công nghệ
-quản trị thay đổi quá trình
-14. Khái niệm quản lý cấu hình và nội dung kế hoạch quản lý cấu hình?
-Quản lý cấu hình là yêu cầu bắt buộc và có mục đích là để thiết lập bảo đảm tính toàn vẹn của các sản phẩm trung gian cũng như là các sản phẩm sau cùng của một dự án phần mềm, xuyên suốt Chu kỳ sống của dự án đó
-Quản lý cấu hình:
-Lập kế hoạch quản lý cấu hình: Định danh, Kiểm soát phiên bản, Quản lý điểm mốc
-Kiểm soát thay đổi: Báo cáo tình trạng cấu hình, Kiểm toán cấu hình, Quản lý sản phẩm, Lưu trữ và sao chép dự phòng
-15. Trình bày về phân tích và phân loại rủi ro?
-· Phân tích khả năng xuất hiện rủi ro: 4 mức đo lường khả năng xuất hiện rủi ro: thường xuyên, hay xảy ra, đôi khi, hiếm khi
-· Phân tích mức tác động của rủi ro: 4 mức đo lường: trầm trọng, quan trọng, vừa phải, không đáng kể
-·   Phân tích các thời điểm xuất hiện rủi ro: ngay lập tức, rất gần, sắp xảy ra, rất lâu
-·  Uớc lượng và phân hạng các rủi ro: tùy theo tổ chức, đặc thù từng dự án, trưởng dự án sẽ xác định rủi ro cần đưa vào kiểm soát, với các mức ưu tiên khác nhau
-16. Trình bày đặc trưng và mối quan hệ giữa các mức, dữ liệu và xử lý của phương pháp MERISE?
-- Đặc trưng của phương pháp MERISE là tách rời dữ liệu và quy trình xử lý nhằm đảm bảo tỉnh khách quan trong quá trình phân tích và cung cấp đầy đủ các mô hình để diễn đạt các bước cập nhật. Hệ thống bao gồm dữ liệu và quy trình xử lý được biểu diễn ở ba mức:
-+ Mức quan niệm (Concept): xác định các thành phần của dữ liệu và xử lý.
-+ Mức tổ chức (Oganization): chi tiết hóa những quan hệ giữa chúng.
-+ Mức tác nghiệp (Physic): các thành phần được thể hiện trong thực tế như thế nào.
-- Trên cơ sở ba mức bất biến của hệ thống thông tin, phương pháp phân tích thiết kế MERISE sử dụng các mô hình tương ứng trên các mức này để phân tích thiết kế một hệ thống thông tin
-- Mối quan hệ giữa các mức, dữ liệu và xử lí
-Mức quan niệm-Mô hình quan niệm về dữ liệu-Mô hình quan niệm về xử lí.
-Mức tổ chức-Mô hình tổ chức về dữ liệu-Mô hình tổ chức về xử lí
-Mức vật lí-Mô hình vật lí về dữ liệu- Mô hình vật lý về xử lí
-17. Trình bày khái niệm và các thành phần của biểu đồ BFD?
-- Mục đích của việc phân tích chức năng là xác định một cách chính xác và cụ thể các chức năng chính của hệ thống quản lý mà chúng ta sẽ tiên hành xây dựng phân mêm. Trong giai đoạn phân tích chức năng, người ta phải xác định một cách rõ ràng những gì mà hệ thống sẽ phải thực hiện mà chưa quan tâm tới phương pháp thực hiện các chức năng ấy. Biểu đồ BFD (còn gọi là Sơ đồ BFD) là việc phân rã có thứ bậc đơn giản các chức năng của hệ thống trong thành các chức năng nhỏ hơn, cuối cùng thu được một cây chức năng hoàn chỉnh.
-- Biểu đồ BFD đầy đủ gồm những thành phần sau đây:
-+ Tên chức năng;
-+ Mô tả các chức năng;
-+ Đầu vào của chức năng;
-+ Đầu ra của chức năng.
-18. Trình bày ký pháp và đặc điểm của biểu đồ BFD?
-* Ký pháp:
-Kí hiệu chức năng là 1 hình chữ nhật bên trong là tên chức năng.
-Liên kết các chức năng là đường thẳng
-Tên chức năng là Động từ-Bổ ngữ và động từ nên ở dạng thức mệnh lệnh.
-* Đặc điểm:
-- Biểu đồ phân cấp chức năng - BFD có các đặc điểm sau:
-+ BFD cung cấp cách nhìn tổng quát về chức năng của hệ thống, phạm vi cần phân tích+ BFD trình bày các chức năng của hệ thống ở dạng tĩnh, tức là không thể hiện được mối quan hệ về chuyển giao thông tin giữa các chức năng, không thể hiện trình tự thực hiện xử lý thông tin.
-+ BFD thường được sử dụng để bổ trợ cho việc xây dựng biểu đồ luồng dữ liệu DFD.
-+ Chất lượng của tên đặt cho các chức năng là quan trọng cho thành công của hệ thống.
-Mỗi chức năng cần có 1 tên duy nhất, tên nên biểu thị thật sát và đầy đủ ý nghĩa của các chức năng con của chức năng được đặt tên. Tên của chức năng cần phải phản ánh được các chức năng của thế giới thực chứ không chỉ cho hệ thống thông tin.
-+ Biểu đồ BFD rất gần với sơ đồ tổ chức, tuy nhiên không nên nhầm lẫn giữa hai loại biểu đồ này.
-Trình tự xây dựng biểu đồ chức năng BFD theo các bước sau:
-+ Xem cả hệ thống là một chức năng duy nhất, còn gọi là mức 0;
-+ Phân rã khối chức năng ở mức trên thành các chức năng nhỏ hơn ở mức dưới, lần lượt đánh số là mức 1, mức 2,...
 
-19. Trình bày khái niệm và các ký pháp của biểu đồ ngữ cảnh?
-* Khái niệm
-- Biêu đô ngữ cảnh (Context Diagram) thường được xây dựng ở giai đoạn đầu tiên của quá trình phân tích và được dùng để vạch ra biên giới của hệ thống cũng như để phân tích viên hệ thống xem xét mọi tham số ở bên ngoài hệ thống. Chúng ta cũng có thể dùng biểu đồ này như mức cao nhất có thể được của DFD, trong đó có thể đạt tới biểu đồ DFD mức 0 bằng cách phân rã chức năng quá trình trung tâm của biểu đồ ngữ cảnh
-* Ký pháp dùng trong biểu đồ ngữ cảnh:
-Toàn bộ hệ thống đang nghiên cứu: Hình oval bên trong là Tên hệ thống
-Các tác nhân bên ngoài tham gia: Hình chữ nhật bên trong là Tên tác nhân
-Các dòng thông tin đi vào và đi ra của hệ thống: Mũi tên
-- Như vậy, trong mỗi biểu đồ ngữ cảnh sẽ có một vòng tròn quá trình trung tâm biểu thị cho toàn bộ hệ thống đang nghiên cứu. Vòng tròn này được bao quanh bởi các tác nhân bên ngoài của hệ thống được biểu diễn bằng các hình chữ nhật. Các dòng thông tin đi vào và đi ra khỏi hệ thống từ các tác nhân được biểu diễn bằng các mũi tên định hướng đi vào và đi ra.
-20. Trình bày khái niệm và các ký pháp của biểu đồ DFD?
-* Khái niệm
-- Biểu đồ dòng dữ liệu DFD là một công cụ dùng để mô hình hóa hệ thống thông tin. Nó trợ giúp cho các hoạt động phân tích, thiết kế, biểu diễn hồ sơ trong quy trình sản xuất phần mềm.
-- Trong công đoạn phân tích, biểu đồ DFD được dùng để xác định yêu cầu của người sử dụng. Trong công đoạn thiết kế DFD được dùng để vạch kế hoạch và minh họa các phương án cho phân tích viên hệ thống và người dùng khi thiết kế hệ thống mới. Trong công đoạn soạn thảo tài liệu hệ thống, biểu đồ DFD là công cụ đơn giản, dễ hiểu đối với phân tích viên hệ thống và người dùng để biểu diễn tài liệu phân tích hệ thống một cách đầy đủ, súc tích và ngắn gọn.
-- Như vậy, biểu đồ DFD cung cấp cho phân tích viên hệ thống một cái nhìn tổng thể về hệ thống và cơ chế lưu chuyển thông tin trong hệ thống ấy. Biểu đồ DFD xác định các thông tin luân chuyển từ một quá trình hoặc từ chức năng này trong hệ thống sang một quá trình hoặc chức năng khác. Điều quan trọng nhất là nó chỉ ra phải có săn những thông tin nào trước khi thực hiện một chức năng hay một quá trình nào đó.
-* Các ký pháp
-- Để biểu diễn biểu đồ BFD người ta sử dụng một số ký hiệu quy ước được gọi là các ký pháp của DFD. Ký pháp của DFD bao gồm bốn ký hiệu là: nguồn hoặc đích, tên dòng dữ liệu, tiến trình xử lý, kho dữ liệu. Các ký hiệu này được biểu diễn trong hình sau đây:
-Tác nhân, nguồn hoặc đích: Hình chữ nhật bên trong là Tên tác nhân
-Quá trình hay chức năng: Hình oval bên trong là tên chức năng.
-Luồng dữ liệu: Mũi tên và trên mũi tên có ghi luồng dữ liệu
-Kho dữ liệu: 2 đường thẳng song song và ở giữa là Tên kho dữ liệu
-21. Trình bày những điểm cần chú ý trong biểu đồ DFD?
-*Không mô tả xử lý logic — chỉ mô tả dòng dữ liệu
-DFD tập trung vào dữ liệu đi đâu, đến ai, và được xử lý ở mức nào, không mô tả thuật toán hay quy trình chi tiết.
-* Mỗi tiến trình (process) phải có ít nhất một đầu vào và một đầu ra
-Không được để tiến trình “tự sinh ra dữ liệu” hoặc “tự mất dữ liệu”.
-* Luồng dữ liệu phải được đặt tên rõ ràng
-Tên luồng dữ liệu phải thể hiện bản chất thông tin (ví dụ: “Thông tin khách hàng”, “Yêu cầu đăng ký”, “Xác nhận đặt xe”).
-* Kho dữ liệu phải được truy cập thông qua tiến trình
-Không có luồng dữ liệu trực tiếp giữa:
-Tác nhân ngoài ↔ Kho dữ liệu
-Kho dữ liệu ↔ Kho dữ liệu
- Luồng dữ liệu phải đi qua process.
-* Mỗi kho dữ liệu phải có luồng vào và luồng ra
-Kho dữ liệu không được “đơn hướng”. Nếu có lưu thì phải có truy xuất.
-* Tác nhân ngoài (external entity) không được trao đổi trực tiếp với nhau
-Mọi trao đổi dữ liệu phải thông qua process.
-* Tính cân bằng (balancing) giữa các mức DFD
-Khi từ DFD mức 0 → mức 1, các luồng dữ liệu vào/ra của tiến trình cha phải được giữ nguyên ở tiến trình con.
- Không được tự ý thêm hoặc bớt dòng dữ liệu.
-* Không được vẽ luồng dữ liệu vòng qua process
-Mọi luồng dữ liệu phải đi theo hướng rõ ràng, không quay lại chính nó nếu không qua kho hoặc luồng xử lý hợp lệ.
-* Đặt tên tiến trình bằng động từ + bổ ngữ
-Ví dụ:
-“Xử lý yêu cầu đặt xe”
-“Quản lý tài xế”
-“Cập nhật hồ sơ khách hàng”
-*Mỗi tiến trình trong DFD mức 0 không được quá phức tạp
-Nếu một tiến trình quá nhiều chức năng → phải phân rã thành DFD mức 1.
-*Biểu đồ phải rõ ràng, không rối và luồng dữ liệu không chéo không cần thiết
-Quan trọng trong bài nộp để giảng viên chấm dễ.
-22. Trình bày về phân rã biểu đồ DFD?
-- Như vậy, khi sử dụng phương pháp phân rã biểu đồ luồng dữ liệu DFD mức đình chúng ta thu được nhiều mức DFD khác nhau, từ mức tổng quát nhất đến các mức ngày càng chi tiết hơn. Điều này cũng tương tự như bản vẽ thiết kế một tòa nhà của một kiến trúc sư. Mức tổng quát đầu tiên là phối cảnh hình ảnh của ngôi nhà tương lai. Sau đó, dữ liệu được phân mức thành bản vẽ thiết kế từng tầng. Bước phân mức tiếp theo là trong mỗi tầng được phân mức thành các bản vẽ thiết kế chi tiết hơn như thiết kế sản, thiết kế dầm chịu lực.
--Trong quá trình phân rã DFD, chúng ta cần phải cho mỗi trang của biểu đồ DFD một tiêu đề riêng. Trong trường hợp sơ đồ mức 0, tiêu đề sẽ là tên của toàn bộ hệ thống, và tiêu đề cho từng mức thấp hơn sẽ mang tên của quá trình đang triển khai. Trong cách tiếp cận này, mỗi quá trình ở biểu đồ mức đỉnh đều được gắn với một con số cụ thể, và sẽ được mang tiếp theo với các chỉ số chỉ mức phụ thuộc, xem như một cách đặt tên theo con số cho từng quá trình con của nó.
-Ví dụ: Mức 0, Mức 1, Mức 2, Mức 3, Mức 4
-Trong DFD của mức 1 ta lại có: Mức 1.1, Mức 1.2, Mức 1.3
-23. Trình bày về kiến trúc phần mềm và cho ví dụ?
-- Kiến trúc phần mềm (Software Architecture) chỉ một cấu trúc tổng thể của phần mêm và qua đó cung cấp một sự tích hợp về mặt khái niệm của một hệ thống.
-- Kiến trúc phần mềm có vai trò rất quan trọng trong kỹ nghệ phần mêm vì:
-+ Kiến trúc phần mềm là công cụ giao tiếp giữa những người có liên quan trong quy trình sản xuât phân mêm.
-+ Kiến trúc phân mêm là cơ sở để tiên hành phân tích hệ thống.
-+ Kiến trúc phân mêm là cơ sở để sử dụng lại phân mêm cho các hệ thông có yêu câu tương tự.
-Ví dụ: Phần mềm thẩm định khoản vay đối với khách hàng doanh nghiệp lớn.
-Quản trị hệ thống: Quản lí hệ thống, quản lí người dùng
-Quản lí danh mục: Quản lí cán bộ, quản lí chi nhánh, quản lí khách hàng
-Quản lí tài liệu: Quản lí hồ sơ cho vay, quản lí văn bản chế độ
-Thẩm định hồ sơ cho vay: Nhập thông tin khoản vay, đối chiếu với quy định cho vay, thông báo kết quả thẩm định.
-Báo cáo: Lựa chọn báo cáo, hiển thị báo cáo
-Tìm kiếm: Đưa ra tiêu chí tìm kiếm, hiển thị kết quả tìm kiếm
-24. Trình bày nguyên tắc thiết kế giao diện và trình bày thông tin trên màn hình.
-- Các nguyên tắc thiết kế giao diện:
-+ Khuôn dạng màn hình nhập liệu phải được thiết kế giống như khuôn dạng của tài liệu gốc. Không yêu cầu người sử dụng phải ghi nhớ thông tin từ màn hình này sang màn hình khác.
-+ Nên nhóm các trường thông tin trên màn hình theo một trật tự có ý nghĩa tự nhiên, theo tần số sử dụng, theo chức năng hoặc tầm quan trọng.
-+ Không bắt người dùng phải nhập các thông tin thứ sinh, tức là những thông tin có thể tính toán được hoặc suy luận được từ những thông tin đã có.
-+ Tự động cập nhật những giá trị ngầm định nếu có thể.
-+ Sử dụng phím Tab, phím Enter để chuyển đến các trường thông tin tiếp theo.
-- Nguyên tắc trình bày thông tin trên màn hình
-+ Về mặt từ ngữ: Mỗi thực đơn phải có tiêu đề rõ nghĩa, từ mục phải mô tả rõ chức năng sẽ được thực hiện.
-+ Về mặt tổ chức: Người thiết kế phải phân các thực đơn thuộc cùng một nhóm chức năng vào những mục riêng.
-+ Về mặt kích thước và hình thức: Số lượng các mục trên thực đơn không nên vượt quá chiều dài màn hình. Người thiết kế có thể sử dụng thực đơn nhiều cấp để thay thế những thực đơn quá dài. Thực đơn có sử dụng tiếng Việt có dấu và có định nghĩa phím tắt tạo điều kiện khi sử dụng.
-25. Nêu các nội dung cần có của Trang nhan đề, mục lục, tóm tắt hệ thống, tài liệu ra của Tài liệu thiết kế phần mềm.
-* Nội dung chính của tài liệu thiêt kê bao gồm các mục sau đây:
-a. Trang nhan đề: Phần này trình bày các thông tin về: tên phần mềm, tên tác giả, nơi làm việc của tác giả, ngày xuất bản.
-b. Mục lục: Phần này trình bày nội dung các chương mục chính của tài liệu.
-c. Tóm tắt hệ thống: Phần này trình bày một cách ngắn gọn các vấn đề chủ yếu của phần mềm.: Quy trình thao tác của hệ thống, Mô tả toàn bộ hệ thống, Mô tả hoạt động cho các bộ phận liên quan, Kiểm soát phần mềm, Tài liệu đầu vào cho máy tính, Thiết kế giao diện màn hình, Mô tả cách sử dụng, Quy tắc hoàn chỉnh mỗi trường, Cách sửa chữa do nhầm lẫn được ghi chú, Giải thích thông báo lỗi trong chương trình
-d. Tài liệu ra: Đối với mỗi báo cáo ở đầu ra: Mô tả về xuất xứ, Mô tả cách sử dụng, Giải thích từng trường một, Giải thích thông báo lỗi, Sửa các lỗi một cách có hiệu quả, Tài liệu phi máy tính,
-Đối với mỗi tài liệu: Thí dụ băng những mô tả, Xử lý các dữ liệu sai
-26. Nêu các nội dung cần có của Các lưu đồ hệ thống, Các tiến trình máy tính, tài nguyên máy tính, tài liệu input của Tài liệu thiết kế phần mềm
- a. Các lưu đồ hệ thống:
-- Các sơ đồ dòng dữ liệu và lưu đồ hệ thống
-- Từ vựng thuật ngữ (Từ điển thuật ngữ)
-- Giải thích các thuật ngữ kỹ thuật cần thiết; tên các quá trình máy tính (chương trình...);
-- Danh sách gợi ý nội dung Tài liệu vận hành
-b. Các tiến trình máy tính:
-- Đối với mỗi tiến trình cần đưa ra các thông tin cần thiết sau đây:Mô tả tiên trình, Tham khảo dữ liệu input và output, Tham khảo các chương trình, Giải thích các thông báo
-- Tài nguyên máy tính: Dung lượng bộ nhớ (Cực đại/ Cực tiểu), Khối lượng (Đầu vào/ Đầu ra/ Lưu trữ), Ngoại vi, Tham khảo các tệp, Thời gian chạy, Phân cấp các mức ưu tiên
-- Tài liệu input: Nguồn gốc của các dữ liệu input, Các thủ tục kiểm tra dữ liệu vào, Kiểm soát dữ liệu vào, Thời gian biểu (số lượng đến, thời gian nhập), Nơi nhận tài liệu vào
+1. Hai danh mục chính của thiết bị I/O
+Hai danh mục chính của thiết bị I/O được mô tả là Thiết bị Khối (Block Device) và Thiết bị Ký tự (Character Device).
+Thuộc tính thiết yếu phân biệt chúng là cách chúng lưu trữ và truyền thông tin: Thiết bị Khối lưu trữ thông tin theo các khối có kích thước cố định, có thể đọc và ghi độc lập (có địa chỉ). Ngược lại, Thiết bị Ký tự giao nhận một luồng ký tự mà không có cấu trúc khối, không có địa chỉ và không có thao tác tìm kiếm (seek operation).
+2. Khái niệm I/O ánh xạ bộ nhớ (Memory-Mapped I/O)
+I/O ánh xạ bộ nhớ (Memory-Mapped I/O) là một cơ chế I/O trong đó các thanh ghi điều khiển thiết bị và bộ đệm dữ liệu được ánh xạ vào không gian địa chỉ bộ nhớ chính. Điều này cho phép chúng được truy cập bằng các lệnh tham chiếu bộ nhớ tiêu chuẩn.
+Một lợi thế của phương pháp này so với việc sử dụng không gian cổng I/O riêng biệt là nó không yêu cầu các lệnh I/O đặc biệt; thay vào đó, các lệnh bộ nhớ hiện có có thể được sử dụng.
+3. Truy cập Bộ nhớ Trực tiếp (DMA)
+Truy cập Bộ nhớ Trực tiếp (DMA) là một cơ chế trong đó một bộ điều khiển phần cứng chuyên dụng chuyển các khối dữ liệu giữa thiết bị I/O và bộ nhớ chính với sự can thiệp tối thiểu của CPU.
+Ưu điểm chính của DMA so với I/O điều khiển bằng ngắt là nó chỉ tạo ra một ngắt khi toàn bộ quá trình truyền hoàn tất. Điều này giúp giảm thiểu sự can thiệp của CPU, cho phép CPU được giải phóng để thực hiện công việc khác.
+4. Bốn thuộc tính của ngắt chính xác (Precise Interrupt)
+Bốn thuộc tính của một ngắt chính xác (precise interrupt) là:
+•	Tất cả các lệnh trước Thanh ghi đếm chương trình (PC) đã hoàn thành.
+•	Không có lệnh nào sau PC đã hoàn thành.
+•	Trạng thái của lệnh tại PC đã được biết.
+Ngắt không chính xác (imprecise interrupts) gây ra vấn đề cho các lập trình viên hệ điều hành vì chúng không để lại máy tính trong một trạng thái xác định rõ ràng. Các lệnh xung quanh PC có thể đang ở các giai đoạn hoàn thành một phần khác nhau, khiến hệ điều hành khó xác định được điều gì đã xảy ra và phải làm gì tiếp theo.
+5. Nguyên tắc cốt lõi của "độc lập thiết bị"
+Nguyên tắc cốt lõi của "độc lập thiết bị (device independence)" là các chương trình nên có khả năng truy cập bất kỳ thiết bị I/O nào mà không cần phải chỉ định thiết bị đó trước. Hệ điều hành sau đó sẽ xử lý các khác biệt cụ thể giữa các thiết bị.
+6. Bốn lớp của hệ thống phần mềm I/O
+Bốn lớp của hệ thống phần mềm I/O, từ phần cứng lên đến cấp người dùng, bao gồm:
+1.	Trình điều khiển thiết bị (Device Driver): Mã cụ thể cho thiết bị, nhận các yêu cầu trừu tượng từ phần mềm độc lập với thiết bị và ban hành các lệnh cụ thể đến bộ điều khiển thiết bị.
+2.	Phần mềm độc lập với thiết bị (Device-Independent Software): Cung cấp giao diện chung cho tất cả các trình điều khiển thiết bị, thực hiện các chức năng chung như đệm (buffering) và cấp phát lỗi.
+3.	Phần mềm không gian người dùng (User-Space Software): Bao gồm các chương trình như Spooling và các thư viện I/O.
+4.	Giao diện người dùng (User Interface): Bao gồm các giao diện cấp cao như GUI (Graphical User Interface).
+7. RAID và sự khác biệt giữa RAID cấp 0 và cấp 1
+RAID (Redundant Array of Independent Disks) là một phương pháp kết hợp nhiều ổ đĩa vật lý thành một đơn vị logic duy nhất để cải thiện hiệu suất, độ tin cậy hoặc cả hai.
+Sự khác biệt cơ bản là:
+•	RAID cấp 0 sử dụng kỹ thuật striping để phân phối dữ liệu trên nhiều ổ đĩa, cho phép hoạt động song song để tăng hiệu suất. Nó không cung cấp khả năng dự phòng.
+•	RAID cấp 1 sử dụng mirroring (ngầm định) để cung cấp độ tin cậy, trong đó dữ liệu được ghi lên hai ổ đĩa giống hệt nhau.
+8. Mục đích và cách hoạt động của "thuật toán thang máy" (Elevator Algorithm)
+Mục đích của "thuật toán thang máy (elevator algorithm)" là tối ưu hóa thời gian tìm kiếm (seek time) bằng cách lập lịch các yêu cầu truy cập đĩa. Thuật toán hoạt động bằng cách di chuyển tay đĩa theo một hướng, phục vụ tất cả các yêu cầu trên đường đi của nó. Khi tay đĩa đạt đến điểm cuối hoặc không còn yêu cầu nào ở hướng đó, nó sẽ đảo ngược hướng và tiếp tục phục vụ các yêu cầu theo hướng ngược lại.
+9. Khái niệm "lưu trữ ổn định" (Stable Storage)
+"Lưu trữ ổn định (Stable Storage)" là một cách triển khai phần mềm sử dụng một cặp đĩa giống hệt nhau.
+Thuộc tính mà nó đảm bảo cho các thao tác ghi, ngay cả khi xảy ra sự cố CPU, là thao tác ghi được đảm bảo sẽ hoàn thành một cách chính xác hoặc không làm gì cả, giữ nguyên dữ liệu ban đầu.
+10. "Chế độ thô" (Raw Mode) và "chế độ chính tắc/nấu" (Canonical/Cooked Mode)
+Trong ngữ cảnh phần mềm bàn phím, sự khác biệt giữa hai chế độ là:
+•	Chế độ thô (Raw Mode): Là chế độ nhập liệu theo ký tự, nơi trình điều khiển chấp nhận đầu vào và truyền nó lên chương trình mà không sửa đổi, bao gồm tất cả các phím thô và sửa lỗi.
+•	Chế độ chính tắc/nấu (Canonical/Cooked Mode): Là chế độ nhập liệu theo dòng, nơi trình điều khiển thiết bị xử lý tất cả các chỉnh sửa nội dòng (ví dụ: backspace, xóa dòng) và chỉ chuyển giao dòng đã được sửa chữa cuối cùng cho các chương trình người dùng.
+ACPI (Advanced Configuration and Power Interface)Một cơ chế phức tạp để quản lý nguồn điện, cho phép hệ điều hành gửi lệnh đến các trình điều khiển để báo cáo về khả năng của thiết bị và thay đổi mức năng lượng.
+Block Device (Thiết bị Khối)
+Một thiết bị I/O lưu trữ thông tin trong các khối có kích thước cố định, mỗi khối có địa chỉ riêng. Tất cả các lần truyền đều là đơn vị một hoặc nhiều khối, và mỗi khối có thể được đọc hoặc ghi độc lập. Ví dụ bao gồm ổ đĩa cứng và USB.
+Buffering (Bộ đệm)Một kỹ thuật được sử dụng bởi phần mềm I/O trong đó dữ liệu được lưu trữ tạm thời trong bộ nhớ (một bộ đệm) để xử lý sự không khớp về tốc độ giữa thiết bị và CPU, hoặc để tách rời tốc độ tạo dữ liệu khỏi tốc độ tiêu thụ. Bộ đệm có thể xảy ra trong không gian người dùng hoặc không gian kernel.
+Burst Mode (Chế độ truyền liên tục)Một hình thức hoạt động của DMA, trong đó bộ điều khiển DMA yêu cầu một thiết bị chiếm bus, thực hiện một loạt các lần truyền, và sau đó giải phóng bus. Nó hiệu quả hơn so với "Cycle Stealing" cho việc truyền nhiều từ.
+Canonical Mode (Chế độ Chính tắc)Còn được gọi là "chế độ nấu" (cooked mode), là chế độ nhập bàn phím theo dòng, trong đó trình điều khiển thiết bị xử lý tất cả việc chỉnh sửa nội dòng (ví dụ: backspace, xóa dòng) và chỉ chuyển giao dòng đã được sửa chữa cuối cùng cho các chương trình người dùng.
+Character Device (Thiết bị Ký tự)Một thiết bị I/O giao nhận một luồng ký tự mà không cần quan tâm đến bất kỳ cấu trúc khối nào. Nó không có địa chỉ và không có thao tác tìm kiếm (seek). Ví dụ bao gồm máy in, giao diện mạng và chuột.
+Cycle Stealing (Đánh cắp Chu kỳ)Một cơ chế trong DMA, trong đó bộ điều khiển thiết bị lén lút "đánh cắp" một chu kỳ bus không thường xuyên từ CPU để truyền một từ dữ liệu, làm chậm CPU một chút.
+Device Controller (Bộ điều khiển Thiết bị/Bộ điều hợp)Thành phần điện tử của một đơn vị I/O giao tiếp với hệ điều hành. Nó chuyển đổi luồng bit nối tiếp từ thiết bị thành một khối byte, thực hiện sửa lỗi và có các thanh ghi cho lệnh và trạng thái.
+Device Driver (Trình điều khiển Thiết bị)Mã cụ thể cho thiết bị, thường được viết bởi nhà sản xuất thiết bị, để điều khiển một thiết bị I/O. Nó chấp nhận các yêu cầu trừu tượng từ phần mềm độc lập với thiết bị và ban hành các lệnh cụ thể đến bộ điều khiển thiết bị.
+Device Independence (Độc lập Thiết bị)Một mục tiêu cốt lõi của phần mềm I/O, nghĩa là các chương trình có thể truy cập bất kỳ thiết bị I/O nào mà không cần phải chỉ định thiết bị đó trước. Hệ điều hành xử lý các khác biệt cụ thể giữa các thiết bị.
+DMA (Direct Memory Access - Truy cập Bộ nhớ Trực tiếp)Một cơ chế trong đó một bộ điều khiển phần cứng chuyên dụng truyền các khối dữ liệu giữa thiết bị I/O và bộ nhớ chính với sự can thiệp tối thiểu của CPU, chỉ tạo ra một ngắt khi toàn bộ quá trình truyền hoàn tất.
+Double Buffering (Bộ đệm Đôi)Một cơ chế bộ đệm sử dụng hai bộ đệm. Trong khi một bộ đệm đang được sử dụng cho I/O (ví dụ: được sao chép vào không gian người dùng), bộ đệm kia có thể được sử dụng để tích lũy dữ liệu mới, nhờ đó ngăn ngừa mất dữ liệu trong quá trình truyền.
+Elevator Algorithm (Thuật toán Thang máy)Một thuật toán lập lịch tay đĩa, trong đó tay đĩa di chuyển theo một hướng, phục vụ tất cả các yêu cầu trên đường đi của nó, cho đến khi nó đến cuối hoặc không còn yêu cầu nào ở hướng đó, lúc đó nó đảo ngược và phục vụ các yêu cầu theo hướng khác.
+GUI (Graphical User Interface - Giao diện Đồ họa Người dùng)Một giao diện dựa trên cửa sổ, biểu tượng, menu và một thiết bị trỏ (WIMP). Ngược lại với giao diện dòng lệnh, GUI thường được điều khiển bằng sự kiện.
+Imprecise Interrupt (Ngắt Không Chính xác)Một ngắt không để lại máy tính trong một trạng thái xác định rõ ràng. Các lệnh xung quanh bộ đếm chương trình (PC) có thể đang ở các giai đoạn hoàn thành một phần khác nhau, gây khó khăn cho hệ điều hành trong việc xác định điều gì đã xảy ra và phải làm gì tiếp theo.
+Interrupt Vector (Vector Ngắt)Một bảng trong bộ nhớ được CPU sử dụng để tìm địa chỉ của thủ tục dịch vụ ngắt chính xác. Số được cung cấp bởi bộ điều khiển ngắt được sử dụng làm chỉ mục vào bảng này để tìm nạp một bộ đếm chương trình mới.
+Memory-Mapped I/O (I/O Ánh xạ Bộ nhớ)Một cơ chế I/O trong đó các thanh ghi điều khiển thiết bị và bộ đệm dữ liệu được ánh xạ vào không gian địa chỉ bộ nhớ chính. Điều này cho phép chúng được truy cập bằng các lệnh tham chiếu bộ nhớ tiêu chuẩn.
+Polling (Busy Waiting - Chờ Bận)Một phương pháp được sử dụng trong I/O được lập trình, trong đó CPU liên tục kiểm tra trạng thái của một thiết bị I/O trong một vòng lặp chặt chẽ để xem thiết bị đã sẵn sàng cho thao tác tiếp theo chưa. Điều này làm CPU bị bận cho đến khi I/O hoàn tất.
+Precise Interrupt (Ngắt Chính xác)Một ngắt để lại máy tính trong một trạng thái xác định rõ ràng, đảm bảo tất cả các lệnh trước PC đã hoàn thành, không có lệnh nào sau PC đã hoàn thành và trạng thái của lệnh tại PC đã được biết.
+Programmed I/O (I/O được Lập trình)Hình thức I/O đơn giản nhất, trong đó CPU thực hiện tất cả công việc, di chuyển dữ liệu giữa bộ nhớ và thiết bị từng byte hoặc từng từ một, thường sử dụng polling để chờ thiết bị sẵn sàng.
+RAID (Redundant Array of Independent Disks - Mảng Đĩa Độc lập Dự phòng)Một phương pháp kết hợp nhiều ổ đĩa vật lý thành một đơn vị logic duy nhất để cải thiện hiệu suất, độ tin cậy hoặc cả hai. Các cấu hình khác nhau được gọi là các cấp độ RAID.
+Raw Mode (Chế độ Thô)Một chế độ nhập bàn phím theo ký tự, trong đó công việc của trình điều khiển là chấp nhận đầu vào và chuyển nó lên chương trình mà không sửa đổi, bao gồm tất cả các lần nhấn phím thô, lỗi và sửa lỗi.
+Soft Timers (Bộ hẹn giờ Mềm)Một cơ chế hẹn giờ dựa trên phần mềm tránh ngắt. Thay vào đó, ngay trước khi kernel trở về chế độ người dùng vì bất kỳ lý do gì (ví dụ: sau một lời gọi hệ thống), nó kiểm tra một đồng hồ thời gian thực để xem liệu bộ hẹn giờ mềm đã hết hạn chưa và nếu có, thực hiện sự kiện đã lên lịch.
+SpoolingMột cách giải quyết các thiết bị I/O chuyên dụng trong một hệ thống đa chương trình. Một quy trình ghi đầu ra của nó vào một tệp trong thư mục spooling đặc biệt, và một quy trình đặc biệt được gọi là daemon chịu trách nhiệm in các tệp từ thư mục đó.
+Stable Storage (Lưu trữ Ổn định)Một triển khai phần mềm sử dụng một cặp đĩa giống hệt nhau để tạo ra một hệ thống lưu trữ, trong đó thao tác ghi được đảm bảo hoặc hoàn thành chính xác hoặc không làm gì cả, giữ nguyên dữ liệu ban đầu, ngay cả khi xảy ra sự cố CPU.
+Striping (Chia Dải)Một kỹ thuật được sử dụng trong RAID, trong đó dữ liệu được phân phối trên nhiều ổ đĩa theo các đơn vị gọi là dải (strips). Điều này cho phép hoạt động song song, vì một yêu cầu cho một khối dữ liệu có thể được chia thành các yêu cầu đồng thời đến nhiều ổ đĩa.
+X Window System (Hệ thống Cửa sổ X)Một hệ thống cửa sổ di động, trong suốt mạng được sử dụng bởi hầu hết các hệ thống UNIX. Nó bao gồm một máy chủ X quản lý màn hình và thiết bị đầu vào, và các máy khách X (chương trình ứng dụng) giao tiếp với máy chủ thông qua giao thức X.
+`TỔNG HỢP LÝ THUYẾT HĐH
+
+Câu 2. Phân biệt tiến trình và luồng? Chỉ ra thách thức khi sử dụng luồng?
+Cơ sở so sánh	Tiến trình (Process)	Luồng (Thread)
+Định nghĩa	Là chương trình đang được thực thi.	Là 1 tiến trình con nhỏ có thể được quản lý độc lập bởi 1 bộ lập lịch.
+Thời gian chuyển đổi ngữ cảnh	Nhiều hơn vì chúng nặng hơn.	Ít thời gian hơn vì luồng nhẹ hơn tiến trình.
+Chia sẻ bộ nhớ	Hoàn toàn độc lập và không chia sẻ bộ nhớ.	Một luồng có thể chia sẻ một số bộ nhớ với luồng ngang hàng nó.
+Chia sẻ dữ liệu và mã lệnh	Dữ liệu và đoạn mã độc lập.	Chia sẻ phân đoạn dữ liệu/phân đoạn mã, tệp,... với các luồng ngang hàng.
+Tiêu thụ tài nguyên	Nhiều hơn	Ít hơn
+Thời gian cần thiết để tạo	Nhiều hơn	Ít hơn
+Thời gian cần thiết để chấm dứt	Nhiều hơn	Ít hơn
+Hiệu quả về giao tiếp	Thấp hơn	Cao hơn
+Hoạt động khi một thành phần bị chặn	Nếu 1 tiến trình bị chặn, các tiến trình còn lại có thể tiếp tục được thực thi.	Nếu 1 luồng cấp người dùng bị chặn, tất cả các luồng ngang hàng cũng bị chặn.
+Chậm trễ ổn định	Tiến trình bị mất	Luồng có thể được phục hồi
+
+
+Thách thức đối với người phát triển ứng dụng khi sử dụng luồng:
+•	Đồng bộ hoá: Khi sử dụng luồng, nhiều luồng có thể truy cập vào các tài nguyên chung, điều này có thể dẫn đến sự cạnh tranh, xung đột trong quá trình thực thi. Cần sử dụng các công cụ đồng bộ hoá để đảm bảo các luồng được thực thi một cách đồng bộ, an toàn.
+•	Quản lý tài nguyên: Khi sử dụng nhiều luồng, cần quản lý tài nguyên để đảm bảo các luồng không cùng truy cập vào tài nguyên chung cùng một lúc $\rightarrow$ gây ra sự cố, làm giảm hiệu suất của ứng dụng.
+•	Quá tải luồng: Việc sử dụng quá nhiều tài nguyên luồng có thể làm giảm hiệu suất do chi phí đồng bộ hóa và chia sẻ tài nguyên giữa các luồng.
+•	Xử lý lỗi và Debug: Khi sử dụng nhiều luồng, việc xử lý lỗi và debug sẽ phức tạp hơn do các luồng có thể gây ra lỗi hoặc xung đột.
+•	Tính tương thích: Làm giảm tính tương thích do nền tảng của ứng dụng. Việc điều khiển luồng có thể khác nhau trên các hệ thống khác nhau.
+
+Câu 1. Deadlock là gì? Các điều kiện xảy ra Deadlock?
+•	Deadlock là tình trạng mà hai hoặc nhiều tiến trình hoặc luồng đang chờ đợi tài nguyên mà các tiến trình khác đang sử dụng, trong khi các tiến trình đang giữ các tài nguyên mà các tiến trình khác cần. Kết quả là các tiến trình sẽ bị treo và không thể tiếp tục thực hiện.
+•	Deadlock có thể xảy ra khi các tiến trình hoặc luồng cùng cạnh tranh sử dụng các tài nguyên hệ thống, và không có cơ chế quản lý tài nguyên đảm bảo rằng các tài nguyên sẽ được sử dụng đúng cách.
+•	Các yếu tố gây ra deadlock gồm có: đối tượng tài nguyên bị chiếm giữ, yêu cầu các tài nguyên cùng mức ưu tiên, tiến trình không giải phóng tài nguyên khi đã sử dụng xong, và vòng lặp phụ thuộc tài nguyên.
+•	Giải quyết vấn đề bế tắc theo cách:
+- Ngăn ngừa (deadlock prevention): đảm bảo để một trong bốn điều kiện xảy ra bế tắc không bao giờ thỏa mãn
+- Phòng tránh (deadlock avoidance): cho phép một số điều kiện bế tắc được thỏa mãn nhưng đảm bảo để không đạt tới điểm bế tắc
+- Phát hiện và giải quyết (deadlock detection): cho phép bế tắc xảy ra, phát hiện bế tắc và khôi phục hệ thống về tình trạng không bế tắc
+Câu 3. Đồng bộ hoá tiến trình là gì, sao phải đồng bộ hóa tiến trình, phân biệt semaphore và mutex
+1. Đồng Bộ Hóa Tiến Trình (Process Synchronization)
+Đồng bộ hóa tiến trình là việc đảm bảo các tiến trình có thể hoạt động đồng bộ, theo cùng một trật tự logic, tránh xung đột với nhau.
+Có 3 lý do chính phải đồng bộ hóa tiến trình:
+1.	Tránh xung đột tài nguyên: Đồng bộ hóa giúp đảm bảo chỉ có 1 tiến trình truy xuất tài nguyên tại một thời điểm.
+2.	Đảm bảo tính nhất quán của dữ liệu: Đồng bộ hóa giúp việc đọc/ghi dữ liệu ra theo trật tự logic khi nhiều tiến trình đọc ghi cùng 1 dữ liệu.
+3.	Đảm bảo độ ưu tiên giữa các tiến trình: Đồng bộ hóa cho phép tiến trình có độ ưu tiên cao hơn thực hiện trước.
+2. Semaphore và Mutex (Các Công cụ Đồng bộ hóa)
+Semaphore
+•	Định nghĩa: Dùng để đồng bộ hóa truy cập tài nguyên hạn chế. Là một biến có giá trị phi trồng âm, được dùng để đồng bộ hóa nhiều luồng tiến trình.
+•	Hoạt động: Khi một tiến trình truy cập vào phần tài nguyên được bảo vệ bởi semaphore, nó sẽ giảm giá trị của semaphore đi 1. Tiến trình khác phải đợi semaphore $> 0$ mới được truy cập.
+Mutex
+•	Định nghĩa: Là một khóa lập trình được dùng để bảo vệ tài nguyên tránh các truy cập đồng thời. Chỉ một luồng được phép sở hữu một mutex tại một thời điểm.
+•	Hoạt động: Khi một tiến trình muốn truy cập tài nguyên được bảo vệ bởi mutex, nó sẽ yêu cầu khóa mutex. Sau đó giải phóng nếu không sử dụng nữa
+
+
+Câu 4. Nêu ưu nhược điểm, ví dụ của RAID 0, RAID 1, RAID 5, RAID 10
+RAID 0:
+Ưu điểm: Tốc độ đọc ghi nhanh ( theo lý thuyết có thể gấp đôi bình thường khi 2 ổ cùng kết hợp).
+Nhược điểm: tiềm ẩn rủi ro về dữ liệu. Lý do dữ liệu được chia đôi lưu trên 2 ổ đĩa.Trường hợp 1 trong 2 ổ đĩa bị hỏng thì nguy cơ mất dữ liệu rất cao. Về ổ cứng yêu cầu phải 2 ổ cùng dung lượng, nếu 2 ổ khác dung lượng thì lấy ổ thấp nhất.
+Đối tượng sử dụng: Thích hợp với những dịch vụ cần lưu trữ và truy xuất với tốc độ cao. Chẳng hạn như dịch vụ video streaming, chạy cơ sở dữ liệu... Khuyến nghị nên có phương án backup dữ liệu cần thận, không nên áp dụng cho hệ thống yêu cầu tính bảo đảm dữ liệu cao.
+RAID 1:
+Ưu điểm: An toàn về dữ liệu, trường hợp 1 trong 2 ổ đĩa bị hỏng thì dữ liệu vẫn có khả năng đáp ứng dịch vụ.
+Nhược điểm: Hiệu suất không cao, Nâng cao chi phí (giả sử khách hàng sử dụng 2 ổ cứng 500GB. Khi sử dụng Raid 1 thì dung lượng lưu trữ có thể sử dụng chỉ được 500GB). Về ổ cứng yêu cầu phải 2 ổ cùng dung lượng, nếu 2 ổ khác dung lượng thì lấy ổ thấp nhất.
+Đối tượng sử dụng: Các dịch vụ lưu trữ, các website vừa và nhỏ không yêu cầu quá cao về tốc độ đọc ghi (in/out) của ổ cứng. Các đối tượng yêu cầu sự an toàn về dữ liệu như các dịch vụ kế toán,lưu trữ thông tin khách hàng, bất động sản v.v…
+RAID 5:
+Ưu điểm: Nâng cao hiệu suất, an toàn dữ liệu, tiết kiệm chi phí hơn so với hình thức lưu trữ Raid 10.
+Nhược điểm: Chi phí phát sinh thêm 1 ổ so với hình thức lưu trữ thông thường. (tổng dung lượng ổ cứng sau cùng sẽ bằng tổng dung lượng đĩa sử dụng trừ đi 1 ổ. Giả sử bạn có 4 ổ 500GB thì dung lượng sử dụng sau cùng khi triển khai Raid 5 bạn chỉ còn 1500GB).
+Đối tượng sử dụng: Tất cả những website, dịch vụ, ứng dụng có số lượng truy cập và yêu cầu tài nguyên từ nhỏ đến vừa và lớn.
+RAID 10:
+Ưu điểm: Đây là 1 hình thức lưu trữ nhanh nhẹn và an toàn, vừa nâng cao hiệu suất mà lại đảm bảo dữ liệu không bị thất thoát khi 1 trong số 4 ổ cứng bị hỏng.
+Nhược điểm: Chi phí cao. Đối với Raid 10 dung lượng sẵn sàng sử dụng chỉ bằng ½ dung lượng của 4 ổ. (giống như raid 1).
+Đối tượng sử dụng: Raid 10 thích hợp với tất cả các đối tượng sử dụng (từ những yêu cầu về hiệu suất đến việc đảm bảo an toàn dữ liệu). Về ổ cứng yêu cầu phải 4 ổ cùng dung lượng, nếu 4 ổ khác dung lượng thì lấy ổ thấp nhất.
+1. Ba mục đích chính của một hệ điều hành là gì? - Giúp người dùng sử dụng một cách dễ dàng hơn - Tối ưu hóa sử dụng phần cứng,khai thác tối đa - Làm hệ thống máy tính sử dùng dễ dàng hơn
+2. Hệ thống có khả năng tương tác hiệu quả với người dùng là hệ thống nào? (Đơn chương, đa chương, chia thẻ thời gian) • Hệ thống chia sẻ thời gian
+3. Hệ thống được sử dụng trong các thiết bị chuyên dụng điều khiển máy móc là hệ thống nào (Đa chương, đa xử lý, thời gian thực, phân tán) • Hệ điều hành thời gian thực
+4. Hệ điều hành nào hỗ trợ tính toán hiệu năng cao (chia sẻ thời gian, xử lý song song, xử lý theo lô, thời gian thực) • Xử lí song song
+5. Hệ điều hành phát triển được chi phối bởi yếu tố gì? • chi phối bởi chỉ số H/P
+6. Trong một môi trường đa chương và chia sẻ thời gian, nhiều người dùng chia sẻ hệ thống đồng thời, điều này có thể mang đến những vấn đề gì? Chúng ta có thể đảm bảo mức độ bảo mật giống như trên các máy riêng lẻ không? • Không đảm bảo tính an toàn của hệ thống, không thể đảm bảo
+7. Hệ điều hành đã trải qua các giai đoạn phát triển nào? Thách thức và vấn đề của từng giai đoạn là gì? Trải qua 4 giai đoạn dựa vào chỉ số H/P : • Giai đoạn 1: Hệ thống hoạt động hết công suất • Giai đoạn 2: Đảm bảo dễ dàng cho người sử dụng và nhiều người tương tác • Giai đoạn 3: Giá thành rẻ và máy cấu hình thấp • Giai đoạn 4: kết nối máy tính với nhau và đảm bảo an toàn mới
+8. Hệ điều hành phải làm gì để khắc phục vấn đề về phần cứng, màn hình nhỏ… trên thiết bị di động • Thiết kế giao diện phù hợp, sử dụng phần cứng, tài nguyên và năng lượng được hiệu quả...
+9. Hệ điều hành trên máy tính MainFrame có các đặc tính gì? • Hoạt động trên máy tính có nhiều CPU, có bộ nhớ lớn có khả năng chia sẻ, có tính tin cậy và xử lí cao...
+10. Hệ điều hành thời gian thực có những loại gì? Đặc tính của từng loại? • Có 2 loại hard và soft
+11. Hệ điều hành có thể phân loại theo những tiêu chí nào? Mỗi cách phân loại có những loại hệ điều hành nào? Có thể phân loại theo: - Dựa trên quy mô hê thống máy tính (sever, PC, PDA, máy chuyên biệt…) - Dựa trên góc độ người sử dụng và một số chương trình dùng cùng lúc (đơn nhiệm một người dùng, đa nhiệm một người dùng, đa nhiệm nhiều người dùng) - Dựa theo hình thức xử lí (song song, phân tán…)
+12. Hệ thống đa chương là gì (multiprograming system) •Hệ thống đã chương cho phép nhiều chương trình tải cùng một thời điểm, hoạt động cùng một lúc, hệ thống có thể chia sẻ thời gian, chia sẻ CPU...
+13. Hệ thống chia sẻ thời gian là gì? (Timesharing System) • Hệ thống chia sẻ thời gian là hệ thống đa chương, đa nhiệm thực hiện nhiều công việc thông qua chuyển đổi CPU thời gian diễn ra rất nhanh.
+14. Lập lịch ưu tiên là gì? • Lập lịch ưu tiên là cho phép chương trình kết thúc việc thực hiện một chương trình khác hay 1 công việc tiến trình có thể ngắt để thực hiện chương trình khác
+15. Chế độ giám sát và chế độ người sử dụng giúp bảo vệ hệ thống như thế nào? • Chế độ giám sát những cái hoạt động quan trọng ảnh hưởng hhd dưới chế độ giám sát bảo vệ đc tài nguyên quan trọng của hệ thống
+16. Sự khác biệt giữa bẫy và ngắt là gì? Chức năng của chúng là gì?
+• Ngắt tạo ra ở phần mềm, bẫy phần cứng thực hiện một công việc nào đó. Tạo ra cho hđh có thể nhận biết đc những sự kiện.
+17. Chế độ đặc quyền là gì? Cho một ví dụ của lệnh đặc quyền. • Chế độ đặc quyền là có quyền truy cập đầy đủ không hạn chế tài nguyên của máy tính. VD: truy cập vào đĩa từ
+18. Đưa ra 2 lý do tại sao cache hữu ích. Nêu những vấn đề cache giải quyết. Nêu những vấn đề do cache gây ra?
+•Lợi ích: giúp giảm thời gian truy cập và tăng hiệu suất của CPU giải quyết vấn đề chenh lệch về tốc độ giao tiếp giữa cac phần với nhau.
+•Vấn đề gây ra hiện tuượng mất bố nhớ, tăng giá thành của hệ thống
+1. Kể tên 1 hệ thống chỉ cho phép một tiến trình thực thi tại một thời điểm thời gian? 1 hệ thống cho phép nhiều tiến trình thực thi đồng thời?
+• MS – DOS là hệ điều hành đơn nhiệm, mỗi lần chỉ thực hiện một chương trình tại một điểm thời gian
+• Windows, linux… là hệ điều hành đa nhiệm, có thể thực hiện đồng thời nhiều chương trình.
+2. Trong Unix, lời gọi hệ thống nào được sử dụng để tạo tiến trình. • Fork() được sử dụng để tạo tiến trình trong unix.
+3. Một tiến trình sẽ bị kết thúc trong các trường hợp nào?
+• Tiến trình tự kết thúc : Tiến trình kết thúc khi thực hiện lệnh cuối cùng của nó và yêu cầu hệ điều hành xoá mình đi, bằng cách sử dụng lệnh gọi hệ thống (system call) exit().
+• Tiến trình kết thúc do tiến trình khác có quyền kết thúc nó (VD tiến trình cha kết thúc tiến trình con).
++Gọi system routine abort với tham số là pid của tiến trình cần được kết thúc.
++Tiến trình cha kết thúc và kéo theo tất cả tiến trình con của nó đều kết thúc.
+• Hệ điều hành thu hồi tất cả các tài nguyên của tiến trình kết thúc (vùng nhớ, I/O buffer,...).
+• Tắt hệ thống: Nếu hệ thống bị tắt một cách đột ngột, tất cả các tiến trình đang chạy trên hệ thống sẽ bị kết thúc một cách đột ngột.
+4. Trạng thái Sẵn sàng của tiến trình là gì? • Ngay sau khi khởi tạo tiến trình, đưa tiến trình vào hệ thống và cấp phát đầy đủ tài nguyên (trừ processor) cho tiến trình, hệ điều hành đưa tiến trình vào trạng thái ready. Hay nói cách khác, trạng thái ready là trạng thái của một tiến trình trong hệ thống đang chờ được cấp processor để bắt đầu thực hiện.
+5. Các tiến trình liên lạc với nhau để làm gì? • Các tiến trình cần phải hợp tác và liên lạc với nhau là để chia sẻ thông tin, như dùng chung tập tin, bộ nhớ, hoặc hợp tác hoàn thành công việc.
+6. Khi mở một tab mới trên trình duyệt chrome, trình duyệt này có tạo ra tiến trình mới không? • Trình duyệt có tạo ra tiến trình mới.
+Khi mở một tab mới trên trình duyệt Chrome, trình duyệt sẽ tạo ra một tiến trình mới để quản lý tab đó.
+•	Tiến trình này được gọi là "tiến trình con" (child process).
+•	Nó được sử dụng để đảm bảo rằng các tab trong trình duyệt được quản lý độc lập nhau.
+•	Mục đích là để tránh ảnh hưởng đến nhau nếu một tab bị lỗi.
+
+8. Tại sao các hệ điều hành hiện đại hỗ trợ môi trường đa nhiệm ? • Các hệ điều hành hiện đại hỗ trợ môi trường đa nhiệm vì: tăng hiệu suất sử dụng CPU và tăng tốc độ xử lý.
+9. Sự khác biệt, mối quan hệ giữa tiến trình và tiểu trình ? Tiến trình là một bộ phận của chương trình đang thực hiện. Tiến trình là đơn vị làm việc cơ bản của hệ thống, trong hệ thống có thể tồn tại nhiều tiến trình cùng hoạt động, trong đó có cả tiến trình của hệ điều hành và tiến trình của chương trình người sử dụng. Các tiến trình này có thể hoạt động đồng thời với nhau. Các hệ điều hành hiện đại sử dụng mô hình đa tiểu trình, trong một tiến trình có thể có nhiều tiểu trình. Tiểu trình cũng là đơn vị xử lý cơ bản trong hệ thống, nó cũng xử lý tuần tự đoạn code của nó, nó cũng sở hữu một con trỏ lệnh, một tập các thanh ghi và một vùng nhớ stack riêng và các tiểu trình cũng chia sẻ thời gian xử lý của processor như các tiến trình. Các tiểu trình trong một tiến trình chia sẻ một không gian địa chỉ chung, điều này có nghĩa các tiểu trình có thể chia sẻ các biến toàn cục của tiến trình, có thể truy xuất đến stack của tiểu trình khác trong cùng tiến trình. Như vậy với mô hình tiểu trình, trong hệ thống có thể tồn tại nhiều dòng xử lý cùng chia sẻ một không gian địa chỉ bộ nhớ, các dòng xử lý này hoạt động song song với nhau.
+10. Tìm một số ứng dụng thích hợp với mô hình đa tiến trình; và một số ứng dụng thích hợp với mô hình đa tiểu trình.
+• Vd đa tiến trình: K công nhân để gửi trả ảnh đã chỉnh sửa về cho người dùng
+• Vd đa tiểu trình: một server quản lý tập tin thỉnh thoảng phải tự khóa để chờ các thao tác truy xuất đĩa hoàn tất.Nếu server có nhiều dòng xử lý, hệ thống có thể xử lý các yêu cầu mới trong khi một dòng xử lý bị khoá. Như vậy việc thực hiện chương trình sẽ có hiệu quả hơn. Điều này không thể đạt được bằng cách tạo hai tiến trình server riêng biệt vì cầnphải chia sẻ cùng một vùng đệm, do vậy bắt buộc phải chia sẻ không gian địa chỉ
+17. Phân biệt sự khác nhau trong cách tiếp cận để ưu tiên cho tiến trình ngắn trong các thuật toán điều phối sau :
+h) FIFO. Độ ưu tiên phục vụ tiến trình căn cứ vào thời điểm hình thành tiến trình. Hàng đợi các tiến trình được tổ chức theo kiểu FIFO. Mọi tiến trình đều được phục vụ theo trình tự xuất hiện cho đến khi kết thúc hoặc bị ngắt. Ưu điểm của thuật toán này là giờ CPU không bị phân phối lại (không bị ngắt) và chi phí thực hiện thấp nhất.
+i) RR Tương tự như định thời FIFO nhưng sự trưng dụng CPU được thêm vào để chuyển CPU giữa các quá trình. Hàng đợi sẳn sàng được xem như một hàng đợi vòng. Bộ định thời CPU di chuyển vòng quanh hàng đợi sẳn sàng, cấp phát CPU tới mỗi quá trình có khoảng thời gian tối đa bằng một định mức thời gian.
+j) Điều phối với độ ưu tiên đa cấp Danh sách sẵn sàng được phân tách thành các danh sách riêng biệt theo cấp độ ưu tiên, mỗi danh sách bao gồm các tiến trình có cùng độ ưu tiên và được áp dụng một giải thuật điều phối thích hợp để điều phối. Ngoài ra, còn có một giải thuật điều phối giữa các nhóm, thường giải thuật này là giải thuật không độc quyền và sử dụng độ ưu tiên cố định
+18. Giả sử một hệ điều hành áp dụng giải thuật điều phối multilevel feedback với 5 mức ưu tiên (giảm dần). Thời lượng quantum dành cho hàng đợi cấp 1 là 0,5s. Mỗi hàng đợi cấp thấp hơn sẽ có thời lượng quantum dài gấp đôi hàng đợi ứng với mức ưu tiên cao hơn nó. Một tiến trình khi vào hệ thống sẽ được đưa vào hàng đợi mức cao nhất, và chuyển dần xuống các hàng đợi bên dưới sau mỗi lượt sử dụng CPU. Một tiến trình chỉ có thể bị thu hồi CPU khi đã sử dụng hết thời lượng quantum dành cho nó. Hệ thống có thể thực hiện các tác vụ xử lý theo lô hoặc tương tác, và mỗi tác vụ lại có thể hướng xử lý hay hướng nhập xuất. a) Giải thích tại sao hệ thống này hoạt động không hiệu quả ? b) Cần phải thay đổi (tối thiểu) như thế nào để hệ thống điều phối các tác vụ với những bản chất khác biệt như thế tốt hơn ? Một số vấn đề liên quan đến việc hệ thống hoạt động không hiệu quả như: Thời gian chờ đợi tăng lên: Do thời lượng quantum tăng theo cấp độ ưu tiên, các tiến trình ở các hàng đợi ưu tiên thấp sẽ có thời gian chờ đợi lâu hơn để được thực thi. Điều này có thể dẫn đến tình trạng chậm trong việc hoàn thành các tiến trình, gây ra sự cản trở trong quá trình xử lý. Chậm trong việc đáp ứng yêu cầu nhập xuất: Với các tác vụ nhập xuất, việc sử dụng quantum có thể làm gián đoạn quá trình đọc ghi tệp hoặc các hoạt động nhập xuất khác. Điều này có thể gây ra chậm trong việc đáp ứng yêu cầu nhập xuất, ảnh hưởng đến trải nghiệm người dùng và hiệu suất của hệ thống
+7. Tại sao trong hệ thống sử dụng kỹ thuật phân trang, một tiến trình không thể truy xuất đến vùng nhớ không được cấp cho nó? Làm cách nào hệ điều hành có thể cho phép sự truy xuất này xảy ra ? Hệ điều hành có nên cho phép điều đó không ? Tại sao ?
+Phân trang là cơ chế quản lý bộ nhớ cho phép không gian địa chỉ vật lý của quá trình là không kề nhau. Phân trang tránh vấn đề đặt vừa khít nhóm bộ nhớ có kích thước thay đổi vào vùng lưu trữ phụ (backing store) mà hầu hết các cơ chế quản lý bộ nhớ trước đó gặp phải. Khi phân đoạn mã và dữ liệu nằm trong bộ nhớ được hoán vị ra, không gian phải được tìm thấy trên vùng lưu trữ phụ. Bộ nhớ vật lý được chia thành các khối có kích thước cố định gọi là các khung (frames). Bộ nhớ luận lý cũng được chia thành các khối có cùng kích thước gọi là các trang (pages). Khi một quá trình được thực thi, các trang của nó được nạp vào các khung bộ nhớ sẵn dùng từ vùng lưu trữ phụ. Vùng lưu trữ phụ được chia thành các khối có kích thước cố định và có cùng kích thước như các khung bộ nhớ. Phân trang là một dạng của tái định vị động. Mỗi địa chỉ luận lý được giới hạn bởi phần cứng phân trang tới địa chỉ vật lý. Sử dụng phân trang tương tự sử dụng một bảng các thanh ghi nền (hay tái định vị), một thanh ghi cho mỗi khung bộ nhớ. Một khía cạnh quan trọng của phân trang là sự phân chia rõ ràng giữa tầm nhìn bộ nhớ của người dùng và bộ nhớ vật lý thực sự. Chương trình người dùng nhìn bộ nhớ như một không gian liên tục, chứa chỉ một chương trình. Sự thật, chương trình người dùng được phân bố khắp bộ nhớ vật lý và nó cũng quản lý các quá trình khác. Sự khác nhau giữa tầm nhìnbộ nhớ của người dùng và bộ nhớ vật lý thực sự được làm cho tương thích bởi phần cứng dịch địa chỉ. Địa chỉ luận lý được dịch thành địa chỉ vật lý. Ánh xạ này được che giấu từ người dùng và được điều khiển bởi hệ điều hành. Như vậy, quá trình người dùng không thể truy xuất bộ nhớ mà nó không sở hữu. Không có cách định địa chỉ bộ nhớ bên ngoài bảng trang của nó và bảng chỉ chứa những trang mà quá trình sở hữu.
+10. Vì sao đôi lúc người ta kết hợp hai kỹ thuật phân trang và phân đoạn?
+Kết hợp phân trang và phân đoạn nhằm kết hợp các ưu điểm đồng thời hạn chế các khuyết điểm của phân trang và phân đoạn. Vấn đề của phân đoạn là nếu một đoạn quá lớn, có thể nó sẽ không nạp được vào bộ nhớ. Việc chia trang cho đoạn sẽ giải quyết vấn đề này một cách gọn gàng. Một khía cạnh quan trọng của việc quản lý bộ nhớ mà không thể tránh được với phân trang là ngăn cách tầm nhìn bộ nhớ của người dùng và bộ nhớ thật sự.
+9. Nếu cho phép hai phần tử trong bảng trang cùng lưu trữ một số hiệu khung trang trong bộ nhớ thì sẽ có hiệu quả gì ? Giải thích làm cách nào hiệu qủa này có thể được sử dụng để giảm thời gian cần khi sao chép một khối lượng lớn vùng nhớ từ vị trí này sang vị trí khác. Khi đó nếu sửa nội dung một trang thì sẽ tác động đến trang còn lại thế nào?
+- Kết hợp phân trang và phân đoạn nhằm kết hợp các ưu điểm đồng thời hạn chế các khuyết điểm của phân trang và phân đoạn. Vấn đề của phân đoạn là nếu một đoạn quá lớn, có thể nó sẽ không nạp được vào bộ nhớ. Việc chia trang cho đoạn sẽ giải quyết vấn đề này một cách gọn gàng. Một khía cạnh quan trọng của việc quản lý bộ nhớ mà không thể tránh được với phân trang là ngăn cách tầm nhìn bộ nhớ của người dùng và bộ nhớ thật sự.
+1. Giải thích sự khác biệt giữa địa chỉ logic và địa chỉ physic?
+- Địa chỉ logic (logic address): là vị trí nhớ được diễn tả trong một chương trình. Mọi tham chiếu bộ nhớ trong mã lệnh chương trình được compiler tạo ra đều là địa chỉ logic.
+- Địa chỉ vật lý (physic address): là một địa chỉ thực trong bộ nhớ chính. Địa chỉ vật lý được chuyển từ địa chỉ logic khi trình biên dịch thực hiện quá trình linking/loading.
+2. Giải thích sự khác biệt giữa hiện tượng phân mảnh nội vi và ngoại vi?
+•	Phân mảnh ngoại (external fragmentation): là hiện tượng khi kích thước không gian nhớ còn trống đủ để thỏa mãn yêu cầu cấp phát nhưng không gian nhớ này lại không liên tục. Hiện tượng phân mảnh ngoại xảy ra khi bạn thường xuyên cấp phát vùng nhớ mới, sau đó xóa đi những phần vùng nhớ đã cấp phát một cách không thứ tự.
+•	Phân mảnh nội (internal fragmentation): là hiện tượng sẽ có vùng nhớ dư thừa khi ta cấp phát một vùng nhớ hơi lớn hơn kích thước yêu cầu.
+11. Mô tả cơ chế cho phép một phân đoạn có thể thuộc về không gian điạ chỉ của hai tiến trình. Do bảng phân đoạn là tập hợp các thanh ghi nền và thanh ghi giới hạn (baselimit registẻ), một phân đoạn nào đó có thể được chia sẻ khi một mục trong bảng phân đoạn của 2 tiến trình khác nhau ánh xạ vào cùng một địa chỉ vật lí duy nhất. Các bảng phân đoạn của 2 tiến trình này cần có con trỏ nền cho mỗi bảng phân đoạn, và số hiệu đoạn cần chia sẻ cần giống nhau ở 2 tiến trình.
+12. Giải thích vì sao chia sẻ một module trong kỹ thuật phân đoạn lại dễ hơn trong kỹ thuật phân trang? Chia sẻ một module trong kĩ thuật phân đoạn dễ hơn trong kĩ thuật phân trang vì việc phân chia đoạn dựa trên phân chia logic bộ nhớ chứ không phải phân chia vật lí, một phân đoạn với bất kì kích thước nào cũng đều có thể chia sẻ chỉ với một mục trong bảng phân đoạn mục này không cần giống nhau ở các bảng bảng phân đoạn khác nhau. Ngược lại, trong kĩ thuật phân trang, để chia sẻ các trang thị số hiệu trang của trang cần chia sẻ cần phải giống nhau trong nhiều bảng trang khác nhau, tức là cần có 1 mục chung cho các bảng trang với mỗi trang cần chia sẻ.
+Câu 2: Phân biệt tiến trình và luồng, hãy chỉ ra thách thức đối với người phát triển ứng dụng khi sử dụng luồng?
+•	Tiến trình là sự thực thi của chương trình (tức là những hoạt động của chương trình đó).
+•	Luồng là một sự thực thi đơn lẻ có tuần tự bên trong tiến trình (tức là những nhiệm vụ mà tiến trình đó phải thực hiện).
+•	Một tiến trình có thể chứa nhiều luồng cũng như một chương trình có thể chứa nhiều tiến trình. Vậy nên có thể nói luồng là đơn vị nhỏ nhất trong một chương trình và đôi khi một luồng được xem như là một tiến trình nhỏ (tiểu trình) bên trong một tiến trình lớn. Hiểu được sự khác biệt này chúng ta có thể phân bố tốt chương trình để có thể giải quyết chương trình đó một cách tối ưu nhất.//
+Câu 5: Phân biệt phân mảnh nội vi và ngoại vi
+
+
+Phân mảnh nội vi (Internal Fragmentation)	Phân mảnh ngoại vi (External Fragmentation)
+Là hiện tượng sẽ có vùng nhớ dư thừa khi ta cấp phát một cùng bộ nhớ hơi lớn hơn kích thước yêu cầu.	Là hiện tượng khi kích thước không gian nhớ nhỏ còn trống đủ thỏa mãn yêu cầu cấp phát nhưng không gian nhớ này lại không liên tục.
+Ví dụ: Cấp một khoảng trống $24,484$ bytes cho một process yêu cầu $24,482$ bytes.	Hiện tượng phân mảnh ngoại vi xảy ra khi bạn thường xuyên cấp phát vùng nhớ mới, sau đó xóa đi những phần vùng nhớ đã cấp phát một cách không thứ tự.
+Hiện tượng phân mảnh nội vi thường xảy ra khi bộ nhớ được chia thành các khối kích thước cố định và các process được cấp phát theo đơn vị khối.
+
+
+Câu 6: Giải thích sự khác biệt giữa địa chỉ logic và địa chỉ physic?
+Địa chỉ logic	Địa chỉ Physic
+Là địa chỉ sinh bởi CPU, tham chiếu đến một vị trí độc lập với cấu trúc, tổ chức vật lý của bộ nhớ. Mọi tham chiếu bộ nhớ trong mã lệnh chương trình được compiler tạo ra đều là địa chỉ logic.
+VD: các tiến trình biên dịch tạo ra mã lệnh chương trình mà trong đó tham chiếu đến bộ nhớ đều là địa chỉ logic	Là địa chỉ sinh bởi đơn vị quản lý bộ nhớ MMU, là một địa chỉ thực trong bộ nhớ chính, địa chỉ Physic được chuyển từ địa chỉ logic khi trình biên dịch thực hiện quá trình linking/loading
+
+Câu 7: Phân biệt chương trình và tiến trình
+•	Chương trình hay còn gọi là phần mềm (software) là một tập hợp những câu lệnh được viết bằng một hoặc nhiều ngôn ngữ lập trình theo một trật tự xác định nhằm tự động thực hiện một số chức năng hoặc giải quyết một bài toán nào đó. Khi thực hiện các chỉ thị này,chương trình sẽ chuyển thành các tiến trình kèm theo các tài nguyên phục vụ cho hoạt động của process.
+•	Tiến trình là một thực thể điều khiển đoạn mã lệnh có riêng một không gian địa chỉ, có ngăn xếp (stack) riêng rẽ, có bảng chứa các số miêu tả file (file descriptor) được mở cùng tiến trình và đặc biệt là có một định danh PID (process identifier) duy nhất trong toàn bộ hệ thống vào thời điểm tiến trình đang chạy. Để hoàn thành công việc của 1 tiến trình cần các nguồn tài nguyên như:CPU,bộ nhớ chính ,các tệp tin và các thiết bị nhập xuất.
+
+Câu 8: Phân biệt Concurrency (đồng thời) và parallelism (song song)
+Concurrency và Parallelism đều giúp tăng hiệu quả xử lý của hệ điều hành, tuy nhiên chúng khác nhau về cách thức và mục đích sử dụng. Concurrency thực hiện đồng thời nhiều tác vụ trên cùng một bộ xử lý, trong khi Parallelism thực hiện nhiều tác vụ đồng thời trên nhiều bộ xử lý khác nhau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
